@@ -7,20 +7,15 @@ Each round will have a unique ID associated with a unique server ID. This will h
 <table>
   <thead>
     <tr>
-      <th align="left">Game mode name</th>
+      <th align="left">Game mode</th>
       <th align="left">Objective</th>
       <th align="left">Intro version</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Vs. Everyone</td>
-      <td>Damage the terrain as much as possible. The player that destroys the most wins the game.</td>
-      <td>v1.0.0</td>
-    </tr>
-    <tr>
-      <td>Vs. Teams</td>
-      <td>Damage the terrain as much as possible. The team that destroys the most wins the game.</td>
+      <td>Turf War</td>
+      <td>Damage the terrain as much as possible with destructive tools. The player or team that destroys the most wins the game.</td>
       <td>v1.0.0</td>
     </tr>
     <tr>
@@ -30,7 +25,3 @@ Each round will have a unique ID associated with a unique server ID. This will h
     </tr>
   </tbody>
 </table>
-
-## Special rounds
-Special rounds introduce a gimmick that modifies the chosen game mode. 
-* Spin a wheel that will randomly give a status effect to each team’s weapons. (Acid, fire, freezing, etc.)
