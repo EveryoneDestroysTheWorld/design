@@ -9,18 +9,21 @@ Each round will have a unique ID associated with a unique server ID. This will h
     <tr>
       <th align="left">Game mode</th>
       <th align="left">Objective</th>
+      <th align="left">Description</th>
       <th align="left">Intro version</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Turf War</td>
-      <td>Destroy as much terrain as possible. The player or team that destroys the most wins the game. Custom weapons allowed, but the player must find the materials required for them.</td>
+      <td>Destroy as much terrain as possible.</td>
+      <td>The player or team that destroys the most wins the game. Custom weapons allowed, but the player must find the materials required for them.</td>
       <td>v1.0.0</td>
     </tr>
     <tr>
       <td>Vs. Argnorac</td>
       <td>Use anything you got to try and defeat Argnorac, the Demon General.</td>
+      <td></td>
       <td>v1.1.0</td>
     </tr>
   </tbody>
