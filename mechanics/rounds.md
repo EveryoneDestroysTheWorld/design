@@ -27,6 +27,6 @@ Each round will have a unique ID associated with a unique server ID. This will h
   </tbody>
 </table>
 
-## Here's the Kicker
-“Here’s the Kicker” is a gimmick that modifies the chosen game mode. 
+## Special rounds
+Special rounds introduce a gimmick that modifies the chosen game mode. 
 * Spin a wheel that will randomly give a status effect to each team’s weapons. (Acid, fire, freezing, etc.)
