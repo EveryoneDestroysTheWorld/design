@@ -15,7 +15,7 @@ Each round will have a unique ID associated with a unique server ID. This will h
   <tbody>
     <tr>
       <td>Turf War</td>
-      <td>Destroy as much terrain as possible. Custom weapons allowed, but the player must find the materials required for them. The player or team that destroys the most wins the game.</td>
+      <td>Destroy as much terrain as possible. The player or team that destroys the most wins the game. Custom weapons allowed, but the player must find the materials required for them.</td>
       <td>v1.0.0</td>
     </tr>
     <tr>
