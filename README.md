@@ -2,7 +2,7 @@
 These are the design princples that the designers should go by for this game. All features should be based on these goals.
 * Make the player feel empowered.
 * Encourage the player to create.
-* Make it consistent across platforms (PC, mobile, console, etc.).
+* Ensure consistency across platforms (PC, mobile, console, etc.).
 * Make it fun for everyone, regardless of the player's experience.
 * Prioritize fairness over monetization.
 * Have a laugh.
