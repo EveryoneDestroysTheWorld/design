@@ -38,7 +38,17 @@
         <code>roundID</code>
       </td>
       <td>
-        <code>RoundMetadataObject</code>
+        <code>RoundMovementObject</code>
+      </td>
+    </tr>
+    <tr>
+      <td>RoundMovements/<code>roundID</code></td>
+      <td>No</td>
+      <td>
+        <code>playerID</code>/<code>1...n</code>
+      </td>
+      <td>
+        A list of HumanoidRootPart CFrame components, maximum 4 million characters per item
       </td>
     </tr>
   </tbody>
