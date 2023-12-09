@@ -28,3 +28,37 @@ If a game designer would like to change their focus area, they may edit this fil
     </tr>
   </tbody>
 </table>
+
+### 🔒 Access
+Teams that are not listed in this table may need some access to a specific part of the game design to complete their tasks. For example, a musician may need to know some context behind the song they will make. In this case, game designers or the executive producer will tell other teams what they need to know directly — without giving them access to this repository. 
+<table>
+  <thead>
+    <tr>
+      <th align="left">Permission</th>
+      <th align="left">People and teams</th>
+      <th align="left">Rationale</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Maintain</td>
+      <td>Executive Producer</td>
+      <td>To manage repository access.</td>
+    </tr>
+    <tr>
+      <td>Write</td>
+      <td>Game Designers</td>
+      <td>To easily edit game design files without pull requests.</td>
+    </tr>
+    <tr>
+      <td>Read</td>
+      <td>Director and Game Programmers</td>
+      <td>For guidance and to submit issues.</td>
+    </tr>
+    <tr>
+      <td>No access</td>
+      <td>Anyone else</td>
+      <td>To preserve security.</td>
+    </tr>
+  </tbody>
+</table>
