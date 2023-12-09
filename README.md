@@ -1,11 +1,11 @@
 ### 🥅 Design goals
 These are the design princples that the designers should go by for this game. All features should be based on these goals.
-* Create a game that makes the player feel like they are empowered.
-* Create a game that encourages the player to create.
-* Create a game that is consistent across platforms (PC, mobile, console, etc.).
-* Create a game that is fun for everyone, regardless of the player's experience.
-* Create a game that prioritizes fairness over monetization.
-* Create a game that makes you laugh.
+* Make the player feel empowered.
+* Encourage the player to create.
+* Make it consistent across platforms (PC, mobile, console, etc.).
+* Make it fun for everyone, regardless of the player's experience.
+* Prioritize fairness over monetization.
+* Have a laugh.
 
 ### 🎮 Game designers
 Each game designer has at least one specialty that they will focus on. Game designers can still contribute outside of their specialty, and proposed changes will be reviewed by all designers, regardless of their focus area. 
