@@ -31,10 +31,61 @@
         <code>ServerPlayerMetadataObject</code>
       </td>
     </tr>
+    <tr>
+      <td>Rounds</td>
+      <td>No</td>
+      <td>
+        <code>roundID</code>
+      </td>
+      <td>
+        <code>RoundMetadataObject</code>
+      </td>
+    </tr>
   </tbody>
 </table>
 
 ## JSON objects
+### `RoundMetadataObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>duration</td>
+      <td>The number of seconds that the round lasted.</td>
+    </tr>
+    <tr>
+      <td>type</td>
+      <td>
+        An integer, depending on the round's type.
+        <ol>
+          <li>Turf War</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>participantIDs</td>
+      <td>A list of player IDs.</td>
+    </tr>
+    <tr>
+      <td>stageID</td>
+      <td>The stage's ID.</td>
+    </tr>
+    <tr>
+      <td>serverID</td>
+      <td>The round's server ID.</td>
+    </tr>
+    <tr>
+      <td>timeStarted</td>
+      <td>Timestamp of the round start time.</td>
+    </tr>
+  </tbody>
+</table>
+
 ### `ServerMetadataObject`
 <table>
   <thead>
@@ -45,7 +96,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>openTime</td>
+      <td>timeStarted</td>
       <td>Timestamp of the server's opening.</td>
     </tr>
     <tr>
