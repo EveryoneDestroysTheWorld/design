@@ -20,7 +20,7 @@ If a game designer would like to change their focus area, they may edit this fil
   <tbody>
     <tr>
       <td>Christian "Sudobeast" Toney</td>
-      <td>Game modes/customization, matchmaking, items, and economy</td>
+      <td>Game modes/customization, matchmaking, items, data management, and economy</td>
     </tr>
     <tr>
       <td>Dylan "Quintt" Provenzano</td>
