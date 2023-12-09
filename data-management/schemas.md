@@ -12,13 +12,36 @@
     <tr>
       <td>Servers</td>
       <td>No</td>
-      <td>Variable: `serverID`</td>
-      <td>JSON object: `ServerObject`</td>
+      <td>
+        <code>serverID</code>
+      </td>
+      <td>
+        <code>ServerMetadataObject</code>
+      </td>
     </tr>
   </tbody>
 </table>
 
 ## JSON objects
+### `ServerMetadataObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>openTime</td>
+      <td>Timestamp of the server's opening.</td>
+    </tr>
+    <tr>
+      <td>duration</td>
+      <td>The number of seconds that the server lasted.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Variables
 <table>
@@ -30,8 +53,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>`ServerID`</td>
-      <td>The server's JobId. Can be found with `game.JobId`</td>
+      <td>
+        <code>serverID</code>
+      </td>
+      <td>The server's JobId. Can be found with <code>game.JobId</code></td>
     </tr>
   </tbody>
 </table>
