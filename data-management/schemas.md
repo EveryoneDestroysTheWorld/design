@@ -48,13 +48,47 @@
         <code>playerID</code>/<code>1...n</code>
       </td>
       <td>
-        A list of HumanoidRootPart CFrame components, maximum 4 million characters per item
+        A list of HumanoidRootPart CFrame components, maximum 4 million characters
+      </td>
+    </tr>
+    <tr>
+      <td>RoundItemActs/<code>roundID</code></td>
+      <td>No</td>
+      <td>
+        <code>playerID</code>/<code>1...n</code>
+      </td>
+      <td>
+        A list of <code>ItemActionObject</code>, maximum 4 million characters
       </td>
     </tr>
   </tbody>
 </table>
 
 ## JSON objects
+### `ItemActionObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>tick</td>
+      <td>Tick since round start.</td>
+    </tr>
+    <tr>
+      <td>itemID</td>
+      <td>The ID of the item used.</td>
+    </tr>
+    <tr>
+      <td>lookVector</td>
+      <td>The look vector CFrame of the mouse.</td>
+    </tr>
+  </tbody>
+</table>
+
 ### `RoundMetadataObject`
 <table>
   <thead>
@@ -65,8 +99,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>duration</td>
-      <td>The number of seconds that the round lasted.</td>
+      <td>tickDuration</td>
+      <td>The number of ticks that the round lasted.</td>
     </tr>
     <tr>
       <td>type</td>
@@ -90,8 +124,8 @@
       <td>The round's server ID.</td>
     </tr>
     <tr>
-      <td>timeStarted</td>
-      <td>Timestamp of the round start time.</td>
+      <td>tickStarted</td>
+      <td>Tick of the round start.</td>
     </tr>
   </tbody>
 </table>
@@ -106,12 +140,12 @@
   </thead>
   <tbody>
     <tr>
-      <td>timeStarted</td>
+      <td>tickStarted</td>
       <td>Timestamp of the server's opening.</td>
     </tr>
     <tr>
-      <td>duration</td>
-      <td>The number of seconds that the server lasted.</td>
+      <td>tickDuration</td>
+      <td>Ticks that the server lasted.</td>
     </tr>
   </tbody>
 </table>
@@ -126,11 +160,11 @@
   </thead>
   <tbody>
     <tr>
-      <td>joinTime</td>
+      <td>tickJoined</td>
       <td>Player join timestamp.</td>
     </tr>
     <tr>
-      <td>duration</td>
+      <td>tickDuration</td>
       <td>Player join duration in seconds.</td>
     </tr>
   </tbody>
