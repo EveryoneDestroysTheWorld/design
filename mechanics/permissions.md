@@ -1,6 +1,6 @@
 # Permissions
 ## Management levels
-For security reasons, the default management level for all permissions should be 0. The place owner should always have level 2 management access for every permission.
+For security reasons, the default management level for all permissions should be 0. The place owner should always have level 3 management access for every permission.
 
 <table>
   <thead>
@@ -12,17 +12,17 @@ For security reasons, the default management level for all permissions should be
   </thead>
   <tbody>
     <tr>
-      <td>0</td>
-      <td>Restrict</td>
+      <td>1</td>
+      <td>Normal</td>
       <td>The player will have no management access.</td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>Audit</td>
       <td>The player or role can see everyone's level of access to this permission.</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>Admin</td>
       <td>The player or role will have full management access to this permission.</td>
     </tr>
