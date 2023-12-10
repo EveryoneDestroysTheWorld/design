@@ -141,9 +141,9 @@
       </td>
     </tr>
     <tr>
-      <td>timestamp</td>
+      <td>tick</td>
       <td>
-        A timestamp of when the action happened.
+        A tick of when the action happened.
       </td>
     </tr>
     <tr>
