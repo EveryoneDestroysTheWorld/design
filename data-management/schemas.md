@@ -61,6 +61,16 @@
         A list of <code>ItemActionObject</code>, maximum 4 million characters
       </td>
     </tr>
+    <tr>
+      <td>Stages</td>
+      <td>No</td>
+      <td>
+        <code>stageID</code>/<code>1...n</code>
+      </td>
+      <td>
+        <code>StageMetadataObject</code>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -99,19 +109,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>tickDuration</td>
-      <td>The number of ticks that the round lasted.</td>
-    </tr>
-    <tr>
-      <td>type</td>
-      <td>
-        An integer, depending on the round's type.
-        <ol>
-          <li>Turf War</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
       <td>participantIDs</td>
       <td>A list of player IDs.</td>
     </tr>
@@ -124,8 +121,21 @@
       <td>The round's server ID.</td>
     </tr>
     <tr>
+      <td>tickDuration</td>
+      <td>The number of ticks that the round lasted.</td>
+    </tr>
+    <tr>
       <td>tickStarted</td>
       <td>Tick of the round start.</td>
+    </tr>
+    <tr>
+      <td>type</td>
+      <td>
+        An integer, depending on the round's type.
+        <ol>
+          <li>Turf War</li>
+        </ol>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -166,6 +176,73 @@
     <tr>
       <td>tickDuration</td>
       <td>Player join duration in seconds.</td>
+    </tr>
+  </tbody>
+</table>
+
+### `StageMetadataObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>creatorIDs</td>
+      <td>The IDs of the stage's creators. This should not be used for permissions.</td>
+    </tr>
+    <tr>
+      <td>juryActionID?</td>
+      <td>A <code>JuryActionObject</code> ID. Only present for user-published stages.</td>
+    </tr>
+    <tr>
+      <td>staffActionID?</td>
+      <td>A <code>StaffActionObject</code> ID. Only present for stages that Beastslash flags.</td>
+    </tr>
+    <tr>
+      <td>members</td>
+      <td>A list of <code>StageMemberObject</code>.</td>
+    </tr>
+    <tr>
+      <td>stageName</td>
+      <td>The stage's name.</td>
+    </tr>
+    <tr>
+      <td>timeCreated</td>
+      <td>Time in seconds when the stage was created.</td>
+    </tr>
+    <tr>
+      <td>timeCreated</td>
+      <td>Time in seconds when the stage was last updated.</td>
+    </tr>
+  </tbody>
+</table>
+
+### `StageMemberObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>id</td>
+      <td>The player ID.</td>
+    </tr>
+    <tr>
+      <td>role</td>
+      <td>
+        An integer depending on the player's role.
+        <ol>
+          <li>Admin</li>
+          <li>Editor</li>
+          <li>Player</li>
+        </ol>
+      </td>
     </tr>
   </tbody>
 </table>
