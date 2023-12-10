@@ -102,22 +102,22 @@ For security reasons, the default management level for all permissions should be
   </thead>
   <tbody>
     <tr>
-      <td><code>messages.chat.removeOwn</code></td>
+      <td><code>messages.chat.remove.own</code></td>
       <td>Allows the player to remove own chat messages.</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>messages.chat.removeOthers</code></td>
+      <td><code>messages.chat.remove.others</code></td>
       <td>Allows the player to remove other players' chat messages.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>messages.chat.viewOwn</code></td>
+      <td><code>messages.chat.view.own</code></td>
       <td>Allows the player to view their own chat messages.</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>messages.chat.viewOthers</code></td>
+      <td><code>messages.chat.view.others</code></td>
       <td>Allows the player to view others' chat messages</td>
       <td>Yes</td>
     </tr>
@@ -132,12 +132,12 @@ For security reasons, the default management level for all permissions should be
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>messages.direct.viewOwn</code></td>
+      <td><code>messages.direct.view.own</code></td>
       <td>Allows the player to view own direct messages</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>messages.direct.viewOthers</code></td>
+      <td><code>messages.direct.view.others</code></td>
       <td>Allows the player to view others' chat messages</td>
       <td>No</td>
     </tr>
@@ -178,82 +178,82 @@ For security reasons, the default management level for all permissions should be
   </thead>
   <tbody>
     <tr>
-      <td><code>players.badges.grantSelf</code></td>
+      <td><code>players.badges.grant.self</code></td>
       <td>Allows the player to grant badges to themself.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.badges.grantOthers</code></td>
+      <td><code>players.badges.grant.others</code></td>
       <td>Allows the player to grant badges to other players.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.general.kickSelf</code></td>
+      <td><code>players.general.kick.self</code></td>
       <td>Allows the player to kick themself from the server.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.general.kickOthers</code></td>
+      <td><code>players.general.kick.others</code></td>
       <td>Allows the player to kick others from the server.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.roles.viewOwn</code></td>
+      <td><code>players.roles.view.own</code></td>
       <td>Allows the player to view their own roles.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.roles.viewOthers</code></td>
+      <td><code>players.roles.view.others</code></td>
       <td>Allows the player to view other players' roles.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.settings.viewOwn</code></td>
+      <td><code>players.settings.view.own</code></td>
       <td>Allows the player to view their own settings.</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>players.settings.viewOthers</code></td>
+      <td><code>players.settings.view.others</code></td>
       <td>Allows the player to view others' settings.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.settings.manageOwn</code></td>
+      <td><code>players.settings.manage.own</code></td>
       <td>Allows the player to manage their own settings.</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>players.settings.manageOthers</code></td>
+      <td><code>players.settings.manage.others</code></td>
       <td>Allows the player to manage others' settings.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.stats.viewOwn</code></td>
+      <td><code>players.stats.view.own</code></td>
       <td>Allows the player to view their own statistics.</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>players.stats.viewOthers</code></td>
+      <td><code>players.stats.view.others</code></td>
       <td>Allows the player to view other players' statistics.</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>players.stats.manageOwn</code></td>
+      <td><code>players.stats.manage.own</code></td>
       <td>Allows the player to manage their own statistics.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.stats.manageOthers</code></td>
+      <td><code>players.stats.manage.others</code></td>
       <td>Allows the player to manage other players' statistics.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.titles.chooseOwn</code></td>
+      <td><code>players.titles.choose.own</code></td>
       <td>Allows the player to choose their own titles.</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>players.titles.chooseOthers</code></td>
+      <td><code>players.titles.choose.others</code></td>
       <td>Allows the player to choose others' titles.</td>
       <td>No</td>
     </tr>
@@ -322,33 +322,33 @@ For security reasons, the default management level for all permissions should be
   </thead>
   <tbody>
     <tr>
-      <td><code>matches.participants.addSelf</code></td>
-      <td>Allows the player to add themself to a match's participant list, even if it's ongoing.</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td><code>matches.participants.addOthers</code></td>
-      <td>Allows the player to add another player to a match's participant list, even if it's ongoing.</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td><code>matches.participants.ejectSelf</code></td>
-      <td>Allows the player to eject themself from a match's participant list.</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td><code>matches.participants.ejectOthers</code></td>
-      <td>Allows the player to eject another player to a match's participant list.</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td><code>matches.respawnSelf</code></td>
+      <td><code>matches.general.respawn.self</code></td>
       <td>Allows the player to respawn themself, even if they are permanently dead.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>matches.respawnOthers</code></td>
+      <td><code>matches.general.respawn.others</code></td>
       <td>Allows the player to respawn other players, even if they are permanently dead.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>matches.participants.add.self</code></td>
+      <td>Allows the player to add themself to a match's participant list, even if it's ongoing.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>matches.participants.add.others</code></td>
+      <td>Allows the player to add another player to a match's participant list, even if it's ongoing.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>matches.participants.eject.self</code></td>
+      <td>Allows the player to eject themself from a match's participant list.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>matches.participants.eject.others</code></td>
+      <td>Allows the player to eject another player to a match's participant list.</td>
       <td>No</td>
     </tr>
     <tr>
