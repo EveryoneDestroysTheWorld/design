@@ -81,6 +81,16 @@
         <code>StageMetadataObject</code>
       </td>
     </tr>
+    <tr>
+      <td>StageInstances</td>
+      <td>No</td>
+      <td>
+        <code>stageID</code>/<code>1...n</code>
+      </td>
+      <td>
+        A list of <code>StageInstanceInfo</code>, maximum 4 million characters
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -253,6 +263,78 @@
     <tr>
       <td>tickDuration</td>
       <td>Player join duration in seconds.</td>
+    </tr>
+  </tbody>
+</table>
+
+### `StageInstanceObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>name</td>
+      <td>The part's name.</td>
+    </tr>
+    <tr>
+      <td>color</td>
+      <td>The part's hex color code.</td>
+    </tr>
+    <tr>
+      <td>size</td>
+      <td>An array of part dimensions.</td>
+    </tr>
+    <tr>
+      <td>cframe</td>
+      <td>An array of CFrame components.</td>
+    </tr>
+    <tr>
+      <td>castShadow?</td>
+      <td>1, if CastShadow is enabled on this part.</td>
+    </tr>
+    <tr>
+      <td>material?</td>
+      <td>A Material enum value, if this part isn't plastic.</td>
+    </tr>
+    <tr>
+      <td>reflectance?</td>
+      <td>The part's reflectance level, if it isn't 0.</td>
+    </tr>
+    <tr>
+      <td>transparency?</td>
+      <td>The part's transparency level, if it isn't 0.</td>
+    </tr>
+    <tr>
+      <td>shape?</td>
+      <td>A PartType enum value, if this part isn't a block.</td>
+    </tr>
+    <tr>
+      <td>backSurface?</td>
+      <td>A SurfaceType enum value, if this part isn't smooth.</td>
+    </tr>
+    <tr>
+      <td>bottomSurface?</td>
+      <td>A SurfaceType enum value, if this part isn't smooth.</td>
+    </tr>
+    <tr>
+      <td>frontSurface?</td>
+      <td>A SurfaceType enum value, if this part isn't smooth.</td>
+    </tr>
+    <tr>
+      <td>leftSurface?</td>
+      <td>A SurfaceType enum value, if this part isn't smooth.</td>
+    </tr>
+    <tr>
+      <td>rightSurface?</td>
+      <td>A SurfaceType enum value, if this part isn't smooth.</td>
+    </tr>
+    <tr>
+      <td>topSurface?</td>
+      <td>A SurfaceType enum value, if this part isn't smooth.</td>
     </tr>
   </tbody>
 </table>
