@@ -178,8 +178,13 @@ For security reasons, the default management level for all permissions should be
   </thead>
   <tbody>
     <tr>
-      <td><code>players.kick</code></td>
-      <td>Allows the player to kick anyone from the server.</td>
+      <td><code>players.kickSelf</code></td>
+      <td>Allows the player to kick themself from the server.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>players.kickOthers</code></td>
+      <td>Allows the player to kick others from the server.</td>
       <td>No</td>
     </tr>
     <tr>
