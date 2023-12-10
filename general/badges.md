@@ -1,4 +1,60 @@
-# Battle badges
+# Badges
+## General badges
+<table>
+  <thead>
+    <tr>
+      <th align="left">#</th>
+      <th align="left">Badge name</th>
+      <th align="left">Achievement process</th>
+      <th align="left">Reward</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Completionist</td>
+      <td>Earn all collectable badges, excluding special badges (⭐).</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Maker of Money</td>
+      <td>Get (x) credits.</td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
+</table>
+
+
+## Creator badges
+<table>
+  <thead>
+    <tr>
+      <th align="left">#</th>
+      <th align="left">Badge name</th>
+      <th align="left">Achievement process</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Setter of Stages</td>
+      <td>Send a stage for review.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Receiver of Stage Approvals</td>
+      <td>Get a stage approved by the moderation jury or Beastslash.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Maker of Good Stages</td>
+      <td>Get at least an 80% positive rating on a stage after it gets at least 20 ratings.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Battle badges
 <table>
   <thead>
     <tr>
