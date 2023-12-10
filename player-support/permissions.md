@@ -178,13 +178,33 @@ For security reasons, the default management level for all permissions should be
   </thead>
   <tbody>
     <tr>
-      <td><code>players.kickSelf</code></td>
+      <td><code>players.badges.grantSelf</code></td>
+      <td>Allows the player to grant badges to themself.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>players.badges.grantOthers</code></td>
+      <td>Allows the player to grant badges to other players.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>players.general.kickSelf</code></td>
       <td>Allows the player to kick themself from the server.</td>
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.kickOthers</code></td>
+      <td><code>players.general.kickOthers</code></td>
       <td>Allows the player to kick others from the server.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>players.roles.viewOwn</code></td>
+      <td>Allows the player to view their own roles.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>players.roles.viewOthers</code></td>
+      <td>Allows the player to view other players' roles.</td>
       <td>No</td>
     </tr>
     <tr>
@@ -208,16 +228,6 @@ For security reasons, the default management level for all permissions should be
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.badges.grantSelf</code></td>
-      <td>Allows the player to grant badges to themself.</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td><code>players.badges.grantOthers</code></td>
-      <td>Allows the player to grant badges to other players.</td>
-      <td>No</td>
-    </tr>
-    <tr>
       <td><code>players.stats.viewOwn</code></td>
       <td>Allows the player to view their own statistics.</td>
       <td>Yes</td>
@@ -238,13 +248,13 @@ For security reasons, the default management level for all permissions should be
       <td>No</td>
     </tr>
     <tr>
-      <td><code>players.roles.viewOwn</code></td>
-      <td>Allows the player to view their own roles.</td>
-      <td>No</td>
+      <td><code>players.titles.chooseOwn</code></td>
+      <td>Allows the player to choose their own titles.</td>
+      <td>Yes</td>
     </tr>
     <tr>
-      <td><code>players.roles.viewOthers</code></td>
-      <td>Allows the player to view other players' roles.</td>
+      <td><code>players.titles.chooseOthers</code></td>
+      <td>Allows the player to choose others' titles.</td>
       <td>No</td>
     </tr>
   </tbody>
