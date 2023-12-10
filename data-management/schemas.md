@@ -137,7 +137,7 @@
     <tr>
       <td>permission</td>
       <td>
-        The [permission](../player-support/permissions.md) used in the action.
+        The <a href="../player-support/permissions.md">permission</a> used in the action.
       </td>
     </tr>
     <tr>
