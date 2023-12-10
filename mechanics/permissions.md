@@ -145,20 +145,19 @@ For security reasons, the default management level for all permissions should be
     <tr>
       <th align="left">Name</th>
       <th align="left">Description</th>
+      <th align="left">Default?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><code>places.lobby</code></td>
-      <td>Allows the player to join the lobby.</td>
+      <td><code>places.lobby.join</code></td>
+      <td>Allows the player to join the lobby. If the player doesn't have this permission, they are effectively banned.</td>
+      <td>Yes</td>
     </tr>
     <tr>
-      <td><code>places.matches</code></td>
-      <td>Join matches</td>
-    </tr>
-    <tr>
-      <td><code>places.stageMaker</code></td>
-      <td>Join Stage Maker</td>
+      <td><code>places.stageMaker.join</code></td>
+      <td>Allows the player to join the Stage Maker.</td>
+      <td>Yes</td>
     </tr>
   </tbody>
 </table>
