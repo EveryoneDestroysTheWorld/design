@@ -20,6 +20,16 @@
       </td>
     </tr>
     <tr>
+      <td>ModifiedItems</td>
+      <td>No</td>
+      <td>
+        <code>modifiedItemID</code>
+      </td>
+      <td>
+        <code>ModifiedItemObject</code>
+      </td>
+    </tr>
+    <tr>
       <td>Servers</td>
       <td>No</td>
       <td>
@@ -131,6 +141,36 @@
 </table>
 
 ## JSON objects
+### `ModifiedItemObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>name</td>
+      <td>
+        The item name.
+      </td>
+    </tr>
+    <tr>
+      <td>description</td>
+      <td>
+        The item description.
+      </td>
+    </tr>
+    <tr>
+      <td>modifications</td>
+      <td>
+        A list of modifications that the item has.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `PrivilegedActionObject`
 <table>
   <thead>
@@ -275,7 +315,6 @@
     </tr>
   </tbody>
 </table>
-
 
 ### `JuryReviewObject`
 <table>
