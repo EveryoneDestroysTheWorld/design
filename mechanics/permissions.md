@@ -127,13 +127,13 @@ For security reasons, the default management level for all permissions should be
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>messages.direct.viewOwn</code></td>
-      <td>Allows the player to view own direct messages</td>
+      <td><code>messages.direct.send</code></td>
+      <td>Allows the player to send direct messages.</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><code>messages.direct.send</code></td>
-      <td>Allows the player to send direct messages.</td>
+      <td><code>messages.direct.viewOwn</code></td>
+      <td>Allows the player to view own direct messages</td>
       <td>Yes</td>
     </tr>
     <tr>
@@ -195,7 +195,7 @@ For security reasons, the default management level for all permissions should be
     <tr>
       <td><code>players.settings.viewOthers</code></td>
       <td>Allows the player to view others' settings.</td>
-      <td>Yes</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><code>players.settings.manageOwn</code></td>
@@ -205,17 +205,17 @@ For security reasons, the default management level for all permissions should be
     <tr>
       <td><code>players.settings.manageOthers</code></td>
       <td>Allows the player to manage others' settings.</td>
-      <td>Yes</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><code>players.badges.grantSelf</code></td>
       <td>Allows the player to grant badges to themself.</td>
-      <td>Yes</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><code>players.badges.grantOthers</code></td>
       <td>Allows the player to grant badges to other players.</td>
-      <td>Yes</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><code>players.stats.viewOwn</code></td>
@@ -230,12 +230,12 @@ For security reasons, the default management level for all permissions should be
     <tr>
       <td><code>players.stats.manageOwn</code></td>
       <td>Allows the player to manage their own statistics.</td>
-      <td>Yes</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><code>players.stats.manageOthers</code></td>
       <td>Allows the player to manage other players' statistics.</td>
-      <td>Yes</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><code>players.roles.viewOwn</code></td>
