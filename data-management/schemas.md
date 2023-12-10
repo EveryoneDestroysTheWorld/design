@@ -65,7 +65,7 @@
       <td>Stages</td>
       <td>No</td>
       <td>
-        <code>stageID</code>/<code>1...n</code>
+        <code>stageID</code>
       </td>
       <td>
         <code>StageMetadataObject</code>
