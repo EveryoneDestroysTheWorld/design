@@ -50,7 +50,7 @@
         <code>playerID</code>
       </td>
       <td>
-        <code>PlayerObject</code>
+        <code>PlayerMetadataObject</code>
       </td>
     </tr>
     <tr>
