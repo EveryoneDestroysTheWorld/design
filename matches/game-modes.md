@@ -1,9 +1,8 @@
-# Rounds
+# Game modes
 The game mode for each round will be randomly selected during intermission. Rounds will last a specific amount of time.
 
 Each round will have a unique ID associated with a unique server ID. This will help in case Beastslash needs to step in.
 
-## Game modes
 <table>
   <thead>
     <tr>
@@ -30,7 +29,3 @@ Each round will have a unique ID associated with a unique server ID. This will h
     </tr>
   </tbody>
 </table>
-
-## Special rounds
-Special rounds introduce a gimmick that modifies the chosen game mode. 
-* Spin a wheel that will randomly give a status effect to each team’s weapons. (Acid, fire, freezing, etc.)
