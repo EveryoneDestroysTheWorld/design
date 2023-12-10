@@ -132,6 +132,11 @@ For security reasons, the default management level for all permissions should be
       <td>Yes</td>
     </tr>
     <tr>
+      <td><code>messages.direct.send</code></td>
+      <td>Allows the player to send direct messages.</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
       <td><code>messages.direct.viewOthers</code></td>
       <td>Allows the player to view others' chat messages</td>
       <td>No</td>
