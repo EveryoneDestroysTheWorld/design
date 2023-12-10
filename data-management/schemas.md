@@ -25,7 +25,7 @@
       </td>
       <td>No</td>
       <td>
-        <code>playerID</code>/<code>1...n</code>
+        <code>playerID</code>
       </td>
       <td>
         A list of <code>ServerPlayerMetadataObject</code>
