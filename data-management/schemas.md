@@ -10,13 +10,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>JuryActions</td>
+      <td>JuryReviews</td>
       <td>No</td>
       <td>
-        <code>juryActionID</code>
+        <code>juryReviewID</code>
       </td>
       <td>
-        <code>JuryActionObject</code>
+        <code>JuryReviewObject</code>
       </td>
     </tr>
     <tr>
@@ -39,6 +39,30 @@
       </td>
       <td>
         A list of <code>ServerPlayerMetadataObject</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        PrivilegedActions
+      </td>
+      <td>No</td>
+      <td>
+        <code>actionID</code>
+      </td>
+      <td>
+        <code>PrivilegedActionObject</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        PrivilegedActionOrder
+      </td>
+      <td>Yes</td>
+      <td>
+        <code>actionID</code>
+      </td>
+      <td>
+        The current time in seconds.
       </td>
     </tr>
     <tr>
@@ -95,6 +119,82 @@
 </table>
 
 ## JSON objects
+### `PrivilegedActionObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>permission</td>
+      <td>
+        The [permission](../player-support/permissions.md) used in the action.
+      </td>
+    </tr>
+    <tr>
+      <td>changes?</td>
+      <td>
+        A list of <code>PrivilegedActionChangeObject</code>, if applicable.
+      </td>
+    </tr>
+    <tr>
+      <td>timestamp</td>
+      <td>
+        A timestamp of when the action happened.
+      </td>
+    </tr>
+    <tr>
+      <td>targetID</td>
+      <td>
+        An ID of an applicable object.
+      </td>
+    </tr>
+    <tr>
+      <td>reason?</td>
+      <td>
+        A reason, if applicable.
+      </td>
+    </tr>
+    <tr>
+      <td>tickDuration</td>
+      <td>Ticks that the server lasted.</td>
+    </tr>
+  </tbody>
+</table>
+
+### `PrivilegedActionChangeObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>newValue?</td>
+      <td>
+        New key value.
+      </td>
+    </tr>
+    <tr>
+      <td>oldValue?</td>
+      <td>
+        Old key value.
+      </td>
+    </tr>
+    <tr>
+      <td>key</td>
+      <td>
+        Key name.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `ItemActionObject`
 <table>
   <thead>
@@ -115,34 +215,6 @@
     <tr>
       <td>lookVector</td>
       <td>The look vector CFrame of the mouse.</td>
-    </tr>
-  </tbody>
-</table>
-
-### `JuryActionObject`
-<table>
-  <thead>
-    <tr>
-      <th align="left">Object key</th>
-      <th align="left">Object value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>stageID</td>
-      <td>The ID of the stage in question.</td>
-    </tr>
-    <tr>
-      <td>timeOpened</td>
-      <td>Tick since round start.</td>
-    </tr>
-    <tr>
-      <td>timeClosed</td>
-      <td>The ID of the item used.</td>
-    </tr>
-    <tr>
-      <td>responses</td>
-      <td>A list of `JurorResponseObject`.</td>
     </tr>
   </tbody>
 </table>
@@ -182,6 +254,35 @@
           <li>Skip</li>
         </ol>
       </td>
+    </tr>
+  </tbody>
+</table>
+
+
+### `JuryReviewObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>stageID</td>
+      <td>The ID of the stage in question.</td>
+    </tr>
+    <tr>
+      <td>timeOpened</td>
+      <td>Tick since round start.</td>
+    </tr>
+    <tr>
+      <td>timeClosed</td>
+      <td>The ID of the item used.</td>
+    </tr>
+    <tr>
+      <td>responses</td>
+      <td>A list of `JurorResponseObject`.</td>
     </tr>
   </tbody>
 </table>
