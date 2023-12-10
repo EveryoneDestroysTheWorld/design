@@ -129,6 +129,12 @@
   </thead>
   <tbody>
     <tr>
+      <td>actorID</td>
+      <td>
+        The actor's ID.
+      </td>
+    </tr>
+    <tr>
       <td>permission</td>
       <td>
         The [permission](../player-support/permissions.md) used in the action.
