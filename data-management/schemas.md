@@ -10,6 +10,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>JuryActions</td>
+      <td>No</td>
+      <td>
+        <code>juryActionID</code>
+      </td>
+      <td>
+        <code>JuryActionObject</code>
+      </td>
+    </tr>
+    <tr>
       <td>Servers</td>
       <td>No</td>
       <td>
@@ -95,6 +105,73 @@
     <tr>
       <td>lookVector</td>
       <td>The look vector CFrame of the mouse.</td>
+    </tr>
+  </tbody>
+</table>
+
+### `JuryActionObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>stageID</td>
+      <td>The ID of the stage in question.</td>
+    </tr>
+    <tr>
+      <td>timeOpened</td>
+      <td>Tick since round start.</td>
+    </tr>
+    <tr>
+      <td>timeClosed</td>
+      <td>The ID of the item used.</td>
+    </tr>
+    <tr>
+      <td>responses</td>
+      <td>A list of `JurorResponseObject`.</td>
+    </tr>
+  </tbody>
+</table>
+
+### `JurorResponseObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>jurorID</td>
+      <td>Tick since round start.</td>
+    </tr>
+    <tr>
+      <td>timeMade</td>
+      <td>Time in seconds when this response was sent.</td>
+    </tr>
+    <tr>
+      <td>timeUpdated?</td>
+      <td>Time in seconds when this response was updated.</td>
+    </tr>
+    <tr>
+      <td>reason?</td>
+      <td>A reason for this response.</td>
+    </tr>
+    <tr>
+      <td>decision</td>
+      <td>
+        An integer depending on the juror's decision.
+        <ol>
+          <li>Approve</li>
+          <li>Deny</li>
+          <li>Skip</li>
+        </ol>
+      </td>
     </tr>
   </tbody>
 </table>
