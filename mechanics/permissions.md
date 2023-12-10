@@ -198,6 +198,16 @@ For security reasons, the default management level for all permissions should be
       <td>Yes</td>
     </tr>
     <tr>
+      <td><code>players.badges.grantSelf</code></td>
+      <td>Allows the player to grant badges to themself.</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><code>players.badges.grantOthers</code></td>
+      <td>Allows the player to grant badges to other players.</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
       <td><code>players.stats.viewOwn</code></td>
       <td>Allows the player to view their own statistics.</td>
       <td>Yes</td>
