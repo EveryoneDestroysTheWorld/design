@@ -43,6 +43,18 @@
     </tr>
     <tr>
       <td>
+        Players
+      </td>
+      <td>No</td>
+      <td>
+        <code>playerID</code>
+      </td>
+      <td>
+        <code>PlayerMetadataObject</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
         PrivilegedActions
       </td>
       <td>No</td>
@@ -289,6 +301,110 @@
     <tr>
       <td>responses</td>
       <td>A list of `JurorResponseObject`.</td>
+    </tr>
+  </tbody>
+</table>
+
+### `PlayerMetadataObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>roleID</td>
+      <td>Timestamp of the server's opening.</td>
+    </tr>
+    <tr>
+      <td>inventory</td>
+      <td>
+        <code>InventoryMetadataObject</code>
+      </td>
+    </tr>
+    <tr>
+      <td>permissions</td>
+      <td>
+        <code>PermissionOverrideObject</code>
+      </td>
+    </tr>
+    <tr>
+      <td>settings</td>
+      <td>
+        <code>PlayerSettingsOverrideObject</code>
+      </td>
+    </tr>
+    <tr>
+      <td>title?</td>
+      <td>
+        The player's title.
+      </td>
+    </tr>
+    <tr>
+      <td>timeFirstPlayed</td>
+      <td>
+        The time the player first joined the game.
+      </td>
+    </tr>
+    <tr>
+      <td>timeLastPlayed</td>
+      <td>
+        The latest time the player joined the game.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### `PermissionOverrideObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>allow</td>
+      <td>A list of <code>PermissionManagementOverrideObject</code></td>
+    </tr>
+    <tr>
+      <td>deny</td>
+      <td>A list of permissions.</td>
+    </tr>
+  </tbody>
+</table>
+
+### `PermissionManagementOverrideObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>permission</code></td>
+      <td>A permission management level.</td>
+    </tr>
+  </tbody>
+</table>
+
+### `PlayerSettingsOverrideObject`
+<table>
+  <thead>
+    <tr>
+      <th align="left">Object key</th>
+      <th align="left">Object value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>settingName</code></td>
+      <td>The setting value.</td>
     </tr>
   </tbody>
 </table>
