@@ -1,5 +1,5 @@
 # Stage Maker
-When entering the Stage Maker, the player must be notified that they will give an irrevocable license to Beastslash that allows the company to use the stage for free. This will prevent DMCA takedowns for player-created stages. 
+When entering the Stage Maker, the player must be notified that they will give an irrevocable license to Beastslash that allows the company to use the stage for free. This will prevent players from sending DMCA takedown requests for their stages. 
 
 ## Saving
 If there is an active part in the safe zone, the player may save the stage. Parts that are in the action-safe zone will be saved and accessible to players during matches. Parts are outside the action-safe zone, but in the visible zone will not be accessible to players, but will be saved and shown to players during matches. Parts that are too far away from the safe zone will be deleted.
