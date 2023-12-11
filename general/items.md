@@ -17,10 +17,11 @@
       <td>This kind of works like a time bomb, but it explodes whenever you want it to! It’s useful for perfectly timing your attacks against other players. Deals up to 50 damage.</td>
     </tr>
     <tr>
-      <td>Uniphone</td>
+      <td>Phone</td>
       <td>
         Players can use their phones to select damaged structures and rewind them to their former glory…so they can destroy it again. If you want something done right, you gotta do it yourself!<br /><br />
-        Can revive downed players.
+        This item is not selectable. It will always be active as long as it is in the player's inventory.<br /><br />
+        Can revive downed players in Turf War.
       </td>
     </tr>
   </tbody>
