@@ -33,3 +33,8 @@ After the jurors finish reviewing, they may vote on whether the stage should be 
       <td>The stage is rejected and will be removed from the review center.</td>
     </tr>
 </table>
+
+### Unpublishing
+The stage owner may unpublish their stage at any time. Replays will be unavailable unless the stage owner publishes their stage again.
+
+If a stage owner wants to publish their stage again, they can skip the jury as long as they have not made any changes to their stage. If the stage owner has made changes and publishes their stage, they will have to go through the jury process again. Furthermore, all replays related to the stage will be deleted upon stage approval.
