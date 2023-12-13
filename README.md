@@ -39,7 +39,7 @@ If a game designer would like to change their focus area, they may edit this fil
 </table>
 
 ### 🔒 Access
-Teams that are not listed in this table may need some access to a specific part of the game design to complete their tasks. For example, a musician may need to know some context behind the song they will make. In this case, game designers or the executive producer will tell other teams what they need to know directly — without giving them access to this repository. 
+Teams that are not listed in this table may need some access to a specific part of the game design to complete their tasks. For example, a musician may need to know some context behind the song they will make. In this case, game designers or the producer will tell other teams what they need to know directly — without giving them access to this repository. 
 <table>
   <thead>
     <tr>
@@ -51,7 +51,7 @@ Teams that are not listed in this table may need some access to a specific part 
   <tbody>
     <tr>
       <td>Maintain</td>
-      <td>Executive Producer</td>
+      <td>Producer</td>
       <td>To manage repository access.</td>
     </tr>
     <tr>
