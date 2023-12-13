@@ -7,7 +7,7 @@ Stage creators can build their stages with parts. The following part properties 
 * CastShadow
 * Material
 * Reflectance
-* Transparency
+* Transparency (max: 0.8)
 * Size
 * CFrame (Position, Orientation)
 * Shape
