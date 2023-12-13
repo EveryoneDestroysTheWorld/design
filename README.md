@@ -56,12 +56,12 @@ Teams that are not listed in this table may need some access to a specific part 
     </tr>
     <tr>
       <td>Write</td>
-      <td>Game Designers</td>
+      <td>Designers</td>
       <td>To easily edit game design files without pull requests.</td>
     </tr>
     <tr>
       <td>Read</td>
-      <td>Director and Game Programmers</td>
+      <td>Director and Programmers</td>
       <td>For guidance and to submit issues.</td>
     </tr>
     <tr>
