@@ -50,3 +50,19 @@
     </tr>
   </tbody>
 </table>
+
+## Purchasable items
+<table>
+  <thead>
+    <tr>
+      <th align="left">Item name</th>
+      <th align="left">Effect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Scatterburst</td>
+      <td>A chargeable shotgun-like gun that shoots 15(?) pellets per shot and can be shot every .3(?) seconds at the fastest. Each bullet does the same amount of damage, with a minimum of .5 dmg. A full charge takes 2.5(?) seconds, with the maximum damage per pellet being 4(?).</td>
+    </tr>
+  </tbody>
+</table>
