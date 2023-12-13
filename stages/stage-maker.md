@@ -36,7 +36,7 @@ The player can undo and redo recent actions. When the player undoes something an
   </thead>
   <tbody>
     <tr>
-      <td>Action-safe zone</td>
+      <td>Action zone</td>
       <td>Players can access this zone normally.</td>
     </tr>
     <tr>
