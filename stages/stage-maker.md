@@ -67,6 +67,11 @@ Players can load stages from the arena or while they are editing a stage. If the
 
 Once the player enters the Stage Maker, the stage will begin creating instances based on the stage's save data. If a part could not be re-created due to a corruption or a game update, the player should be notified. There should be a loading bar that shows how far the game is into the loading process based on loaded instances and total instances.
 
+## Testing
+All collaborators may test a stage from the arena without jury or Beastslash approval. Only collaborators with the Editor permission or higher may test a stage from the Stage Maker.
+
+Testers may test stages alone, with bots, or with other players. They may also change the round settings to how they see fit. The testers may leave the round at any time without a penalty.
+
 ## Deleting
 Stage creators may delete their stages at any time. Stage metadata (name, description, etc.) and instance data will be deleted, but the player ratings and reviews related to the stage will remain.
 
