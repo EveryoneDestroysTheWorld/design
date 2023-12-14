@@ -66,5 +66,10 @@
       <td>A chargeable shotgun-like gun that shoots 15(?) pellets per shot and can be shot every .3(?) seconds at the fastest. Each bullet does the same amount of damage, with a minimum of .5 dmg. A full charge takes 2.5(?) seconds, with the maximum damage per pellet being 4(?) Whenever a pellet hits a surface like a player or building, a small explosion is created about 1.5(?)-ish studs in size.</td>
       <td>A chargeable shotgun capable of turning walls into Swiss cheese and turning players into a fine paste.</td>
     </tr>
+    <tr>
+      <td>Panic Button</td>
+      <td>To get this item working, use it to prepare for 4 seconds before pressing the button, but the process can be cancelled. If the button has been successfully pressed, you spawn right back to your team's spawn area. Additionally, you also receive your health fully regenerated. However, the cooldown will last for 60 minutes.</td>
+      <td>No way out of the trouble you're dealing with? Smash that button and go all the way back to how you started! Use it wisely, though.</td>
+    </tr>
   </tbody>
 </table>
