@@ -363,3 +363,46 @@ For security reasons, the default management level for all permissions should be
     </tr>
   </tbody>
 </table>
+
+### Stages
+<table>
+  <thead>
+    <tr>
+      <th align="left">Name</th>
+      <th align="left">Description</th>
+      <th align="left">Default?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>stages.collaboators.add</code></td>
+      <td>Allows the player to add collaborators to authorized stages.</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><code>stages.collaboators.remove</code></td>
+      <td>Allows the player to remove collaborators from authorized stages.</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><code>stages.jury.vote</code></td>
+      <td>Allows the player to vote on stages.</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><code>stages.jury.manage.jurors</code></td>
+      <td>Allows the player to manage the list of jurors.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>stages.jury.manage.votes</code></td>
+      <td>Allows the player to change a juror's vote.</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><code>stages.jury.override</code></td>
+      <td>Allows the player to immediately approve or deny a stage and dismiss the jury.</td>
+      <td>No</td>
+    </tr>
+  </tbody>
+</table>
