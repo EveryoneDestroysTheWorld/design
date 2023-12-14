@@ -47,6 +47,7 @@ The player can undo and redo recent actions. When the player undoes something an
       <td>Invisible zone</td>
       <td>Players cannot see or access this zone.</td>
     </tr>
+  </tbody>
 </table>
 
 ## Navigation
