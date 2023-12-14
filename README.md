@@ -61,7 +61,7 @@ Teams that are not listed in this table may need some access to a specific part 
     </tr>
     <tr>
       <td>Read</td>
-      <td>Director and Programmers</td>
+      <td>Director</td>
       <td>For guidance and to submit issues.</td>
     </tr>
     <tr>
