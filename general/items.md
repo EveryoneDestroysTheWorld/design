@@ -50,3 +50,21 @@
     </tr>
   </tbody>
 </table>
+
+## Purchasable items
+<table>
+  <thead>
+    <tr>
+      <th align="left">Item name</th>
+      <th align="left">Effect</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Scatterburst</td>
+      <td>A chargeable shotgun-like gun that shoots 15(?) pellets per shot and can be shot every .3(?) seconds at the fastest. Each bullet does the same amount of damage, with a minimum of .5 dmg. A full charge takes 2.5(?) seconds, with the maximum damage per pellet being 4(?) Whenever a pellet hits a surface like a player or building, a small explosion is created about 1.5(?)-ish studs in size.</td>
+      <td>A chargeable shotgun capable of turning walls into Swiss cheese and turning players into a fine paste.</td>
+    </tr>
+  </tbody>
+</table>
