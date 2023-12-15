@@ -20,7 +20,7 @@ None.
 - [ ] Publish edits to a new branch. <!-- Don't directly commit to main. -->
 <!-- Add anything else deemed necessary. -->
 
-<--
+<!--
 Here are some useful links for you after you publish this issue:
 * Edit game-modes.md from the main branch: https://github.com/DemoDemons/design/edit/main/matches/game-modes.md)
 -->
