@@ -8,7 +8,7 @@ The player can change a variety of settings to personalize their experience in t
     <th align="left">Internal name</th>
     <th align="left">Description</th>
     <th align="left">Type</th>
-    <th align="left">Default</th>
+    <th align="left">Default value</th>
   </thead>
   <tbody>
     <tr>
@@ -28,7 +28,7 @@ The player can change a variety of settings to personalize their experience in t
     <th align="left">Internal name</th>
     <th align="left">Description</th>
     <th align="left">Type</th>
-    <th align="left">Default</th>
+    <th align="left">Default value</th>
   </thead>
   <tbody>
     <tr>
@@ -48,7 +48,7 @@ The player can change a variety of settings to personalize their experience in t
     <th align="left">Internal name</th>
     <th align="left">Description</th>
     <th align="left">Type</th>
-    <th align="left">Default</th>
+    <th align="left">Default value</th>
   </thead>
   <tbody>
     <tr>
