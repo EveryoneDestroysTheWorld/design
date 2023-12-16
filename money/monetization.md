@@ -17,7 +17,7 @@
     <tr>
       <td>+1,250 Credits</td>
       <td>20 Robux</td>
-      <td>Adds 1,000 credits to the player's balance.</td>
+      <td>Adds 1,250 credits to the player's balance.</td>
     </tr>
     <tr>
       <td>+2,500 Credits</td>
