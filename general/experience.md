@@ -1,11 +1,11 @@
 # Game On!
 Play a round.
-+200 Credits & EXP
++200 Dreamstone & EXP
 
 # Chicken Dinner
 Win a round.
-+500 Credits & EXP
++500 Dreamstone & EXP
 
 # Pure Dominance
 Be the MVP in either winning or losing team.
-+800 Credits & EXP
++800 Dreamstone & EXP

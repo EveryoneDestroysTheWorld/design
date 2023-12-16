@@ -19,7 +19,7 @@
     <tr>
       <td>2</td>
       <td>Maker of Money</td>
-      <td>Get (x) credits.</td>
+      <td>Get (x) Dreamstone.</td>
       <td>TBD</td>
     </tr>
   </tbody>
