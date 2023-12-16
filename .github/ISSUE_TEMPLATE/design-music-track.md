@@ -1,7 +1,7 @@
 ---
 name: "🎵 Design a music track"
 about: "Plan some sick beats to chill/destroy to"
-title: 'Design badge: <Badge Name>'
+title: 'Design music track: <Track Name>'
 labels: "🎵 Music Tracks"
 assignees: ''
 
