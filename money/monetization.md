@@ -10,24 +10,24 @@
   </thead>
   <tbody>
     <tr>
-      <td>+50 Credits</td>
-      <td>5 Robux</td>
-      <td>Adds 50 credits to the player's balance.</td>
-    </tr>
-    <tr>
-      <td>+100 Credits</td>
-      <td>10 Robux</td>
-      <td>Adds 100 credits to the player's balance.</td>
-    </tr>
-    <tr>
       <td>+500 Credits</td>
-      <td>45 Robux</td>
+      <td>10 Robux</td>
       <td>Adds 500 credits to the player's balance.</td>
     </tr>
     <tr>
-      <td>+1,000 Credits</td>
-      <td>90 Robux</td>
+      <td>+1,250 Credits</td>
+      <td>20 Robux</td>
       <td>Adds 1,000 credits to the player's balance.</td>
+    </tr>
+    <tr>
+      <td>+2,500 Credits</td>
+      <td>40 Robux</td>
+      <td>Adds 2,500 credits to the player's balance.</td>
+    </tr>
+    <tr>
+      <td>+5,000 Credits</td>
+      <td>80 Robux</td>
+      <td>Adds 5,000 credits to the player's balance.</td>
     </tr>
   </tbody>
 </table>
@@ -51,11 +51,6 @@
       <td>+3 Voting Power</td>
       <td>35 Robux</td>
       <td>Multiplies stage and rule voting power by three.</td>
-    </tr>
-    <tr>
-      <td>Cosmetic Workshop Access</td>
-      <td>100 Robux</td>
-      <td>Enables access to the cosmetic item creator.</td>
     </tr>
   </tbody>
 </table>
