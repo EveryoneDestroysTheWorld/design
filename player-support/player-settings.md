@@ -5,7 +5,7 @@ The player can change a variety of settings to personalize their experience in t
 <table>
   <thead>
     <th align="left">Name</th>
-    <th align="left">Path</th>
+    <th align="left">Internal name</th>
     <th align="left">Description</th>
     <th align="left">Type</th>
     <th align="left">Default</th>
@@ -25,7 +25,7 @@ The player can change a variety of settings to personalize their experience in t
 <table>
   <thead>
     <th align="left">Name</th>
-    <th align="left">Path</th>
+    <th align="left">Internal name</th>
     <th align="left">Description</th>
     <th align="left">Type</th>
     <th align="left">Default</th>
@@ -45,7 +45,7 @@ The player can change a variety of settings to personalize their experience in t
 <table>
   <thead>
     <th align="left">Name</th>
-    <th align="left">Path</th>
+    <th align="left">Internal name</th>
     <th align="left">Description</th>
     <th align="left">Type</th>
     <th align="left">Default</th>
