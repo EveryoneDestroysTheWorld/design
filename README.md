@@ -61,12 +61,12 @@ Teams that are not listed in this table may need some access to a specific part 
     </tr>
     <tr>
       <td>Read</td>
-      <td>Director</td>
+      <td>Everyone on the DemoDemons Team</td>
       <td>For guidance and to submit issues.</td>
     </tr>
     <tr>
       <td>No access</td>
-      <td>Anyone else</td>
+      <td>Everyone else</td>
       <td>To preserve security.</td>
     </tr>
   </tbody>
