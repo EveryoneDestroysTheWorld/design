@@ -1,6 +1,6 @@
 ---
 name: "🎺 Design a new sound effect"
-about: *honk*
+about: "*honk*"
 title: 'Design sound effect: <Sound Effect Name>'
 labels: "🎺 Sound Effects"
 assignees: ''
