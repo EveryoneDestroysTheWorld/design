@@ -66,9 +66,63 @@
       <td>TBD</td>
     </tr>
     <tr>
+      <td>First Prize</td>
+      <td>Win a round for the first time.</td>
+      <td>Nothing</td>
+    </tr>
+    <tr>
       <td>Winner of Games</td>
       <td>Win a team game.</td>
       <td>TBD</td>
+    </tr>
+    <tr>
+      <td>One for All</td>
+      <td>Win a round as a last player standing on the team.</td>
+      <td>Nothing</td>
+    </tr>
+    <tr>
+      <td>All Clear</td>
+      <td>Win a round with all players downed on the opposing team.</td>
+      <td>Nothing</td>
+    </tr>
+    <tr>
+      <td>Peace Is an Option</td>
+      <td>Win a round without downing a player on the opposing team.</td>
+      <td>Nothing</td>
+    </tr>
+    <tr>
+      <td>Taking Over the Match</td>
+      <td>Be the MVP on the winning team.</td>
+      <td>Nothing</td>
+    </tr>
+    <tr>
+      <td>Hidden Value</td>
+      <td>Be the MVP on the losing team.</td>
+      <td>Nothing</td>
+    </tr>
+    <tr>
+      <td>Player Slayer</td>
+      <td>Down 100 players in total.</td>
+      <td>Nothing</td>
+    </tr>
+    <tr>
+      <td>Care Share</td>
+      <td>Heal your teammates in total of 300 HP in one round.</td>
+      <td>Nothing</td>
+    </tr>
+    <tr>
+      <td>Panic Attack</td>
+      <td>Down a player while your health is in the "danger zone".</td>
+      <td>
+        <a href="ttps://github.com/DemoDemons/design/issues/93">Panic Button</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Mysticalocardial Infarction</td>
+      <td>Inner-gy Dragon while in effect from it.</td>
+      <td>
+        <a href="https://github.com/DemoDemons/design/issues/94">Corrupted Part</a>
+      </td>
     </tr>
     <tr>
       <td>The Best</td>
