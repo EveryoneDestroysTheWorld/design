@@ -10,7 +10,7 @@ None.
   - [ ] When at least 75% of @DemoDemons/designers approve it
     - [ ] @Christian-Toney
     - [ ] @InkyTheBlue
-    - [ ] @naz
+    - [ ] @nazthesilly
     - [ ] @Quintt
   - [ ] Immediately
     - [ ] Typo fix
