@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td>Rocket Launcher</td>
-      <td></td>
+      <td>Test</td>
     </tr>
     <tr>
       <td>Wormhole</td>
