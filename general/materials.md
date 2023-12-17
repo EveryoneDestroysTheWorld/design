@@ -9,8 +9,8 @@ Materials serve as the "ammo" of some weapons and objects. Players typically sta
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Lava</td>
+      <td>Extremely hot and extremely dangerous. How do I even store this?</td>
     </tr>
   </tbody>
 </table>
