@@ -10,24 +10,24 @@
   </thead>
   <tbody>
     <tr>
-      <td>+500 Credits</td>
+      <td>+500 Dreamstone</td>
       <td>10 Robux</td>
-      <td>Adds 500 credits to the player's balance.</td>
+      <td>Adds 500 Dreamstone to the player's balance.</td>
     </tr>
     <tr>
-      <td>+1,250 Credits</td>
+      <td>+1,250 Dreamstone</td>
       <td>20 Robux</td>
-      <td>Adds 1,250 credits to the player's balance.</td>
+      <td>Adds 1,250 Dreamstone to the player's balance.</td>
     </tr>
     <tr>
-      <td>+2,500 Credits</td>
+      <td>+2,500 Dreamstone</td>
       <td>40 Robux</td>
-      <td>Adds 2,500 credits to the player's balance.</td>
+      <td>Adds 2,500 Dreamstone to the player's balance.</td>
     </tr>
     <tr>
-      <td>+5,000 Credits</td>
+      <td>+5,000 Dreamstone</td>
       <td>80 Robux</td>
-      <td>Adds 5,000 credits to the player's balance.</td>
+      <td>Adds 5,000 Dreamstone to the player's balance.</td>
     </tr>
   </tbody>
 </table>
@@ -45,7 +45,7 @@
     <tr>
       <td>+25% Credit Multiplier</td>
       <td>125 Robux</td>
-      <td>Adds a 25% multiplier to earned credits.</td>
+      <td>Adds a 25% multiplier to earned Dreamstone.</td>
     </tr>
     <tr>
       <td>+3 Voting Power</td>
