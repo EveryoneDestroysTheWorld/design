@@ -5,16 +5,19 @@
     <tr>
       <th align="left">Item name</th>
       <th align="left">Effect</th>
+      <th align="left">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Time Bomb</td>
-      <td>Deals up to 35 damage.</td>
+      <td>Deals up to 35 damage, depending on how far the player is from the blast radius.</td>
+      <td>Great for tearing down buildings, blasting players, and adding to cakes. Sometimes, you need that explosive kick.</td>
     </tr>
     <tr>
       <td>Remote Mine</td>
       <td>This kind of works like a time bomb, but it explodes whenever you want it to! It’s useful for perfectly timing your attacks against other players. Deals up to 50 damage.</td>
+      <td></td>
     </tr>
     <tr>
       <td>Phone</td>
@@ -23,6 +26,7 @@
         This item is not selectable. It will always be active as long as it is in the player's inventory.<br /><br />
         Can revive downed players in Turf War.
       </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
