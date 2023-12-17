@@ -48,6 +48,10 @@
       <td>Rocket Launcher</td>
       <td></td>
     </tr>
+    <tr>
+      <td>Wormhole</td>
+      <td>Summons a small blackhole that sucks up enemies materials if they come close to it, equally distributing it to you and your teammates if in range. Lasts 15 seconds, sucking up one random material every .1 seconds(?).</td>
+    </tr>
   </tbody>
 </table>
 
