@@ -72,3 +72,21 @@
     </tr>
   </tbody>
 </table>
+
+## Collectible items
+<table>
+  <thead>
+    <tr>
+      <th align="left">Item name</th>
+      <th align="left">Effect</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Corrupted Part</td>
+      <td>To use this item, place an odd looking part by selecting a location you want to place. The corrupted part has randomized color, material and shape. If either you or an enemy attempt to destroy this part, it'll explode and deal 48 damage with its explosive range, but this doesn't work on your teammates. The cooldown takes 26 seconds to finish.</td>
+      <td>This part looks suspiciously broken. You might want to throw it away and test it out by fooling someone.</td>
+    </tr>
+  </tbody>
+</table>
