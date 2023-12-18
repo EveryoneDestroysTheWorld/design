@@ -40,7 +40,7 @@
       <td><code>serverVersion</code> should be the server's version, not the latest game version.</td>
     </tr>
     <tr>
-      <td>©️ 2023 – 2024 Beastslash</td>
+      <td>© 2023 – 2024 Beastslash</td>
       <td>Text</td>
       <td>Beastslash copyright notice.</td>
     </tr>
