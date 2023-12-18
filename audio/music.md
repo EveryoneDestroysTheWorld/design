@@ -9,15 +9,25 @@ There are a variety of music tracks that play during specific points of the game
     <th align="left">Duration</th>
     <th align="left">Genres</th>
     <th align="left">Mood</th>
+    <th align="left">Notes to musician</th>
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>1</td>
+      <td>Title Theme*</td>
+      <td>Plays while the player is on the title screen.</td>
+      <td>2:00 – 3:30**</td>
+      <td>Hip-Hop / Jazz / Metal</td>
+      <td>Exciting</td>
+      <td>Should use a leitmotif from The Showrunners Sketch Mix, probably "Let's Act Like the Showrunners", "Season Complete", "You Better Not Touch That Remote", or "Series Finale".</td>
     </tr>
   </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="8">* Final names are to be determined by the assigned musicians.</td>
+    </tr>
+    <tr>
+      <td colspan="8">** Loopable.</td>
+    </tr>
+  </tfoot>
 </table>
