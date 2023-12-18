@@ -9,14 +9,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>Time Bomb</td>
-      <td>Deals up to 35 damage.</td>
-    </tr>
-    <tr>
-      <td>Remote Mine</td>
-      <td>This kind of works like a time bomb, but it explodes whenever you want it to! It’s useful for perfectly timing your attacks against other players. Deals up to 50 damage.</td>
-    </tr>
-    <tr>
       <td>Phone</td>
       <td>
         Players can use their phones to select damaged structures and rewind them to their former glory…so they can destroy it again. If you want something done right, you gotta do it yourself!<br /><br />
