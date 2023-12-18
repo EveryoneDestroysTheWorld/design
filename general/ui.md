@@ -1,5 +1,7 @@
 # User interfaces
 ## Title screen
+Opens automatically when the player joins the game.
+
 <table>
   <thead>
     <tr>
