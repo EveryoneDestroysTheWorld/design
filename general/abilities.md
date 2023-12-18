@@ -1,5 +1,9 @@
 # Abilities
-Each player has an ability that gives them special powers or weapons to use during the match. Explosive Mimicry is the default ability that every player will get.
+Each player has an ability that gives them special powers or weapons to use during the match. 
+
+Players can only use one ability per match.
+
+Explosive Mimicry is the default ability that every player will get.
 
 ### Explosive Mimicry
 You're the bomb! No, seriously. Your limbs are explosive, but don't worry: you regenerate them. You can also cause explosions with your hands and feet!
