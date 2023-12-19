@@ -1,4 +1,4 @@
-# User interface
+# User interfaces
 ## Player profile window
 ### Header
 The header is always shown.
@@ -37,6 +37,7 @@ The header is always shown.
 
 ### Overview
 The overview view is the default view. 
+
 <table>
   <thead>
     <tr>
@@ -85,7 +86,85 @@ The overview view is the default view.
 </table>
 
 ### Stats view
+The stats view will be a list of 
 
 ### Records view
+The records view will show a list of all recorded matches. 
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Name</th>
+      <th align="left">Type</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>result</code></td>
+      <td>Text</td>
+      <td><code>result</code> could be "Win", "Lose", "Tie", or "No contest", depending on the result of the match.</td>
+    </tr>
+    <tr>
+      <td><code>ownScore</code> – <code>rivalScore</code></td>
+      <td>Text</td>
+      <td><code>ownScore</code> is the number of rounds that the player won in the match, while <code>rivalScore</code> reflects the rival team's score. In case there are matches with more than two teams, then there will be more rival scores shown; however, the player's score will always be the first.</td>
+    </tr>
+    <tr>
+      <td><code>matchStartDate</code></td>
+      <td>Text</td>
+      <td>The date of the match.</td>
+    </tr>
+    <tr>
+      <td>Match ID: <code>matchID</code></td>
+      <td>Text</td>
+      <td><code>displayName</code> is the player's display name.</td>
+    </tr>
+    <tr>
+      <td>Rounds</td>
+      <td>Dropdown list toggle</td>
+      <td>Toggles a dropdown list that shows the rounds.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Round item
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Name</th>
+      <th align="left">Type</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>result</code></td>
+      <td>Text</td>
+      <td><code>result</code> could be "Win", "Lose", "Tie", or "No contest", depending on the result of the match.</td>
+    </tr>
+    <tr>
+      <td><code>ownScore</code> – <code>rivalScore</code></td>
+      <td>Text</td>
+      <td><code>ownScore</code> is the player's score at the end of the round, while <code>rivalScore</code> reflects the rival team's score. In case there are matches with more than two teams, then there will be more rival scores shown; however, the player's score will always be the first.</td>
+    </tr>
+    <tr>
+      <td><code>roundDuration</code></td>
+      <td>Text</td>
+      <td>The duration of the round.</td>
+    </tr>
+    <tr>
+      <td>Round ID: <code>roundID</code></td>
+      <td>Text</td>
+      <td>The ID of the round.</td>
+    </tr>
+    <tr>
+      <td>Watch replay</td>
+      <td>Button</td>
+      <td>Only shows if replay data for the round is accessible.</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Stages view
