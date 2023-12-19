@@ -18,6 +18,11 @@ The header is always shown.
       <td>Closes the player profile window.</td>
     </tr>
     <tr>
+      <td>Back</td>
+      <td>Button</td>
+      <td>Goes to the previous page. Only shows if the player went to another profile.</td>
+    </tr>
+    <tr>
       <td>Spectate</td>
       <td>Button</td>
       <td>Only available when the player is in a match and for players with permission to spectate.</td>
@@ -148,6 +153,11 @@ The records view will show a list of all recorded matches.
       <td><code>ownScore</code> – <code>rivalScore</code></td>
       <td>Text</td>
       <td><code>ownScore</code> is the player's score at the end of the round, while <code>rivalScore</code> reflects the rival team's score. In case there are matches with more than two teams, then there will be more rival scores shown; however, the player's score will always be the first.</td>
+    </tr>
+    <tr>
+      <td><code>participantImages</code></td>
+      <td>Buttons</td>
+      <td>A photo of each round participant, separated by team. The button will lead to their profile.</td>
     </tr>
     <tr>
       <td><code>roundDuration</code></td>
