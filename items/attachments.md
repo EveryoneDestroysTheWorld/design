@@ -8,4 +8,4 @@ TBD.
 TBD.
 
 ## Purchasable attachments
-Designers should [prioritize fairness over monetization](../README.md#🥅-design-goals) when adding purchasable attachments. 
+TBD.
