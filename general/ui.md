@@ -134,7 +134,6 @@ The records view will show a list of all recorded matches.
 </table>
 
 #### Round item
-
 <table>
   <thead>
     <tr>
@@ -178,3 +177,49 @@ The records view will show a list of all recorded matches.
 </table>
 
 ### Stages view
+<table>
+  <thead>
+    <tr>
+      <th align="left">Name</th>
+      <th align="left">Type</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>stageName</code></td>
+      <td>Text</td>
+      <td>Replaced with the name of the stage.</td>
+    </tr>
+    <tr>
+      <td><code>stageName</code></td>
+      <td>Text</td>
+      <td><code>result</code> could be "Win", "Lose", "Tie", or "No contest", depending on the result of the match.</td>
+    </tr>
+    <tr>
+      <td><code>ownScore</code> – <code>rivalScore</code></td>
+      <td>Text</td>
+      <td><code>ownScore</code> is the player's score at the end of the round, while <code>rivalScore</code> reflects the rival team's score. In case there are matches with more than two teams, then there will be more rival scores shown; however, the player's score will always be the first.</td>
+    </tr>
+    <tr>
+      <td><code>participantImages</code></td>
+      <td>Buttons</td>
+      <td>A photo of each round participant, separated by team. The button will lead to their profile.</td>
+    </tr>
+    <tr>
+      <td><code>roundDuration</code></td>
+      <td>Text</td>
+      <td>The duration of the round.</td>
+    </tr>
+    <tr>
+      <td>Round ID: <code>roundID</code></td>
+      <td>Text</td>
+      <td>The ID of the round.</td>
+    </tr>
+    <tr>
+      <td>Watch replay</td>
+      <td>Button</td>
+      <td>Only shows if replay data for the round is accessible.</td>
+    </tr>
+  </tbody>
+</table>
