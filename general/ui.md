@@ -20,7 +20,7 @@ The header is always shown.
     <tr>
       <td>Back</td>
       <td>Button</td>
-      <td>Goes to the previous page. Only shows if the player went to another profile.</td>
+      <td>Goes to the previous page. Only shows if the player went to another profile or view.</td>
     </tr>
     <tr>
       <td>Spectate</td>
@@ -60,12 +60,12 @@ The overview view is the default view.
     <tr>
       <td><code>displayName</code></td>
       <td>Text</td>
-      <td><code>displayName</code> is the player's display name.</td>
+      <td>Replaced with the player's display name.</td>
     </tr>
     <tr>
       <td><code>title</code></td>
       <td>Text</td>
-      <td><code>title</code> is the player's title.</td>
+      <td>Replaced with the player's title.</td>
     </tr>
     <tr>
       <td>Country flag</td>
@@ -91,7 +91,52 @@ The overview view is the default view.
 </table>
 
 ### Stats view
-The stats view will be a list of 
+<table>
+  <thead>
+    <tr>
+      <th align="left">Name</th>
+      <th align="left">Type</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Matches won: <code>matchesWon</code></td>
+      <td>Text</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Rounds won: <code>roundsWon</code></td>
+      <td>Text</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Matches played: <code>matchesPlayed</code></td>
+      <td>Text</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Rounds played: <code>roundsPlayed</code></td>
+      <td>Text</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Players downed: <code>playersDowned</code></td>
+      <td>Text</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Times downed: <code>timesDefeated</code></td>
+      <td>Text</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dreamstone collected: <code>dreamstoneCollected</code></td>
+      <td>Text</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Records view
 The records view will show a list of all recorded matches. 
@@ -123,7 +168,7 @@ The records view will show a list of all recorded matches.
     <tr>
       <td>Match ID: <code>matchID</code></td>
       <td>Text</td>
-      <td><code>displayName</code> is the player's display name.</td>
+      <td>Replaced with the match's ID.</td>
     </tr>
     <tr>
       <td>Rounds</td>
@@ -194,7 +239,7 @@ The records view will show a list of all recorded matches.
     <tr>
       <td><code>stageCreatorName</code></td>
       <td>Text</td>
-      <td></td>
+      <td>Replaced with the stage creator name.</td>
     </tr>
     <tr>
       <td><code>stageCollaboratorImages</code></td>
@@ -204,27 +249,12 @@ The records view will show a list of all recorded matches.
     <tr>
       <td>Edit in Stage Maker</td>
       <td>Button</td>
-      <td>Only visible to collaborators.</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Buttons</td>
-      <td>A photo of each round participant, separated by team. The button will lead to their profile.</td>
-    </tr>
-    <tr>
-      <td><code>roundDuration</code></td>
-      <td>Text</td>
-      <td>The duration of the round.</td>
+      <td>Teleports the user to the Stage Maker then loads this stage. Only visible to collaborators.</td>
     </tr>
     <tr>
       <td>Stage ID: <code>roundID</code></td>
       <td>Text</td>
-      <td>The ID of the round.</td>
-    </tr>
-    <tr>
-      <td>Watch replay</td>
-      <td>Button</td>
-      <td>Only shows if replay data for the round is accessible.</td>
+      <td>The ID of the stage</td>
     </tr>
   </tbody>
 </table>
