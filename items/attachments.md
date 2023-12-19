@@ -4,7 +4,9 @@ Players can use attachments to modify their some of their items. Attachments are
 Players can apply or remove attachments at the Workshop. Players cannot modify attachments during a match. 
 
 ## Default attachments
-### Jets
+### Rocket Booster
+T-minus 5... 4... 3... 2...
+
 <table>
   <thead>
     <tr>
