@@ -1,5 +1,5 @@
 # Attachments
-Players can use attachments to modify their some of their items. Attachments are dynamic, so they may work with most items. Players can get attachments by earning them after completing specific tasks, or buying them from the shop. 
+Players can use attachments to modify their some of their items. Attachments are dynamic, so they may work with multiple items. Players can get attachments by earning them after completing specific tasks, or buying them from the shop. 
 
 Players can apply or remove attachments at the Workshop. Players cannot modify attachments during a match. 
 
