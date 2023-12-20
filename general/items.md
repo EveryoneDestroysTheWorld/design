@@ -46,7 +46,8 @@
     </tr>
     <tr>
       <td>Rocket Launcher</td>
-      <td>Test</td>
+      <td>Equip a quad-barrel rocket launcher on pickup. 
+          Disables most actions, but allows you to fire up to 4 powerful shots capable of destroying terrain and enemies alike.</td>
     </tr>
     <tr>
       <td>Wormhole</td>
