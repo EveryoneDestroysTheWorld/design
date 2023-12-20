@@ -68,34 +68,6 @@ This is the default view.
   </tbody>
 </table>
 
-### Abilities view
-<table>
-  <thead>
-    <tr>
-      <th align="left">Name</th>
-      <th align="left">Type</th>
-      <th align="left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Abilities</td>
-      <td>Button</td>
-      <td>Opens the abilities view.</td>
-    </tr>
-    <tr>
-      <td>Items</td>
-      <td>Button</td>
-      <td>Opens the items view.</td>
-    </tr>
-    <tr>
-      <td>Attachments</td>
-      <td>Button</td>
-      <td>Opens the attachments view.</td>
-    </tr>
-  </tbody>
-</table>
-
 ### All views, excluding Overview
 Each item, ability, and attachment will use this button template: 
 
