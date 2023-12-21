@@ -118,7 +118,7 @@ All compatible attachments will be shown on this view.
 
 On the right side, there is a UI that gives more details on the chosen attachment.
 
-table>
+<table>
   <thead>
     <tr>
       <th align="left">Name</th>
