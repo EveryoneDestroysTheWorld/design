@@ -115,3 +115,47 @@ All compatible attachments will be shown on this view.
     </tr>
   </tbody>
 </table>
+
+On the right side, there is a UI that gives more details on the chosen attachment.
+
+table>
+  <thead>
+    <tr>
+      <th align="left">Name</th>
+      <th align="left">Type</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>itemIcon</code></td>
+      <td>Image</td>
+      <td>Replaced with item icon.</td>
+    </tr>
+    <tr>
+      <td><code>itemName</code></td>
+      <td>Text</td>
+      <td>Replaced with item name.</td>
+    </tr>
+    <tr>
+      <td><code>itemPreview</code></td>
+      <td>Model</td>
+      <td>Replaced with a 3D model preview of the item with the attachment.</td>
+    </tr>
+    <tr>
+      <td><code>modifiedStats</code></td>
+      <td>Text</td>
+      <td>Replaced with the base stats with the modifications highlighted.</td>
+    </tr>
+    <tr>
+      <td>Attach</td>
+      <td>Button</td>
+      <td>Only works if the attachment is detached from the current item.</td>
+    </tr>
+    <tr>
+      <td>Detach</td>
+      <td>Button</td>
+      <td>Only works if the attachment is attached from the current item.</td>
+    </tr>
+  </tbody>
+</table>
