@@ -21,11 +21,6 @@
       <td>Goes to the previous page. Only shows if the player went to another view.</td>
     </tr>
     <tr>
-      <td>Spectate</td>
-      <td>Button</td>
-      <td>Only available when the player is in a match and for players with permission to spectate.</td>
-    </tr>
-    <tr>
       <td>Workshop</td>
       <td>Text</td>
       <td>This is the window name.</td>
@@ -34,7 +29,7 @@
 </table>
 
 ### Items view
-This is the default view. All of the player's items will be shown on this screen. Attachments and abilities should not be shown.
+This is the default view. All of the player's items will be shown on this screen. Attachments and abilities should not be shown. 
 
 <table>
   <thead>
@@ -59,7 +54,6 @@ This is the default view. All of the player's items will be shown on this screen
 </table>
 
 ### Selected item view
-#### Overview
 <table>
   <thead>
     <tr>
@@ -85,9 +79,39 @@ This is the default view. All of the player's items will be shown on this screen
       <td>Replaced with a 3D model preview of the item.</td>
     </tr>
     <tr>
-      <td></td>
+      <td><code>stats</code></td>
       <td>Text</td>
       <td>A list of stats will be shown.</td>
+    </tr>
+    <tr>
+      <td><code>attachment</code></td>
+      <td>Button</td>
+      <td>Opens the attachments view.</td>
+    </tr>
+  </tbody>
+</table>
+
+### Attachments view
+All compatible attachments will be shown on this view.
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Name</th>
+      <th align="left">Type</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>attachmentIcon</code></td>
+      <td>Image</td>
+      <td>Replaced with the item icon.</td>
+    </tr>
+    <tr>
+      <td><code>attachmentName</code></td>
+      <td>Text</td>
+      <td>Replaced with the item name.</td>
     </tr>
   </tbody>
 </table>
