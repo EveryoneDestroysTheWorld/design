@@ -1,8 +1,8 @@
 <!-- 
   Summarize what your pull request does. For example:
-    - "This pull request adds Ligma to the game design repository." 
+    - "This pull request adds outlines elements that developers should add when making the Workshop UI."
     - "This pull request adds the Explosive Mimicry ability to the game design repository."
-    - 
+    - "This pull request does a whole lot."
 -->
 This pull request...
 
@@ -22,5 +22,3 @@ To merge this pull request, approval from 75% of designers (@DemoDemons/designer
 - [ ] @InkyTheBlue
 - [ ] @nazthesilly
 - [ ] @Quintt
-       
-<!-- After publishing your pull request, be sure to update the thread on the Discord server. -->
