@@ -1,5 +1,7 @@
-# User interfaces
-## Player profile window
+# Player profiles
+**Player profiles** are summaries of the player's experiences and inventory.
+
+## User interface
 ### Header
 The header is always shown.
 
