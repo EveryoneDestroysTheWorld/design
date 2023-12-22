@@ -1,20 +1,26 @@
-<!-- Summarize what your pull request does. -->
+<!-- 
+  Summarize what your pull request does. For example:
+    - "This pull request adds Ligma to the game design repository." 
+    - "This pull request adds the Explosive Mimicry ability to the game design repository."
+    - 
+-->
 This pull request...
 
 ### 🛑 Dependencies
 None.
 
 ### ✅ Acceptance criteria
+#### Task completion
 - [ ] Complete completion criteria.
-- [ ] This pull request should be merged
-  - [ ] When at least 75% of @DemoDemons/designers approve it
-    - [ ] @Christian-Toney
-    - [ ] @InkyTheBlue
-    - [ ] @nazthesilly
-    - [ ] @Quintt
-  - [ ] Immediately
-    - [ ] Typo fix
-    - [ ] Focus area change
-    - [ ] Producer order
+- [ ] Create a discussion thread in the game design Discord channel. <!-- Use this format: https://github.com/DemoDemons/design/blob/main/discord-threads.md -->
+
+#### Designer approval
+To merge this pull request, approval from 75% of designers (@DemoDemons/designers) is usually required. The requestor may skip the approval process if the request is a change to their [personal focus area](https://github.com/DemoDemons/design#-game-designers), a typo fix, or an official producer decision.
+
+<!-- Do not check these boxes unless you are given permission from the respective designer. -->
+- [ ] @Christian-Toney
+- [ ] @InkyTheBlue
+- [ ] @nazthesilly
+- [ ] @Quintt
        
 <!-- After publishing your pull request, be sure to update the thread on the Discord server. -->
