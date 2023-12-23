@@ -5,6 +5,7 @@
     <tr>
       <th align="left">Item name</th>
       <th align="left">Effect</th>
+      <th align="left">Usage</th>
     </tr>
   </thead>
   <tbody>
@@ -15,6 +16,12 @@
         This item is not selectable. It will always be active as long as it is in the player's inventory.<br /><br />
         Can revive downed players in Turf War.
       </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Super Hammer</td>
+      <td>Players can use the Giant Hammer to destroy structures and give their enemies a nice facial. Can be thrown, but the player gotta get it back themself!</td>
+      <td>Press the primary action button to lift it and bring it down. Press and hold the primary action button for 2 seconds to charge it. Press the secondary action button to throw it in the direction of the mouse. Press and hold the secondary action button to charge it before throwing.</td>
     </tr>
   </tbody>
 </table>
@@ -31,10 +38,6 @@
     <tr>
       <td>Heal</td>
       <td>Become invincible for 15 seconds.</td>
-    </tr>
-    <tr>
-      <td>Super Hammer</td>
-      <td>Become invincible and get a huge hammer to break stuff with! All for 15 seconds.</td>
     </tr>
     <tr>
       <td>Rocket Launcher</td>
