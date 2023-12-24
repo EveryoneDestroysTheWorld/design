@@ -13,7 +13,7 @@ There are a variety of music tracks that play during specific points of the game
   </thead>
   <tbody>
     <tr>
-      <td>TBD</td>
+      <td>1</td>
       <td>Ambience</td>
       <td>Plays quietly in the DemoDemons Arena.</td>
       <td>As long as it needs to be (loopable)</td>
@@ -21,5 +21,22 @@ There are a variety of music tracks that play during specific points of the game
       <td>Person in a crowded stadium</td>
       <td>N/A</td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>Title Theme*</td>
+      <td>Plays while the player is on the title screen.</td>
+      <td>2:00 – 3:30**</td>
+      <td>Hip-Hop / Jazz / Metal</td>
+      <td>Exciting</td>
+      <td>Should use a leitmotif from The Showrunners Sketch Mix, probably "Let's Act Like the Showrunners", "Season Complete", "You Better Not Touch That Remote", or "Series Finale".</td>
+    </tr>
   </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="8">* Final names are to be determined by the assigned musicians.</td>
+    </tr>
+    <tr>
+      <td colspan="8">** Loopable.</td>
+    </tr>
+  </tfoot>
 </table>

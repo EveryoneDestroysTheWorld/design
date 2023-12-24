@@ -32,11 +32,11 @@ The player can change a variety of settings to personalize their experience in t
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Main volume</td>
+      <td><code>volume.main</code></td>
+      <td>A percentage representing the main volume level.</td>
+      <td>Slider (0 – 1, decimals accepted)</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table>
