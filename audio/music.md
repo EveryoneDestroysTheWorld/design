@@ -14,6 +14,15 @@ There are a variety of music tracks that play during specific points of the game
   <tbody>
     <tr>
       <td>1</td>
+      <td>Ambience</td>
+      <td>Plays quietly in the DemoDemons Arena.</td>
+      <td>As long as it needs to be (loopable)</td>
+      <td>Ambient</td>
+      <td>Person in a crowded stadium</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>Title Theme*</td>
       <td>Plays while the player is on the title screen.</td>
       <td>2:00 – 3:30**</td>
