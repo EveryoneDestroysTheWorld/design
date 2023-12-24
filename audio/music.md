@@ -30,6 +30,15 @@ There are a variety of music tracks that play during specific points of the game
       <td>Exciting</td>
       <td>Should use a leitmotif from The Showrunners Sketch Mix, probably "Let's Act Like the Showrunners", "Season Complete", "You Better Not Touch That Remote", or "Series Finale".</td>
     </tr>
+    <tr>
+      <td>3</td>
+      <td>Stage Save*</td>
+      <td>Plays when a stage is being saved in the Stage Maker.</td>
+      <td>0:04 – 0:10</td>
+      <td>Jazz / Easy-listening</td>
+      <td>Calm and satisfying</td>
+      <td>Use a Showrunners motif. It should sound kinda like a sitcom transition theme.</td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>
