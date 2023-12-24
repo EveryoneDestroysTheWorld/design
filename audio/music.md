@@ -31,7 +31,7 @@ There are a variety of music tracks that play during specific points of the game
       <td>Should use a leitmotif from The Showrunners Sketch Mix, probably "Let's Act Like the Showrunners", "Season Complete", "You Better Not Touch That Remote", or "Series Finale".</td>
     </tr>
     <tr>
-      <td>TBD</td>
+      <td>3</td>
       <td>Stage Save*</td>
       <td>Plays when a stage is being saved in the Stage Maker.</td>
       <td>0:04 – 0:10</td>
