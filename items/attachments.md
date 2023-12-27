@@ -12,14 +12,12 @@ T-minus 5... 4... 3... 2...
     <tr>
       <th align="left">Compatible item name</th>
       <th align="left">Effects</th>
-      <th align="left">Material cost</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="5">Super Hammer</td>
       <td>⭐ Adds an optional boomerang effect when thrown. After a player throws the hammer, they can press the secondary action button to call it back.</td>
-      <td rowspan="5">TBD</td>
     </tr>
     <tr>
       <td>➕ Increases maximum knockback by TBD.</td>
