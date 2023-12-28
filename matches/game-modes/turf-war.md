@@ -5,3 +5,19 @@ The game mode was introduced in v1.0.0.
 
 ## Tutorial
 Prior to the player joining their first match, the Host will offer to show the player the ways of the Turf War game mode. In the tutorial, they'll go over the rules, the player's ability, and the player's items. At the end, the player will have the chance to play against the Host. This will be optional; the player may leave the tutorial at any time.
+
+## User interface
+### Results screen
+The results screen will be shown at the end of the match. It will show which team won and lost, the final destruction distribution, and player stats. Player stats include the following: 
+* Banner
+* Icon
+* Display name
+* Username
+* Knockouts
+* Wipeouts
+* Assists
+* Parts broken
+* Parts repaired
+* Ability
+
+From this screen, the player can ask for a rematch with the same participants or return to the lobby.
