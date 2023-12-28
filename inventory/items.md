@@ -36,7 +36,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Heal</td>
+      <td>Plot Armor</td>
       <td>Become invincible for 15 seconds.</td>
     </tr>
     <tr>
