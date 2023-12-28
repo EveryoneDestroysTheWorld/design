@@ -8,7 +8,7 @@ Prior to the player joining their first match, the Host will offer to show the p
 
 ## User interface
 ### Results screen
-The results screen will be shown at the end of the match. It will show which team won and lost, the final destruction distribution, and player stats. Player stats include the following: 
+The results screen will be shown at the end of the match. It will show which teams won and lost, the final destruction distribution, and player stats. Player stats include the following: 
 * Banner
 * Icon
 * Display name
