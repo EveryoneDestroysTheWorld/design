@@ -19,7 +19,7 @@ The player can change a variety of settings to personalize their experience in t
       <td>Shortcut button that closes a user interface.</td>
       <td>Keybind</td>
       <td>
-        Keyboard: <code>Enum.KeyCode.End<br />
+        Keyboard: <code>Enum.KeyCode.End</code><br />
         Gamepad: <code>Enum.KeyCode.ButtonY</code>
       </td>
     </tr>
