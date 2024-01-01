@@ -12,11 +12,17 @@ The player can change a variety of settings to personalize their experience in t
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Close UI</td>
+      <td>
+        <code>controls.closeButton</code>
+      </td>
+      <td>Shortcut button that closes a user interface.</td>
+      <td>Keybind</td>
+      <td>
+        Keyboard: <code>Enum.KeyCode.End<br />
+        Gamepad: <code>Enum.KeyCode.ButtonY</code>
+      </td>
+    </tr>
     </tr>
   </tbody>
 </table>
