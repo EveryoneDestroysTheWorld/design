@@ -38,6 +38,15 @@ The player can change a variety of settings to personalize their experience in t
       <td>Slider (0 – 1, decimals accepted)</td>
       <td>1</td>
     </tr>
+    <tr>
+      <td>Item volume</td>
+      <td>
+        <code>volume.items</code>
+      </td>
+      <td>A percentage representing the item volume level.</td>
+      <td>Slider (0 – 1, decimals accepted)</td>
+      <td>1</td>
+    </tr>
   </tbody>
 </table>
 
