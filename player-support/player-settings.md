@@ -38,6 +38,15 @@ The player can change a variety of settings to personalize their experience in t
       <td>Slider (0 – 1, decimals accepted)</td>
       <td>1</td>
     </tr>
+    <tr>
+      <td>Ambience volume</td>
+      <td>
+        <code>volume.ambience</code>
+      </td>
+      <td>A percentage representing the ambience volume level.</td>
+      <td>Slider (0 – 1, decimals accepted)</td>
+      <td>1</td>
+    </tr>
   </tbody>
 </table>
 
