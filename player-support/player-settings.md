@@ -52,10 +52,12 @@ The player can change a variety of settings to personalize their experience in t
   </thead>
   <tbody>
     <tr>
+      <td>Delete profile</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        Starts the <a href="../data-management/save-profiles.md#deleting-save-profiles">profile deletion process</a>.
+      </td>
+      <td>Button</td>
       <td></td>
     </tr>
   </tbody>
