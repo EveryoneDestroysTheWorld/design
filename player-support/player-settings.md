@@ -12,11 +12,14 @@ The player can change a variety of settings to personalize their experience in t
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Go back one page</td>
+      <td>controls.backButton</td>
+      <td>Navigates to the last page in a UI.</td>
+      <td>Keybind</td>
+      <td>
+        Keyboard: <code>Enum.KeyCode.Backspace</code>
+        Gamepad: <code>Enum.KeyCode.ButtonB</code>
+      </td>
     </tr>
   </tbody>
 </table>
