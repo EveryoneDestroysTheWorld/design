@@ -41,6 +41,26 @@ The player can change a variety of settings to personalize their experience in t
   </tbody>
 </table>
 
+## Accessibility
+<table>
+  <thead>
+    <th align="left">Name</th>
+    <th align="left">Internal name</th>
+    <th align="left">Description</th>
+    <th align="left">Type</th>
+    <th align="left">Default value</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sound subtitles</td>
+      <td><code>accessibility.subtitles</code></td>
+      <td>A toggle for subtitles.</td>
+      <td>Checkbox</td>
+      <td>Enabled</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Data and privacy
 <table>
   <thead>
