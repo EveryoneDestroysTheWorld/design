@@ -54,7 +54,7 @@ The player can change a variety of settings to personalize their experience in t
     <tr>
       <td>Sound subtitles</td>
       <td><code>accessibility.subtitles</code></td>
-      <td>A toggle for subtitles.</td>
+      <td>A toggle for subtitles. These will appear at the bottom of the screen.</td>
       <td>Checkbox</td>
       <td>Enabled</td>
     </tr>
