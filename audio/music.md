@@ -39,6 +39,15 @@ There are a variety of music tracks that play during specific points of the game
       <td>Calm and satisfying</td>
       <td>Use a Showrunners motif. It should sound kinda like a sitcom transition theme.</td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td>Round Win*</td>
+      <td>Plays when the player wins a round.</td>
+      <td>0:01 – 0:06</td>
+      <td>Jazz / Rock / Pop</td>
+      <td>Energetic and happy</td>
+      <td></td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>
