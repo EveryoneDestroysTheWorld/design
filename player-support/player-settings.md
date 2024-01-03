@@ -12,11 +12,14 @@ The player can change a variety of settings to personalize their experience in t
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Use secondary action</td>
+      <td>controls.secondaryActionButton</td>
+      <td>Uses the secondary action of a selected item or weapon.</td>
+      <td>Keybind</td>
+      <td>
+        Mouse: Right click<br />
+        Gamepad: L2
+      </td>
     </tr>
   </tbody>
 </table>
