@@ -39,6 +39,15 @@ There are a variety of music tracks that play during specific points of the game
       <td>Calm and satisfying</td>
       <td>Use a Showrunners motif. It should sound kinda like a sitcom transition theme.</td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td>Match Win*</td>
+      <td>Plays when the player wins a match.</td>
+      <td>0:30 - 3:00**</td>
+      <td>Jazz / Rock / Pop</td>
+      <td>Happy, exciting, and satisfying</td>
+      <td>Probably an extended version of "Round Win"</td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>
