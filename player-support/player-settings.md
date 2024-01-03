@@ -52,11 +52,11 @@ The player can change a variety of settings to personalize their experience in t
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Who can spectate me?</td>
+      <td>privacy.allowedSpectators</td>
+      <td>Controls who is allowed to spectate the player. Beastslash staff members are allowed to bypass this setting to enforce policies.</td>
+      <td>Dropdown: "Everyone", "Friends", "No one"</td>
+      <td>Everyone</td>
     </tr>
   </tbody>
 </table>
