@@ -43,7 +43,7 @@ There are a variety of music tracks that play during specific points of the game
       <td>4</td>
       <td>Round Win*</td>
       <td>Plays when the player wins a round.</td>
-      <td>0:01 – 0:06</td>
+      <td>0:01 – 0:07</td>
       <td>Jazz / Rock / Pop</td>
       <td>Energetic and happy</td>
       <td></td>
