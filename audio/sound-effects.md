@@ -17,5 +17,12 @@ There are a variety of sound effects that play during specific points of the gam
       <td>0:01 – 0:04</td>
       <td>When someone sees something surprising.</td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>Enemy Down</td>
+      <td>Plays when the player downs an enemy.</td>
+      <td>0:00 – 0:02</td>
+      <td>Something unobtrusive and quick, but satisfying enough that makes the player want to down more players.</td>
+    </tr>
   </tbody>
 </table>
