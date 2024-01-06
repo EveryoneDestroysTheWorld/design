@@ -17,7 +17,7 @@ The player can change a variety of settings to personalize their experience in t
       <td>Uses the secondary action of a selected item or weapon.</td>
       <td>Keybind</td>
       <td>
-        Mouse: Right click
+        Mouse: Right click<br />
         Gamepad: L2
       </td>
     </tr>
