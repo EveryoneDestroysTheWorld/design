@@ -60,6 +60,8 @@ The player can change a variety of settings to personalize their experience in t
         <code>volume.chatMentions</code>
       </td>
       <td>A percentage representing the chat mention volume level.</td>
+      <td>Slider (0 – 1, decimals accepted)</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Sound effect volume</td>
