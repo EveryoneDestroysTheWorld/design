@@ -31,5 +31,12 @@ There are a variety of sound effects that play during specific points of the gam
       <td>0:01 – 0:03</td>
       <td>Something that alerts the player about a specific time, like an alarm clock or an airhorn.</td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td>MVP Select</td>
+      <td>Plays when the game selects the MVP at the end of a round.</td>
+      <td>0:00 – 0:02</td>
+      <td>Satisfying</td>
+    </tr>
   </tbody>
 </table>
