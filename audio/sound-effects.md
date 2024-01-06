@@ -19,6 +19,13 @@ There are a variety of sound effects that play during specific points of the gam
     </tr>
     <tr>
       <td>2</td>
+      <td>Enemy Down</td>
+      <td>Plays when the player downs an enemy.</td>
+      <td>0:00 – 0:02</td>
+      <td>Something unobtrusive and quick, but satisfying enough that makes the player want to down more players.</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Round Timer Expired</td>
       <td>Plays when the round timer hits 0.</td>
       <td>0:01 – 0:03</td>
