@@ -50,6 +50,15 @@ There are a variety of music tracks that play during specific points of the game
     </tr>
     <tr>
       <td>5</td>
+      <td>Round Lose*</td>
+      <td>Plays when a player loses a round. "Match Lose" plays on the final round instead of this.</td>
+      <td>0:01 – 0:07</td>
+      <td>Jazz / Rock / Pop</td>
+      <td>A little melancholic, but hopeful tune. Something reassuring.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Trouble on Set*</td>
       <td>Plays while the player is on the "Trouble on Set" stage.</td>
       <td>2:45 — 3:15</td>
