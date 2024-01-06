@@ -12,11 +12,27 @@ The player can change a variety of settings to personalize their experience in t
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Close UI</td>
+      <td>
+        <code>controls.closeButton</code>
+      </td>
+      <td>Shortcut button that closes a user interface.</td>
+      <td>Keybind</td>
+      <td>
+        Keyboard: <code>Enum.KeyCode.End</code><br />
+        Gamepad: <code>Enum.KeyCode.ButtonY</code>
+      </td>
+    </tr>
+    <tr>
+      <td>Toggle pause menu</td>
+      <td>
+        <code>controls.togglePauseMenuButton</code>
+      </td>
+      <td>Button that toggles the DemoDemons pause menu. This should not conflict with the Roblox pause menu button (currently <code>Enum.KeyCode.Escape</code>).</td>
+      <td>KeyCode input</td>
+      <td>
+        <code>Enum.KeyCode.Pause</code>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -39,11 +55,38 @@ The player can change a variety of settings to personalize their experience in t
       <td>1</td>
     </tr>
     <tr>
+      <td>Music volume</td>
+      <td>
+        <code>volume.music</code>
+      </td>
+      <td>A percentage representing the music volume level.</td>
+      <td>Slider (0 – 1, decimals accepted)</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Sound effect volume</td>
+      <td>
+        <code>volume.sfx</code>
+      </td>
+      <td>A percentage representing the sound effect volume level.</td>
+      <td>Slider (0 – 1, decimals accepted)</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Ambience volume</td>
       <td>
         <code>volume.ambience</code>
       </td>
       <td>A percentage representing the ambience volume level.</td>
+      <td>Slider (0 – 1, decimals accepted)</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Chat mention volume</td>
+      <td>
+        <code>volume.chatMentions</code>
+      </td>
+      <td>A percentage representing the chat mention volume level.</td>
       <td>Slider (0 – 1, decimals accepted)</td>
       <td>1</td>
     </tr>
