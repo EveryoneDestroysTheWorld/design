@@ -38,4 +38,27 @@ T-minus 5... 4... 3... 2...
 TBD.
 
 ## Purchasable attachments
-TBD.
+### Sugar Addiction
+<table>
+  <thead>
+    <tr>
+      <th align="left">Compatible item name</th>
+      <th align="left">Effects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">Inner-gy Dragon</td>
+      <td>➕ Receive +5 HP for each item drunk.</td>
+    </tr>
+    <tr>
+      <td>➕ Decreased cooldown duration from 30 seconds to 15.</td>
+    </tr>
+    <tr>
+      <td>➖ The process can't be cancelled.</td>
+    </tr>
+    <tr>
+      <td>➖ 20% chance of being backfired with -10 HP damage and no effect after second usage.</td>
+    </tr>
+  </tbody>
+</table>
