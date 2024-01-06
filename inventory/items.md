@@ -48,6 +48,10 @@
       <td>Wormhole</td>
       <td>Summons a small blackhole that sucks up enemies materials if they come close to it, equally distributing it to you and your teammates if in range. Lasts 15 seconds, sucking up one random material every .1 seconds(?).</td>
     </tr>
+    <tr>
+      <td>Potion of Regeneration</td>
+      <td>Drinking this item for 3 seconds (which can be cancelled in the process) will regenerate your health by +4 HP per second for 20 seconds.</td>
+    </tr>
   </tbody>
 </table>
 
