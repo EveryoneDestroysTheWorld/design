@@ -12,6 +12,16 @@ The player can change a variety of settings to personalize their experience in t
   </thead>
   <tbody>
     <tr>
+      <td>Use primary action</td>
+      <td>controls.primaryActionButton</td>
+      <td>Uses the primary action of a selected item or weapon.</td>
+      <td>Keybind</td>
+      <td>
+        Mouse: Left click<br />
+        Gamepad: R2
+      </td>
+    </tr>
+    <tr>
       <td>Use secondary action</td>
       <td>controls.secondaryActionButton</td>
       <td>Uses the secondary action of a selected item or weapon.</td>
