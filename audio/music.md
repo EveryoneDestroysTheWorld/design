@@ -39,6 +39,15 @@ There are a variety of music tracks that play during specific points of the game
       <td>Calm and satisfying</td>
       <td>Use a Showrunners motif. It should sound kinda like a sitcom transition theme.</td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td>Trouble on Set*</td>
+      <td>Plays while the player is on the "Trouble on Set" stage.</td>
+      <td>2:45 — 3:15</td>
+      <td>Funk / Jazz</td>
+      <td>Exciting, chaotic, but coherent — something you'd probably hear as a late night talk show intro</td>
+      <td></td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>
