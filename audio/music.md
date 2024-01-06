@@ -41,12 +41,39 @@ There are a variety of music tracks that play during specific points of the game
     </tr>
     <tr>
       <td>4</td>
+      <td>Round Win*</td>
+      <td>Plays when the player wins a round.</td>
+      <td>0:01 – 0:07</td>
+      <td>Jazz / Rock / Pop</td>
+      <td>Energetic and happy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Round Lose*</td>
+      <td>Plays when a player loses a round. "Match Lose" plays on the final round instead of this.</td>
+      <td>0:01 – 0:07</td>
+      <td>Jazz / Rock / Pop</td>
+      <td>A little melancholic, but hopeful tune. Something reassuring.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Match Win*</td>
       <td>Plays when the player wins a match.</td>
       <td>0:30 - 3:00**</td>
       <td>Jazz / Rock / Pop</td>
       <td>Happy, exciting, and satisfying</td>
       <td>Probably an extended version of "Round Win"</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Trouble on Set*</td>
+      <td>Plays while the player is on the "Trouble on Set" stage.</td>
+      <td>2:45 — 3:15</td>
+      <td>Funk / Jazz</td>
+      <td>Exciting, chaotic, but coherent — something you'd probably hear as a late night talk show intro</td>
+      <td></td>
     </tr>
   </tbody>
   <tfoot>
