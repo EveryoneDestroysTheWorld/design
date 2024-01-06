@@ -12,6 +12,18 @@ The player can change a variety of settings to personalize their experience in t
   </thead>
   <tbody>
     <tr>
+      <td>Close UI</td>
+      <td>
+        <code>controls.closeButton</code>
+      </td>
+      <td>Shortcut button that closes a user interface.</td>
+      <td>Keybind</td>
+      <td>
+        Keyboard: <code>Enum.KeyCode.End</code><br />
+        Gamepad: <code>Enum.KeyCode.ButtonY</code>
+      </td>
+    </tr>
+    <tr>
       <td>Toggle pause menu</td>
       <td>
         <code>controls.togglePauseMenuButton</code>
