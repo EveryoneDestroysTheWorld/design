@@ -30,7 +30,7 @@ Christian "Sudobeast" Toney
 * McSpicyman
 * naz
 
-### Sound Effect Designer
+### Sound Designer
 Christian "Sudobeast" Toney
 
 ### Voice Actors
