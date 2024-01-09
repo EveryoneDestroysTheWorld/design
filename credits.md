@@ -1,5 +1,5 @@
 # Credits
-This is a list of credits, including collaborators and contributors from the present and past. For a list of the current team members, see the [Teams page] in the DemoDemons GitHub organization.
+This is a list of credits, including collaborators and contributors from the present and past. For a list of the current team members, see the [Teams page](https://github.com/orgs/DemoDemons/teams) in the DemoDemons GitHub organization.
 
 ## Producer
 Christian "Sudobeast" Toney
@@ -12,15 +12,18 @@ Christian "Sudobeast" Toney
 * Christian "Sudobeast" Toney
 * InkyTheBlue
 * naz
-* Dylan "Quintt" Provenzano
 
 ### Writers
 * Christian "Sudobeast" Toney
 * InkyTheBlue
 
+### Additional Matchmaking Design
+* Dylan "Quintt" Provenzano
+
 ## Audio Team
 ### Musicians
 * Christian "Sudobeast" Toney
+* McSpicyman
 * naz
 
 ### Sound Effect Designer
@@ -69,3 +72,56 @@ Christian "Sudobeast" Toney
 
 ### Quality Assurance Testers
 TBD
+
+## Visual Team
+### Builders
+* Christian "Sudobeast" Toney
+* naz
+* Wolfandfeline
+
+### 2D Artists
+* Christian "Sudobeast" Toney
+* naz
+* Nova Grace
+* RM177
+
+### 3D Artists
+* Christian "Sudobeast" Toney
+
+## Special Thanks
+Collaborators: have anyone you want to thank? Send a pull request!
+
+<table>
+  <thead>
+    <tr>
+      <th>Entity</th>
+      <th>Reason</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trawmisha Lewis</td>
+      <td>Providing love and advice</td>
+    </tr>
+    <tr>
+      <td>Discord, Inc.</td>
+      <td>Providing a place to talk about the project</td>
+    </tr>
+    <tr>
+      <td>Roblox Corporation</td>
+      <td>Providing a game engine and multiplayer services for free</td>
+    </tr>
+    <tr>
+      <td>Cloudflare, Inc.</td>
+      <td>Providing DDoS protection services for free</td>
+    </tr>
+    <tr>
+      <td>GitHub, Inc.</td>
+      <td>Providing project management tools for free</td>
+    </tr>
+    <tr>
+      <td>Microsoft Corporation</td>
+      <td>Providing Visual Studio Code for free</td>
+    </tr>
+  </tbody>
+</table>
