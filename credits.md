@@ -20,6 +20,9 @@ Christian "Sudobeast" Toney
 ### Additional Matchmaking Design
 * Dylan "Quintt" Provenzano
 
+### Web Designer
+Christian "Sudobeast" Toney
+
 ### Writers
 * Christian "Sudobeast" Toney
 * InkyTheBlue
