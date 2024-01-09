@@ -1,5 +1,5 @@
 # Credits
-This is a list of credits, including collaborators and contributors from the present and past. For a list of the current team members, see the [Teams page](https://github.com/orgs/DemoDemons/teams) in the DemoDemons GitHub organization.
+This is a list of credits, including collaborators and contributors from the past and present. For a list of the current team members, see the [Teams page](https://github.com/orgs/DemoDemons/teams) in the DemoDemons GitHub organization.
 
 ## Producer
 Christian "Sudobeast" Toney
@@ -8,17 +8,21 @@ Christian "Sudobeast" Toney
 Christian "Sudobeast" Toney
 
 ## Design Team
-### Designers
+### Systems Designers
 * Christian "Sudobeast" Toney
 * InkyTheBlue
 * naz
 
-### Writers
+### Stage Designers
 * Christian "Sudobeast" Toney
-* InkyTheBlue
+* naz
 
 ### Additional Matchmaking Design
 * Dylan "Quintt" Provenzano
+
+### Writers
+* Christian "Sudobeast" Toney
+* InkyTheBlue
 
 ## Audio Team
 ### Musicians
