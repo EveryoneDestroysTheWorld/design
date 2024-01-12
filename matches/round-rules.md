@@ -60,12 +60,12 @@ Rule changes will take effect in the next round.
     <tr>
       <td>Stage allowlist and blocklist</td>
       <td>List of stages</td>
-      <td>All approved stages on allowlist; all pending stages on blocklist</td>
+      <td>All approved stages on allowlist; all pending stages on blocklist (only stage owners and moderators can remove from blocklist)</td>
     </tr>
     <tr>
-      <td>Friend teams</td>
-      <td>Toggle</td>
-      <td>On</td>
+      <td>Team selection method</td>
+      <td>Selector: No teams, random, prioritize friends, or deprioritize friends</td>
+      <td>No teams</td>
     </tr>
   </tbody>
 </table>
