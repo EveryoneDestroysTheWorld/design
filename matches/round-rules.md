@@ -2,6 +2,7 @@
 A player may vote to adjust the current server’s game rules unless the server is a VIP server. If it is a VIP server, then the server owner and designated server admins will have access to immediately change the rules to their desire.
 
 Rule changes will take effect in the next round.
+
 <table>
   <thead>
     <tr>
@@ -39,7 +40,7 @@ Rule changes will take effect in the next round.
     <tr>
       <td>Instant respawning</td>
       <td>Toggle</td>
-      <td>Off</td>
+      <td>On</td>
     </tr>
     <tr>
       <td>Spectator healing limit</td>
@@ -60,6 +61,11 @@ Rule changes will take effect in the next round.
       <td>Stage allowlist and blocklist</td>
       <td>List of stages</td>
       <td>All approved stages on allowlist; all pending stages on blocklist</td>
+    </tr>
+    <tr>
+      <td>Friend teams</td>
+      <td>Toggle</td>
+      <td>On</td>
     </tr>
   </tbody>
 </table>
