@@ -114,14 +114,14 @@
       <td>Panic Attack</td>
       <td>Down a player while your health is in the "danger zone".</td>
       <td>
-        <a href="ttps://github.com/DemoDemons/design/issues/93">Panic Button</a>
+        <a href="/inventory/items/panic-button.md">Panic Button</a>
       </td>
     </tr>
     <tr>
       <td>Mysticalocardial Infarction</td>
       <td>Inner-gy Dragon while in effect from it.</td>
       <td>
-        <a href="https://github.com/DemoDemons/design/issues/94">Corrupted Part</a>
+        <a href="/inventory/items/corrupted-part.md">Corrupted Part</a>
       </td>
     </tr>
     <tr>
