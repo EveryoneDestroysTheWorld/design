@@ -1,0 +1,2 @@
+# Ranks
+Ranks will be based on [OpenSkill](https://devforum.roblox.com/t/openskill-a-skill-based-rating-system-for-matchmaking/1571168). Ranks will be hidden from the players and will only be used for matchmaking.
