@@ -1,13 +1,28 @@
-# Abilities
-Each player has an ability that gives them special powers or weapons to use during the match. 
+# Explosive Mimicry
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <b>Explosive Mimicry</b>
+        <section>Attachment</section>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Description</b>
+      </td>
+      <td>You're the bomb! No, seriously. Your limbs are explosive, but don't worry: you regenerate them. You can also cause explosions with your hands and feet!</td>
+    </tr>
+    <tr>
+      <td>
+        <b>Designer</b>
+      </td>
+      <td>Christian Toney</td>
+    </tr>
+  </tbody>
+<table>
 
-Players can only use one ability per match.
-
-Explosive Mimicry is the default ability that every player will get.
-
-### Explosive Mimicry
-You're the bomb! No, seriously. Your limbs are explosive, but don't worry: you regenerate them. You can also cause explosions with your hands and feet!
-
+## Actions
 <table>
   <thead>
     <tr>

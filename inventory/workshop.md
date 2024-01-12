@@ -6,21 +6,6 @@ The available modifications will be based on the player's item attachments. Some
 
 Players can buy attachments from the Dreamstone Shop, earn them from badges, and find them in special stages.
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Attachment name</th>
-      <th align="left">Effect</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
 ## User interface
 ### Header
 <table>
