@@ -1,9 +1,9 @@
-# Trouble on Set
+# Disqualified
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Trouble on Set</b>
+        <b>Disqualified</b>
         <section>Song</section>
       </td>
     </tr>
@@ -11,13 +11,13 @@
       <td>
         <b>Track number</b>
       </td>
-      <td>8</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>
         <b>Duration</b>
       </td>
-      <td>2:45 – 3:15 (depends on musician)</td>
+      <td>0:01 – 0:07 (depends on musician)</td>
     </tr>
     <tr>
       <td>
@@ -29,13 +29,13 @@
       <td>
         <b>Genre</b>
       </td>
-      <td>Funk • Jazz • Pop</td>
+      <td>Jazz • Rock • Pop</td>
     </tr>
     <tr>
       <td>
         <b>Feeling</b>
       </td>
-      <td>Exciting, chaotic, but coherent — something you'd probably hear as a late night talk show intro</td>
+      <td>An "oops" moment</td>
     </tr>
     <tr>
       <td>
@@ -53,7 +53,7 @@
 <table>
 
 ## Description
-Plays while the player is on the "Trouble on Set" stage.
+Plays when the player is permanently downed or disqualified. 
 
 ## Notes to musician
 None.
