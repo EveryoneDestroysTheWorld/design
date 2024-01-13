@@ -30,7 +30,9 @@
 <table>
 
 ## Effect
-Having this ability equipped and dying while downed, you'll be automatically revived in undead mode. In this mode, you'll walk at a slow speed, but you can deal 20 damage in contact with one of your enemies. You're also immune to taking any type of damage. However, while in this mode, you're still disqualified during the round and the round ends if no one else remains alive in your team.
+After you are disqualified, you'll be automatically revived in undead mode. You can turn your disqualified allies into zombies too! However, while in this mode, you're still disqualified during the round and the round ends if no one else remains alive in your team.
+
+In this mode, you'll walk at a slow speed, but you can deal 20 damage in contact with one of your enemies. You're also immune to taking any type of damage; however, you can be stunned if you are hit too much.
 
 ## Actions
-TBD
+This ability has no actions. 👻
