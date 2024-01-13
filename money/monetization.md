@@ -10,24 +10,24 @@
   </thead>
   <tbody>
     <tr>
-      <td>+500 Dreamstone</td>
+      <td>+500 Beastslash Points</td>
       <td>10 Robux</td>
-      <td>Adds 500 Dreamstone to the player's balance.</td>
+      <td>Adds 500 Beastslash Points to the player's balance.</td>
     </tr>
     <tr>
-      <td>+1,250 Dreamstone</td>
+      <td>+1,250 Beastslash Points</td>
       <td>20 Robux</td>
-      <td>Adds 1,250 Dreamstone to the player's balance.</td>
+      <td>Adds 1,250 Beastslash Points to the player's balance.</td>
     </tr>
     <tr>
-      <td>+2,500 Dreamstone</td>
+      <td>+2,500 Beastslash Points</td>
       <td>40 Robux</td>
-      <td>Adds 2,500 Dreamstone to the player's balance.</td>
+      <td>Adds 2,500 Beastslash Points to the player's balance.</td>
     </tr>
     <tr>
-      <td>+5,000 Dreamstone</td>
+      <td>+5,000 Beastslash Points</td>
       <td>80 Robux</td>
-      <td>Adds 5,000 Dreamstone to the player's balance.</td>
+      <td>Adds 5,000 Beastslash Points to the player's balance.</td>
     </tr>
   </tbody>
 </table>
@@ -43,7 +43,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>+25% Credit Multiplier</td>
+      <td>+25% Dreamstone Multiplier</td>
       <td>125 Robux</td>
       <td>Adds a 25% multiplier to earned Dreamstone.</td>
     </tr>
