@@ -71,6 +71,11 @@
       <td>Nothing</td>
     </tr>
     <tr>
+      <td>Game On!</td>
+      <td>Play a round.</td>
+      <td>None</td>
+    </tr>
+    <tr>
       <td>Winner of Games</td>
       <td>Win a team game.</td>
       <td>TBD</td>
