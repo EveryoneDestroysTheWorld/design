@@ -3,21 +3,14 @@ The Dreamstone Shop is a place where players can spend their Dreamstone on items
 
 Players can find the shop in the arena.
 
-## Weapons
-<table>
-  <thead>
-    <tr>
-      <th align="left">Name</th>
-      <th align="left">Price</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Scatterburst</td>
-      <td>TBD</td>
-    </tr>
-  </tbody>
-</table>
+## Items
+### Offensive items
+* [Scatterburst](/inventory/items/scatterburst.md)
+
+### Defensive items
+* [Inner-gy Dragon](/inventory/items/inner-gy-dragon.md)
+* [LoveGiver-HT](/inventory/items/lovegiver-ht.md)
+* [Panic Button](/inventory/items/panic-button.md)
 
 ## User interface
 ### Header
