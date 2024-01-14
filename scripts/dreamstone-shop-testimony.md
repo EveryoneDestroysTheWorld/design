@@ -8,4 +8,4 @@
 > I wasn't happy, so I went back to get a refund.
 
 > **Satisified Customer:**<br />
-> After hitting me with a crowbar, he asked if I was "satisfied" that it didn't happen again.
+> After hitting me with a crowbar, she asked if I was "satisfied" that it didn't happen again.

@@ -18,7 +18,7 @@
       <td>
         <b>Gender</b>
       </td>
-      <td>TBD</td>
+      <td>Female (she/her)</td>
     </tr>
     <tr>
       <td colspan="2">
@@ -77,13 +77,13 @@
 
 ## Relationships
 ### Argnorac
-With Argnorac being Entro's boss, he tries to make sure that the game is in good condition every time she visits. Not to impress Argnorac, but more to ensure that she doesn't punish the Demonic Guard and the operating team. If Entro wants to change something that the boss disagrees with, Argnorac challenges him to duels. Entro, confident in his work, usually accepts, even though he knows the risk. 
+TBD
 
 ### Entro
 TBD
 
 ### Announcer
-The Announcer is Entro's assistant and best friend. They know all the ins-and-outs of the Arena, so Entro relies on the announcer a lot.
+TBD
 
 ## Dialogue
 * [Buying everything from The Dreamstone Shop](/scripts/dreamstone-shop-bought-everything.md)
