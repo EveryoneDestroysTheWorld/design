@@ -29,17 +29,6 @@ Christian "Sudobeast" Toney
 * InkyTheBlue
 
 ## Audio Team
-### Musicians
-* Christian "Sudobeast" Toney
-* McSpicyman
-* naz
-
-### Sound Designer
-Christian "Sudobeast" Toney
-
-### Sound Engineer
-Christian "Sudobeast" Toney
-
 ### Cast
 <table>
   <thead>
@@ -95,6 +84,17 @@ Christian "Sudobeast" Toney
     </tr>
   </tbody>
 </table>
+
+### Musicians
+* Christian "Sudobeast" Toney
+* McSpicyman
+* naz
+
+### Sound Designer
+Christian "Sudobeast" Toney
+
+### Sound Engineer
+Christian "Sudobeast" Toney
 
 ## Technology Team
 ### Programmers
