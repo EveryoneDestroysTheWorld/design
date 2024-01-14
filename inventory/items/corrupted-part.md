@@ -29,4 +29,4 @@ To use this item, place an odd looking part by selecting a location you want to 
 The corrupted part has randomized color, material and shape. If either you or an enemy attempt to destroy this part, it'll explode and deal 48 damage with its explosive range, but this doesn't work on your teammates. The cooldown takes 26 seconds to finish.
 
 ## Attachments
-This item has no attachments yet. [Why not make one?](https://github.com/DemoDemons/design/issues/new)
+* [Explosive Gel](../attachments/explosive-gel.md#corrupted-part)
