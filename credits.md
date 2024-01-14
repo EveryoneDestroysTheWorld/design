@@ -120,8 +120,8 @@ TBD
 * Nova Grace
 * RM177
 
-### 3D Artists
-* Christian "Sudobeast" Toney
+### 3D Artist
+Christian "Sudobeast" Toney
 
 ## Community Team
 ### Community Liaison
