@@ -19,7 +19,7 @@ Christian "Sudobeast" Toney
 * naz
 
 ### Additional Matchmaking Design
-* Dylan "Quintt" Provenzano
+Dylan "Quintt" Provenzano
 
 ### Web Designer
 Christian "Sudobeast" Toney
