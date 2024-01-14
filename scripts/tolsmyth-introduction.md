@@ -1,4 +1,7 @@
 # Tolsmyth's introduction
+## Access
+The player can access this script by talking to Tolsmyth for the first time. 
+
 ## Characters
 * [Player](/characters/player.md)
 * [Tolsmyth](/characters/tolsmyth.md)
