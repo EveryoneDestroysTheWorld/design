@@ -4,14 +4,53 @@
 * [Tolsmyth](/characters/tolsmyth.md)
 
 ## Script
+### Path 1
 > **Tolsmyth:**<br />
-> Always mixin' and mashin', twistin' and turnin'...
+> Oh! 
+
+> *Tolsmyth drops a bottle of acid, causing smoke to form on the floor. The fire alarm goes off.*
 
 > **Tolsmyth:**<br />
-> Oh! You must be a new player.
+> Hi!
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Player response</th>
+      <th align="left">Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Are we going to die?</td>
+      <td>
+        Jump to <a href="#path-2">Path 2</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Who are you?</td>
+      <td>
+        Jump to <a href="#path-3">Path 3</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Path 2
+> **Tolsmyth:**<br />
+> Probably.
 
 > **Tolsmyth:**<br />
-> I make attachments that you can use to make cooler weapons.
+> But, don't worry about that.
+
+Jump to [Path 3](#path-3).
+
+### Path 3
+> **Tolsmyth:**<br />
+> You must be a new player.
+
+> **Tolsmyth:**<br />
+> I'm Tolsmyth. I make attachments that you can use to make cooler weapons.
 
 > **Tolsmyth:**<br />
 > Check this one out.
@@ -29,19 +68,19 @@
     <tr>
       <td>Woah...</td>
       <td>
-        Jump to <a href="#path-1">Path 1</a>
+        Jump to <a href="#path-4">Path 4</a>
       </td>
     </tr>
     <tr>
       <td>Yawn...</td>
       <td>
-        Jump to <a href="#path-2">Path 2</a>
+        Jump to <a href="#path-5">Path 5</a>
       </td>
     </tr>
   </tbody>
 </table>
 
-### Path 1
+### Path 4
 > **Tolsmyth:**<br />
 > Pretty neat, if I do say so myself.
 
@@ -50,9 +89,9 @@
 
 > *Tolsmyth gives the player a [Rocket Booster](/inventory/attachments/rocket-booster.md).*
 
-Jump to [Path 4](#path-4).
+Jump to [Path 7](#path-7).
 
-### Path 2
+### Path 5
 > **Tolsmyth:**<br />
 > Okay... Not a hammer guy. 
 
@@ -74,19 +113,19 @@ Jump to [Path 4](#path-4).
         Okay, now <i>that's</i> cool.
       </td>
       <td>
-        Jump to <a href="#path-1">Path 1</a>
+        Jump to <a href="#path-4">Path 4</a>
       </td>
     </tr>
     <tr>
       <td>How are you still not cool after looking away from the explosion?</td>
       <td>
-        Jump to <a href="#path-3">Path 3</a>
+        Jump to <a href="#path-6">Path 6</a>
       </td>
     </tr>
   </tbody>
 </table>
 
-### Path 3
+### Path 6
 > **Tolsmyth:**<br />
 > What!? You're messing with me.
 
@@ -106,9 +145,9 @@ Jump to [Path 4](#path-4).
 
 > *Tolsmyth gives the player a Rocket Booster.*
 
-Jump to [Path 4](#path-4).
+Jump to [Path 7](#path-7).
 
-### Path 4
+### Path 7
 > **Tolsmyth:**<br />
 > Try it out. See what you can do with it. 
 
