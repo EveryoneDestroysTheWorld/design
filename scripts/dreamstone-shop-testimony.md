@@ -1,7 +1,7 @@
 # Customer testimony
 ## Characters
 * [Satisfied Customer](/characters/satisifed-customer.md)
-* Dreamstone Shop cashier (mentioned)
+* [The Manager](/characters/the-manager.md) (mentioned)
 
 ## Script
 > **Satisified Customer:**<br />

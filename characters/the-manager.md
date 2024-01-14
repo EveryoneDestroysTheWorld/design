@@ -84,3 +84,8 @@ TBD
 
 ### Announcer
 The Announcer is Entro's assistant and best friend. They know all the ins-and-outs of the Arena, so Entro relies on the announcer a lot.
+
+## Dialogue
+* [Buying everything from The Dreamstone Shop](/scripts/dreamstone-shop-bought-everything.md)
+* [Nothing available at The Dreamstone Shop](/scripts/dreamstone-shop-nothing-available.md)
+* [The Manager's introduction](/scripts/the-manager-introduction.md)
