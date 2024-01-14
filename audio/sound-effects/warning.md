@@ -17,7 +17,7 @@
       <td>
         <b>Duration</b>
       </td>
-      <td>0:04 – 0:04</td>
+      <td>0:01 – 0:04</td>
     </tr>
     <tr>
       <td>
