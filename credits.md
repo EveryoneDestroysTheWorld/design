@@ -21,6 +21,9 @@ Christian "Sudobeast" Toney
 ### Additional Matchmaking Design
 Dylan "Quintt" Provenzano
 
+### Sound Designer
+Christian "Sudobeast" Toney
+
 ### Web Designer
 Christian "Sudobeast" Toney
 
@@ -89,9 +92,6 @@ Christian "Sudobeast" Toney
 * Christian "Sudobeast" Toney
 * McSpicyman
 * naz
-
-### Sound Designer
-Christian "Sudobeast" Toney
 
 ### Sound Engineer
 Christian "Sudobeast" Toney
