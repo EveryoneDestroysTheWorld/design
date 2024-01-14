@@ -5,7 +5,8 @@
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Workshop Engineer</b>
+        <b>Tolsmyth</b>
+        <section>Character</section>
       </td>
     </tr>
     <tr>
