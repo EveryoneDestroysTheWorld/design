@@ -41,7 +41,7 @@
 > Probably.
 
 > **Tolsmyth:**<br />
-> But, don't worry about that.
+> But don't worry about that.
 
 Jump to [Path 3](#path-3).
 
