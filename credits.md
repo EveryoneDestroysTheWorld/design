@@ -10,6 +10,7 @@ Christian "Sudobeast" Toney
 ## Design Team
 ### Gameplay Designers
 * Christian "Sudobeast" Toney
+* Dylan "Quintt" Provenzano
 * InkyTheBlue
 * naz
 
