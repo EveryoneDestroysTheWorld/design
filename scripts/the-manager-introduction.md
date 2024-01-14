@@ -22,13 +22,13 @@ The player can choose from the following responses: ["I want a refund."](#player
 The game will pick a random scenario.
 
 #### Random scenario #1
-> *The Manager beheads the player and starts ballin'!! Is this LEGAL?? SHE SCORES!!!! THE CROWD GOES WILD!*
+> *The Manager BEHEADS the player and starts BALLINNN'!! Is this LEGAL?? Who cares; SHE SCORES!!!! THE CROWD GOES WILD!*
 
 #### Random scenario #2
 > **The Manager:**<br />
 > Alright, let me get the back of ya head.
 
-> *The Manager slaps the player, who causing them to bounce around the shop.*
+> *The Manager backhands the player, who causing them to bounce around the shop.*
 
 #### Random scenario #3
 > *The Manager claps twice. A large beast with a powerful dark aura enters the store. The store enters lockdown mode as the beast chases the player. The player can use their abilities and weapons to defend themselves.*
@@ -38,7 +38,7 @@ If the player defeats the beast,
 > A fanfare plays.
 
 > **The Manager:**<br />
-> Maybe he caught you, I would've felt bad and gave you your money back.
+> Maybe he caught you, I would've felt bad and gave your money back.
 
 > **The Manager:**<br />
 > Too bad.
