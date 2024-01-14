@@ -2,7 +2,6 @@
 ## Characters
 * [Player](/characters/player.md)
 * [Tolsmyth](/characters/tolsmyth.md)
-* [The Manager](/characters/the-manager.md) (mentioned)
 
 ## Script
 > **Tolsmyth:**<br />
