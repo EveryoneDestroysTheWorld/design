@@ -51,17 +51,16 @@
 
 > *Tolsmyth gives the player a [Rocket Booster](/inventory/attachments/rocket-booster.md).*
 
-> **Tolsmyth:**<br />
-> You can get more of those from The Dreamstone Shop.
-
-Jump to [Path 5](#path-5).
+Jump to [Path 4](#path-4).
 
 ### Path 2
 > **Tolsmyth:**<br />
-> 
+> Okay... Not a hammer guy. 
 
 > **Tolsmyth:**<br />
-> Well?
+> What about this?
+
+> *Tolsmyth all rounds of a [Rocket Launcher](/inventory/items/rocket-launcher.md) against a dummy. After that, he throws the entire gun at the dummy*
 
 <table>
   <thead>
@@ -80,9 +79,9 @@ Jump to [Path 5](#path-5).
       </td>
     </tr>
     <tr>
-      <td>My grandma can do that in her sleep.</td>
+      <td>How are you still not cool after looking away from the explosion?</td>
       <td>
-        Jump to <a href="#path-2">Path 3</a>
+        Jump to <a href="#path-3">Path 3</a>
       </td>
     </tr>
   </tbody>
@@ -90,53 +89,27 @@ Jump to [Path 5](#path-5).
 
 ### Path 3
 > **Tolsmyth:**<br />
-> Well, your GRANDMA ain't me.
+> What!? You're messing with me.
 
-> 
+> **Tolsmyth:**
+> Fine, show *me* how to do it, wise one.
 
-> *After all of that, Tolsmyth is exhausted.*
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Player response</th>
-      <th align="left">Result</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Impressive.</td>
-      <td>
-        Jump to <a href="#path-1">Path 1</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Awes--I mean, it was okay...</td>
-      <td>
-        Jump to <a href="#path-4">Path 4</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### Path 4
-> **Tolsmyth (stunned):**<br />
-> ...
+> *Tolsmyth gives the player a [Scatterburst](/inventory/items/scatterburst.md). When the player fires it, it explodes in their hands.*
 
 > **Tolsmyth:**<br />
-> Bwahaha! You were just doing that so I'd show you more cool stuff!
+> Bwahaha! 
 
 > **Tolsmyth:**<br />
-> Look, I can't give you all of that or [my boss](/characters/the-manager.md) will kill me...
+> That'll catch anyone by surprise.
 
 > **Tolsmyth:**<br />
-> But, here's something to start you off.
+> Here's something for being a good sport.
 
 > *Tolsmyth gives the player a Rocket Booster.*
 
-Jump to [Path 5](#path-5).
+Jump to [Path 4](#path-4).
 
-### Path 5
+### Path 4
 > **Tolsmyth:**<br />
 > Try it out. See what you can do with it. 
 
