@@ -8,7 +8,7 @@ Christian "Sudobeast" Toney
 Christian "Sudobeast" Toney
 
 ## Design Team
-### Systems Designers
+### Gameplay Designers
 * Christian "Sudobeast" Toney
 * InkyTheBlue
 * naz
@@ -36,7 +36,10 @@ Christian "Sudobeast" Toney
 ### Sound Designer
 Christian "Sudobeast" Toney
 
-### Voice Actors
+### Sound Engineer
+Christian "Sudobeast" Toney
+
+### Cast
 <table>
   <thead>
     <tr>
@@ -46,7 +49,7 @@ Christian "Sudobeast" Toney
   </thead>
   <tbody>
     <tr>
-      <td>Host</td>
+      <td>Entro</td>
       <td>TBD</td>
     </tr>
     <tr>
@@ -62,7 +65,31 @@ Christian "Sudobeast" Toney
       <td>TBD</td>
     </tr>
     <tr>
-      <td>Shopkeeper</td>
+      <td>The Manager</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Argnorac</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Security Chief</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Security Guard #1</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Satisified Customer</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Customer #2</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Crowd</td>
       <td>TBD</td>
     </tr>
   </tbody>
@@ -94,6 +121,10 @@ TBD
 
 ### 3D Artists
 * Christian "Sudobeast" Toney
+
+## Community Team
+### Community Liaison
+Dylan "Quintt" Provenzano
 
 ## Special Thanks
 Collaborators: have anyone you want to thank? Send a pull request!
