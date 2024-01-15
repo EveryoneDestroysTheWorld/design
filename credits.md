@@ -29,6 +29,7 @@ Christian "Sudobeast" Toney
 
 ### Writers
 * Christian "Sudobeast" Toney
+* Extravent3
 * InkyTheBlue
 
 ## Audio Team
