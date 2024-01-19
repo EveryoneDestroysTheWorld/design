@@ -5,10 +5,10 @@
 
 ## Script
 > **Team Carrier:**<br />
-> Some people say that you shouldn't leave any of your allies behind to work together.
+> Some people say that you should work together and not leave any of your allies behind.
 
 > **Team Carrier:**<br />
-> However, no one saved me when I was downed and we lost the game.
+> Guess what? No one saved me when I was downed!
 
 > **Team Carrier:**<br />
-> Those darn kids!
+> We lost because of those darn kids!
