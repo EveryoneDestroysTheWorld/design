@@ -11,3 +11,4 @@ None right now. [Why not add some?](https://github.com/DemoDemons/design/issues/
 
 ## Purchasable attachments
 * [Sugar Addiction](./sugar-addiction.md)
+* [Homing Device](./homing-device.md)

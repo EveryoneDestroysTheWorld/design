@@ -19,6 +19,11 @@
       <td>Get (x) Dreamstone.</td>
       <td>TBD</td>
     </tr>
+    <tr>
+      <td>The Manager's Favorite</td>
+      <td>Buy all abilities and items available at The Dreamstone Shop.</td>
+      <td>TBD</td>
+    </tr>
   </tbody>
 </table>
 

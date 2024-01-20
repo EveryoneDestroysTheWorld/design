@@ -4,7 +4,7 @@ The Workshop is a place in the arena where players can modify their items and we
 ## Attachments
 The available modifications will be based on the player's item attachments. Some attachments may increase some stats, while decreasing others. Attachments may also add new abilities to weapons. 
 
-Players can buy attachments from the Dreamstone Shop, earn them from badges, and find them in special stages.
+Players can buy attachments from The Dreamstone Shop, earn them from badges, and find them in special stages.
 
 ## User interface
 ### Header

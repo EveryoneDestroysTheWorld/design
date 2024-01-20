@@ -1,9 +1,9 @@
-# Trouble on Set
+# Lobby
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Trouble on Set</b>
+        <b>Lobby</b>
         <section>Song</section>
       </td>
     </tr>
@@ -11,31 +11,31 @@
       <td>
         <b>Track number</b>
       </td>
-      <td>8</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>
         <b>Duration</b>
       </td>
-      <td>2:45 – 3:15 (depends on musician)</td>
+      <td>1:00 – 6:00 (depends on musician)</td>
     </tr>
     <tr>
       <td>
         <b>Loopable</b>
       </td>
-      <td>No</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>
         <b>Genre</b>
       </td>
-      <td>Funk • Jazz • Pop</td>
+      <td>Jazz • Rock • Pop</td>
     </tr>
     <tr>
       <td>
         <b>Feeling</b>
       </td>
-      <td>Exciting, chaotic, but coherent — something you'd probably hear as a late night talk show intro</td>
+      <td>Happy and satisfying</td>
     </tr>
     <tr>
       <td>
@@ -53,7 +53,7 @@
 <table>
 
 ## Description
-Plays while the player is on the "Trouble on Set" stage.
+Plays while the player is in the lobby.
 
 ## Notes to musician
-None.
+Needs to pass a 12-minute loop test. If it is annoying before these 12 minutes are over, then something has to change.
