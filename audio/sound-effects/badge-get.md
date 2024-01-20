@@ -1,9 +1,9 @@
-# Warning
+# Badge Get
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Warning</b>
+        <b>Badge Get</b>
         <section>Sound effect</section>
       </td>
     </tr>
@@ -11,7 +11,7 @@
       <td>
         <b>Track number</b>
       </td>
-      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>
@@ -23,7 +23,7 @@
       <td>
         <b>Feeling</b>
       </td>
-      <td>When someone sees something surprising.</td>
+      <td>Surprising and satisfying</td>
     </tr>
     <tr>
       <td>
@@ -41,7 +41,7 @@
 <table>
 
 ## Description
-Plays when the game warns the player about something. (Deleting save profile, getting warned by moderation, etc.)
+Plays when the player gets a badge.
 
 ## Notes to engineer
 None.
