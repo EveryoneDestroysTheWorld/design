@@ -1,9 +1,9 @@
-# Enemy Down
+# Party Member Down
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Enemy Down</b>
+        <b>Party Member Down</b>
         <section>Sound effect</section>
       </td>
     </tr>
@@ -23,7 +23,7 @@
       <td>
         <b>Feeling</b>
       </td>
-      <td>Something unobtrusive and quick, but satisfying enough that makes the player want to down more players.</td>
+      <td>Something unobtrusive and quick, but unsatisfying; like a buzzer when you get the wrong answer.</td>
     </tr>
     <tr>
       <td>
@@ -41,7 +41,7 @@
 <table>
 
 ## Description
-Plays when the player downs an enemy.
+Plays when the player or an ally is defeated.
 
 ## Notes to engineer
 None.
