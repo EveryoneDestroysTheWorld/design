@@ -1,11 +1,12 @@
 # Satisfied Customer
-**Satisfied Customer** is a character in the DemoDemons game. They can be found near the Dreamstone Shop.
+**Satisfied Customer** is a character in the DemoDemons game. They can be found near The Dreamstone Shop.
 
 <table>
   <tbody>
     <tr>
       <td colspan="2">
         <b>Satisfied Customer</b>
+        <section>Character</section>
       </td>
     </tr>
     <tr>
@@ -30,8 +31,4 @@
 <table>
 
 ## Dialogue
-> **Satisified Customer:**<br />
-> I wasn't happy, so I went back to get a refund.
-
-> **Satisified Customer:**<br />
-> After hitting me with a crowbar, he asked if I was "satisfied" that it didn't happen again.
+* [Dreamstone Shop testimony](/scripts/dreamstone-shop-testimony.md)

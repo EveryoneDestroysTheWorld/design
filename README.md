@@ -1,5 +1,5 @@
 # Let's design DemoDemons!
-### 🥅 Design goals
+## 🥅 Design goals
 These are the design principles that the designers should go by for this game. All features should be based on these goals.
 * Encourage the player to create and feel empowered.
 * Ensure consistency across platforms (PC, mobile, console, etc.).
@@ -7,7 +7,7 @@ These are the design principles that the designers should go by for this game. A
 * Prioritize fairness over monetization.
 * Have a laugh.
 
-### 🎮 Game designers
+## 🎮 Game designers
 Each game designer has at least one specialty that they will focus on. Game designers can still contribute outside of their specialty, and proposed changes will be reviewed by all designers, regardless of their focus area. 
 
 If a game designer would like to change their focus area, they may edit this file and submit a pull request.
@@ -38,7 +38,7 @@ If a game designer would like to change their focus area, they may edit this fil
   </tbody>
 </table>
 
-### 🔒 Access
+## 🔒 Access
 Teams that are not listed in this table may need some access to a specific part of the game design to complete their tasks. For example, a musician may need to know some context behind the song they will make. In this case, game designers or the producer will tell other teams what they need to know directly — without giving them access to this repository. 
 <table>
   <thead>

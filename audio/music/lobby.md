@@ -1,9 +1,9 @@
-# Stage Save
+# Lobby
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Stage Save</b>
+        <b>Lobby</b>
         <section>Song</section>
       </td>
     </tr>
@@ -11,31 +11,31 @@
       <td>
         <b>Track number</b>
       </td>
-      <td>4</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>
         <b>Duration</b>
       </td>
-      <td>0:04 – 0:10 (depends on musician)</td>
+      <td>1:00 – 6:00 (depends on musician)</td>
     </tr>
     <tr>
       <td>
         <b>Loopable</b>
       </td>
-      <td>No</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>
         <b>Genre</b>
       </td>
-      <td>Jazz • Easy-listening</td>
+      <td>Jazz • Rock • Pop</td>
     </tr>
     <tr>
       <td>
         <b>Feeling</b>
       </td>
-      <td>Calm and satisfying</td>
+      <td>Happy and satisfying</td>
     </tr>
     <tr>
       <td>
@@ -53,7 +53,7 @@
 <table>
 
 ## Description
-Plays when a stage is being saved in the Stage Maker.
+Plays while the player is in the lobby.
 
 ## Notes to musician
-It should sound kinda like a sitcom transition theme.
+Needs to pass a 12-minute loop test. If it is annoying before these 12 minutes are over, then something has to change.
