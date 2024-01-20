@@ -11,22 +11,22 @@
   <tbody>
     <tr>
       <td>+500 Beastslash Points</td>
-      <td>10 Robux</td>
+      <td>20 Robux</td>
       <td>Adds 500 Beastslash Points to the player's balance.</td>
     </tr>
     <tr>
       <td>+1,250 Beastslash Points</td>
-      <td>20 Robux</td>
+      <td>40 Robux</td>
       <td>Adds 1,250 Beastslash Points to the player's balance.</td>
     </tr>
     <tr>
       <td>+2,500 Beastslash Points</td>
-      <td>40 Robux</td>
+      <td>75 Robux</td>
       <td>Adds 2,500 Beastslash Points to the player's balance.</td>
     </tr>
     <tr>
       <td>+5,000 Beastslash Points</td>
-      <td>80 Robux</td>
+      <td>150 Robux</td>
       <td>Adds 5,000 Beastslash Points to the player's balance.</td>
     </tr>
   </tbody>

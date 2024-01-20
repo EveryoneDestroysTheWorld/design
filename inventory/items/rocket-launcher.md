@@ -23,4 +23,4 @@
 <table>
 
 ## Attachments
-This item has no attachments yet. [Why not make one?](https://github.com/DemoDemons/design/issues/new)
+* [Explosive Gel](../attachments/explosive-gel.md#rocket-launcher)

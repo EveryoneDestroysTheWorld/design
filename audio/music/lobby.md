@@ -1,9 +1,9 @@
-# Round Win
+# Lobby
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Round Win</b>
+        <b>Lobby</b>
         <section>Song</section>
       </td>
     </tr>
@@ -11,19 +11,19 @@
       <td>
         <b>Track number</b>
       </td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>
         <b>Duration</b>
       </td>
-      <td>0:01 – 0:07 (depends on musician)</td>
+      <td>1:00 – 6:00 (depends on musician)</td>
     </tr>
     <tr>
       <td>
         <b>Loopable</b>
       </td>
-      <td>No</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>
@@ -35,7 +35,7 @@
       <td>
         <b>Feeling</b>
       </td>
-      <td>Energetic and happy</td>
+      <td>Happy and satisfying</td>
     </tr>
     <tr>
       <td>
@@ -53,7 +53,7 @@
 <table>
 
 ## Description
-Plays when the player wins a round.
+Plays while the player is in the lobby.
 
 ## Notes to musician
-None.
+Needs to pass a 12-minute loop test. If it is annoying before these 12 minutes are over, then something has to change.

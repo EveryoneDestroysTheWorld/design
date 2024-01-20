@@ -1,45 +1,33 @@
-# Round Win
+# Warning
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Round Win</b>
-        <section>Song</section>
+        <b>Warning</b>
+        <section>Sound effect</section>
       </td>
     </tr>
     <tr>
       <td>
         <b>Track number</b>
       </td>
-      <td>5</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>
         <b>Duration</b>
       </td>
-      <td>0:01 – 0:07 (depends on musician)</td>
-    </tr>
-    <tr>
-      <td>
-        <b>Loopable</b>
-      </td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>
-        <b>Genre</b>
-      </td>
-      <td>Jazz • Rock • Pop</td>
+      <td>0:01 – 0:04</td>
     </tr>
     <tr>
       <td>
         <b>Feeling</b>
       </td>
-      <td>Energetic and happy</td>
+      <td>When someone sees something surprising.</td>
     </tr>
     <tr>
       <td>
-        <b>Musician</b>
+        <b>Engineer</b>
       </td>
       <td>TBD</td>
     </tr>
@@ -53,7 +41,7 @@
 <table>
 
 ## Description
-Plays when the player wins a round.
+Plays when the game warns the player about something. (Deleting save profile, getting warned by moderation, etc.)
 
-## Notes to musician
+## Notes to engineer
 None.

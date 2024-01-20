@@ -1,9 +1,9 @@
-# Round Win
+# Disqualified
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Round Win</b>
+        <b>Disqualified</b>
         <section>Song</section>
       </td>
     </tr>
@@ -11,7 +11,7 @@
       <td>
         <b>Track number</b>
       </td>
-      <td>5</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>
@@ -35,7 +35,7 @@
       <td>
         <b>Feeling</b>
       </td>
-      <td>Energetic and happy</td>
+      <td>An "oops" moment</td>
     </tr>
     <tr>
       <td>
@@ -53,7 +53,7 @@
 <table>
 
 ## Description
-Plays when the player wins a round.
+Plays when the player is permanently downed or disqualified. 
 
 ## Notes to musician
 None.

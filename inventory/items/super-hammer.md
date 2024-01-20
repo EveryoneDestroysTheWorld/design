@@ -35,4 +35,5 @@ Can revive downed players in Turf War.
 Press the primary action button to lift it and bring it down. Press and hold the primary action button for 2 seconds to charge it. Press the secondary action button to throw it in the direction of the mouse. Press and hold the secondary action button to charge it before throwing.
 
 ## Attachments
+* [Explosive Gel](../attachments/explosive-gel.md#super-hammer)
 * [Rocket Boosters](../attachments/rocket-booster.md#super-hammer)

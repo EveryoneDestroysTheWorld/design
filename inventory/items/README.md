@@ -14,7 +14,7 @@ These items are obtainable in-round. Players will lose these items after the rou
 * [Wormhole](./wormhole.md)
 
 ## Purchasable items
-These items are purchasable in the Dreamstone Shop.
+These items are purchasable in The Dreamstone Shop.
 
 * [Inner-gy Dragon](./inner-gy-dragon.md)
 * [LoveGiver-HT](./lovegiver-ht.md)

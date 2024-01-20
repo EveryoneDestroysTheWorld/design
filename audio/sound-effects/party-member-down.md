@@ -1,45 +1,33 @@
-# Round Win
+# Party Member Down
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Round Win</b>
-        <section>Song</section>
+        <b>Party Member Down</b>
+        <section>Sound effect</section>
       </td>
     </tr>
     <tr>
       <td>
         <b>Track number</b>
       </td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>
         <b>Duration</b>
       </td>
-      <td>0:01 – 0:07 (depends on musician)</td>
-    </tr>
-    <tr>
-      <td>
-        <b>Loopable</b>
-      </td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>
-        <b>Genre</b>
-      </td>
-      <td>Jazz • Rock • Pop</td>
+      <td>0:01 – 0:03</td>
     </tr>
     <tr>
       <td>
         <b>Feeling</b>
       </td>
-      <td>Energetic and happy</td>
+      <td>Something unobtrusive and quick, but unsatisfying; like a buzzer when you get the wrong answer.</td>
     </tr>
     <tr>
       <td>
-        <b>Musician</b>
+        <b>Engineer</b>
       </td>
       <td>TBD</td>
     </tr>
@@ -53,7 +41,7 @@
 <table>
 
 ## Description
-Plays when the player wins a round.
+Plays when the player or an ally is defeated.
 
-## Notes to musician
+## Notes to engineer
 None.
