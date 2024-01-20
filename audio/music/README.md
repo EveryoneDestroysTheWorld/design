@@ -9,4 +9,5 @@ There are a variety of music tracks that play during specific points of the game
 6. ["Round Win"](./round-win.md)
 7. ["Round Lose"](./round-lose.md)
 8. ["Match Win"](./match-win.md)
-9. ["Trouble on Set"](./match-win.md)
+9. ["Match Lose"](./match-lose.md)
+10. ["Trouble on Set"](./match-win.md)
