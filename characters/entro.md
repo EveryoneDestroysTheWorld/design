@@ -1,5 +1,5 @@
 # Entro
-**Entro** is the in-universe host of the Demodemons game.
+**Entro** is the in-universe host of the DemoDemons game.
 
 <table>
   <tbody>
@@ -26,7 +26,7 @@
                 </td>
                 <td>
                   <b>Underworld:</b><br />
-                  Demonic Guard
+                  Pride Faction
                 </td>
               </tr>
               <tr>
@@ -34,7 +34,7 @@
                   <b>Title</b>
                 </td>
                 <td>
-                  Host, <i>Demodemons</i>
+                  Host, DemoDemons
                 </td>
               </tr>
               <tr>

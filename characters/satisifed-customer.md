@@ -1,5 +1,5 @@
 # Satisfied Customer
-**Satisfied Customer** is a character in the DemoDemons game. They can be found near the Dreamstone Shop.
+**Satisfied Customer** is a character in the DemoDemons game. They can be found near The Dreamstone Shop.
 
 <table>
   <tbody>
