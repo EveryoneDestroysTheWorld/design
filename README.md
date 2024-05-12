@@ -24,7 +24,7 @@ If a game designer would like to change their focus area, they may edit this fil
       <td>Game modes/customization, matchmaking, items, data management, and economy</td>
     </tr>
     <tr>
-      <td>Dylan "Quintt" Provenzano</td>
+      <td><strike>Dylan "Quintt" Provenzano</strike></td>
       <td>Matchmaking, game modes/customization, and items (in order of preference)</td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@ If a game designer would like to change their focus area, they may edit this fil
       <td>Game modes/customization, items, and incentives</td>
     </tr>
     <tr>
-      <td>naz</td>
+      <td><strike>naz</strike></td>
       <td>Game modes/customization and items</td>
     </tr>
   </tbody>
