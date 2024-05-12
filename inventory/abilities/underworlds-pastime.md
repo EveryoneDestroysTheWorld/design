@@ -3,8 +3,8 @@
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Sudobeast, Underworld's Pastime</b>
-        <section>Attachment</section>
+        <b>Batter-Up Demon</b>
+        <section>Archetype</section>
       </td>
     </tr>
     <tr>
