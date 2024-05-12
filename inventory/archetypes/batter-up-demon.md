@@ -65,7 +65,7 @@
     </tr>
     <tr>
       <td>Post-Game Rage</td>
-      <td>The player charges up their bat and swings it at an enemy. If the player misses, they'll be stunned for a bit. But, if they hit, the player and their victim will face up to three half-second quick time events as the player teleports around the victim . If their victim completes the events before the player, they can escape the combo. Gotta be fast with this one!</td>
+      <td>The player charges up their bat and swings it at an enemy. If the player misses, they'll be stunned for a bit. But, if they hit, the player and their victim will face up to three half-second quick time events as the player teleports around the victim, attacking them with their different weapons. If the victim completes an event with better timing than the player, they can escape the combo. Gotta be fast with this one!</td>
       <td>Up to TBD damage per hit. Significantly reduces stamina by TBD%.</td>
       <td>Press and hold the primary action button.</td>
     </tr>
