@@ -33,6 +33,7 @@
 * Increases HP by TBD.
 * Enemies will take damage if they touch the player.
 * Wall climbing enabled as long as the player has both hands.
+* Reduces speed by TBD.
 
 ## Actions
 <table>
