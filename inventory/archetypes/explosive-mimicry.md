@@ -4,8 +4,14 @@
     <tr>
       <td colspan="2">
         <b>Explosive Mimicry</b>
-        <section>Attachment</section>
+        <section>Archetype</section>
       </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Category</b>
+      </td>
+      <td>Destroyer</td>
     </tr>
     <tr>
       <td>

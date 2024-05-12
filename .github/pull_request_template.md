@@ -1,7 +1,7 @@
 <!-- 
   Summarize what your pull request does. For example:
     - "This pull request adds outlines elements that developers should add when making the Workshop UI."
-    - "This pull request adds the Explosive Mimicry ability to the game design repository."
+    - "This pull request adds the Explosive Mimicry archetype to the game design repository."
     - "This pull request does a whole lot."
 -->
 This pull request...

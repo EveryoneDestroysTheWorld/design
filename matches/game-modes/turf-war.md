@@ -15,6 +15,6 @@ The results screen will be shown at the end of the match. It will show which tea
 * Assists
 * Parts broken
 * Parts repaired
-* Ability
+* Archetype
 
 From this screen, the player can ask for a rematch with the same participants or return to the lobby. Players who approve rematch requests will be queued together in a new match, while the players who refuse the request will stay behind.

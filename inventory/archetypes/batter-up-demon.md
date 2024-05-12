@@ -9,6 +9,12 @@
     </tr>
     <tr>
       <td>
+        <b>Category</b>
+      </td>
+      <td>Fighter</td>
+    </tr>
+    <tr>
+      <td>
         <b>Description</b>
       </td>
       <td></td>
@@ -43,7 +49,7 @@
       <td>Strike-out Swipe</td>
       <td>The player swings their bat, slightly knocking back enemies and structures that come in contact.</td>
       <td>Up to TBD damage to enemies and buildings.</td>
-      <td>Press the primary action button. Hold the primary action button to charge.</td>
+      <td>Press the primary action button. Press and hold to charge, increasing damage and knockback.</td>
     </tr>
     <tr>
       <td>Here's the Pitch</td>
