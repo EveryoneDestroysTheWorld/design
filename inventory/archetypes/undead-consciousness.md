@@ -5,8 +5,14 @@
     <tr>
       <td colspan="2">
         <b>Undead Consciousness</b>
-        <section>Ability</section>
+        <section>Archetype</section>
       </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Category</b>
+      </td>
+      <td>Supporter</td>
     </tr>
     <tr>
       <td>
@@ -18,7 +24,7 @@
       <td>
         <b>Availability</b>
       </td>
-      <td>This item can be obtained by buying it in the shop... or same, but make it an exclusive Halloween ability!</td>
+      <td>This item can be obtained by buying it in the shop... or same, but make it an exclusive Halloween archetype!</td>
     </tr>
     <tr>
       <td>
@@ -35,4 +41,4 @@ After you are disqualified, you'll be automatically revived in undead mode. You 
 In this mode, you'll walk at a slow speed, but you can deal 20 damage in contact with one of your enemies. You're also immune to taking any type of damage; however, you can be stunned if you are hit too much.
 
 ## Actions
-This ability has no actions. 👻
+This archetype has no actions. 👻

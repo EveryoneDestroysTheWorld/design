@@ -1,9 +1,9 @@
-# Abilities
-Each player has an ability that gives them special powers or weapons to use during the match. 
+# Archetype
+Each player has an archetype that gives them special powers or weapons to use during the match. 
 
-Players can only use one ability per match.
+Players can only use one archetype per match.
 
-## Ability types
+## Archetype categories
 ### Destroyer
 Destroyers deal heavy damage to structures and the terrain.
 * [Explosive Mimicry](./explosive-mimicry.md)

@@ -82,7 +82,7 @@ This is the default view.
 </table>
 
 ### All views, excluding Overview
-Each item, ability, and attachment will use this button template: 
+Each item, archetype, and attachment will use this button template: 
 
 <table>
   <thead>
