@@ -29,8 +29,9 @@
 <table>
 
 ## Passive abilities
-* Increases defense by TBD. Enemies will take damage if they touch you.
+* Increases defense by TBD. 
 * Increases HP by TBD.
+* Enemies will take damage if they touch the player.
 * Wall climbing enabled as long as the player has both hands.
 
 ## Actions
@@ -66,7 +67,7 @@
       <td>Beast Slash</td>
       <td>The player powerfully swipes and strikes down their enemies with their sharp claws.</td>
       <td>Up to TBD damage to enemies and TBD damage to structures. May cause burns to enemies.</td>
-      <td>Press the primary action button. Only available while grounded.</td>
+      <td>Press the primary action button. Hold to charge and impale enemies, guaranteeing burn damage. Only available while grounded.</td>
     </tr>
     <tr>
       <td>Flame Duster</td>
