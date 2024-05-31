@@ -1,9 +1,9 @@
-# Explosive Mimicry
+# Explosive Mimic
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Explosive Mimicry</b>
+        <b>Explosive Mimic</b>
         <section>Archetype</section>
       </td>
     </tr>
