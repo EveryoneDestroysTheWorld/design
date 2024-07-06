@@ -70,7 +70,7 @@
       <td>Press and hold the primary action button.</td>
     </tr>
     <tr>
-      <td>Bunt Back</td>
+      <td>Bunt Block</td>
       <td>The player uses their bat to deflect an incoming attack. Area damage cannot be bunted.</td>
       <td>Reduces incoming damage by TBD% and knockback by TBD%. Reduces stamina by TBD% per absorbed hit.</td>
       <td>Press and hold the primary action button with the secondary action button.</td>
