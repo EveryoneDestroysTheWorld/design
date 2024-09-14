@@ -7,7 +7,7 @@ These are the design principles that the designers should go by for this game. A
 * Make the player feel empowered.
 * Ensure consistency across platforms (PC, mobile, console, etc.).
 * Make it fun for everyone, regardless of the player's experience.
-* Prioritize fairness over monetization.
+* Prioritize fairness over greed.
 * Have a laugh.
 
 ## 🎮 Game designers
