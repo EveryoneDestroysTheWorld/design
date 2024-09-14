@@ -11,7 +11,6 @@ These items are obtainable in-round. Players will lose these items after the rou
 * [Plot Armor](./plot-armor.md)
 * [Potion of Regeneration](./potion-of-regeneration.md)
 * [Rocket Launcher](./rocket-launcher.md)
-* [Wormhole](./wormhole.md)
 
 ## Purchasable items
 These items are purchasable in The Dreamstone Shop.
