@@ -1,7 +1,10 @@
-# Let's design DemoDemons!
+# Everyone Destroys the World design repository
+> [!IMPORTANT]
+> Feature implementations in the [`game`](https://github.com/EveryoneDestroysTheWorld/game), [`lobby`](https://github.com/EveryoneDestroysTheWorld/lobby), and [`stage-maker`](https://github.com/EveryoneDestroysTheWorld/stage-maker) repositories must originate from this repository. Features **should not** be added before so.
+
 ## 🥅 Design goals
 These are the design principles that the designers should go by for this game. All features should be based on these goals.
-* Encourage the player to create and feel empowered.
+* Make the player feel empowered.
 * Ensure consistency across platforms (PC, mobile, console, etc.).
 * Make it fun for everyone, regardless of the player's experience.
 * Prioritize fairness over monetization.
@@ -20,12 +23,16 @@ If a game designer would like to change their focus area, they may edit this fil
   </thead>
   <tbody>
     <tr>
-      <td>Christian "Sudobeast" Toney</td>
+      <td>Christian Toney</td>
       <td>Game modes/customization, matchmaking, items, data management, and economy</td>
     </tr>
     <tr>
       <td><strike>Dylan "Quintt" Provenzano</strike></td>
-      <td>Matchmaking, game modes/customization, and items (in order of preference)</td>
+      <td><strike>Matchmaking, game modes/customization, and items (in order of preference)</strike></td>
+    </tr>
+    <tr>
+      <td>hati_bati</td>
+      <td>TBD</td>
     </tr>
     <tr>
       <td>InkyTheBlue</td>
@@ -33,7 +40,7 @@ If a game designer would like to change their focus area, they may edit this fil
     </tr>
     <tr>
       <td><strike>naz</strike></td>
-      <td>Game modes/customization and items</td>
+      <td><strike>Game modes/customization and items</strike></td>
     </tr>
   </tbody>
 </table>
