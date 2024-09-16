@@ -13,7 +13,7 @@ The **Super Hammer** is a default item in the game.
       <td>
         <b>Description</b>
       </td>
-      <td>Players can use the Giant Hammer to destroy structures and give their enemies a nice facial. Can be thrown, but the player gotta get it back themself!</td>
+      <td>Players can use the Giant Hammer to destroy structures and give their enemies a nice facial.</td>
     </tr>
     <tr>
       <td>
@@ -25,14 +25,10 @@ The **Super Hammer** is a default item in the game.
 <table>
 
 ## Effect
-Players can use their phones to select damaged structures and rewind them to their former glory...so they can destroy it again. If you want something done right, you gotta do it yourself!
 
-This item is not selectable. It will always be active as long as it is in the player's inventory.
-
-Can revive downed players in Turf War.
 
 ## Usage
-Press the primary action button to lift it and bring it down. Press and hold the primary action button for 2 seconds to charge it. Press the secondary action button to throw it in the direction of the mouse. Press and hold the secondary action button to charge it before throwing.
+Press the primary action button to swing the hammer. Press and hold to charge. For every successful hit, it slightly damages the hammer. Before the hammer breaks, the player can throw it in any direction.
 
 ## Attachments
 * [Explosive Gel](../attachments/explosive-gel.md#super-hammer)
