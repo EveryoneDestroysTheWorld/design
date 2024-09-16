@@ -25,7 +25,7 @@ The **Super Hammer** is a default item in the game.
 <table>
 
 ## Effect
-
+This item has no effect.
 
 ## Usage
 Press the primary action button to swing the hammer. Press and hold to charge. For every successful hit, it slightly damages the hammer. Before the hammer breaks, the player can throw it in any direction.
