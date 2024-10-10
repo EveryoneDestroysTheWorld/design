@@ -1,10 +1,18 @@
-# Media
+# Official media page
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Media</b>
+        <b>Official media page</b>
         <section>Web page</section>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Document title</b>
+      </td>
+      <td>
+        Official media • Everyone Destroys the World
       </td>
     </tr>
     <tr>
@@ -30,5 +38,5 @@ The purpose of the media page is to give press and content creators easy access 
 ## Contents
 The media page will have most of the game's official media, including art, videos, and screenshots.
 
-At the bottom of the page, there'll be an email address for the user to request other unlisted assets. It'll be `demodemons@beastslash.com`.
+At the bottom of the page, there'll be an email address for the user to request other unlisted assets. It'll be `everyonedestroystheworld@beastslash.com`.
 
