@@ -3,7 +3,7 @@
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Soundtrack</b>
+        <b>Soundtrack page</b>
         <section>Web page</section>
       </td>
     </tr>
