@@ -34,7 +34,7 @@ At the top, there will be an entertaining trailer video featuring the core mecha
 ### About
 In this section, there are the following paragraphs:
 
-> **DemoDemons**<br />
+> **Everyone Destroys the World**<br />
 > The power's in your hands to destroy the world.
 
 > **Demolish everything**<br />
