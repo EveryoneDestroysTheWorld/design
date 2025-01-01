@@ -1,8 +1,5 @@
 # Everyone Destroys the World design repository
-> [!IMPORTANT]
-> Feature implementations in the [`game`](https://github.com/EveryoneDestroysTheWorld/game), [`lobby`](https://github.com/EveryoneDestroysTheWorld/lobby), and [`stage-maker`](https://github.com/EveryoneDestroysTheWorld/stage-maker) repositories must originate from this repository. Features **should not** be added before so.
-
-## 🥅 Design goals
+## Design goals
 These are the design principles that the designers should go by for this game. All features should be based on these goals.
 * Make the player feel empowered.
 * Ensure consistency across platforms (PC, mobile, console, etc.).
@@ -10,7 +7,7 @@ These are the design principles that the designers should go by for this game. A
 * Prioritize fairness over greed.
 * Have a laugh.
 
-## 🎮 Game designers
+## Game designers
 Each game designer has at least one specialty that they will focus on. Game designers can still contribute outside of their specialty, and proposed changes will be reviewed by all designers, regardless of their focus area. 
 
 If a game designer would like to change their focus area, they may edit this file and submit a pull request.
@@ -24,29 +21,29 @@ If a game designer would like to change their focus area, they may edit this fil
   <tbody>
     <tr>
       <td>Christian Toney</td>
-      <td>Game modes/customization, matchmaking, items, data management, and economy</td>
+      <td>Game modes, matchmaking, archetypes, items, data management, and economy</td>
     </tr>
     <tr>
       <td><strike>Dylan "Quintt" Provenzano</strike></td>
-      <td><strike>Matchmaking, game modes/customization, and items (in order of preference)</strike></td>
+      <td><strike>Matchmaking, game modes, and items (in order of preference)</strike></td>
     </tr>
     <tr>
       <td>hati_bati</td>
-      <td>TBD</td>
+      <td>Archetypes</td>
     </tr>
     <tr>
       <td>InkyTheBlue</td>
-      <td>Game modes/customization, items, and incentives</td>
+      <td>Game modes, items, and incentives</td>
     </tr>
     <tr>
       <td><strike>naz</strike></td>
-      <td><strike>Game modes/customization and items</strike></td>
+      <td><strike>Game modes and items</strike></td>
     </tr>
   </tbody>
 </table>
 
-## 🔒 Access
-Teams that are not listed in this table may need some access to a specific part of the game design to complete their tasks. For example, a musician may need to know some context behind the song they will make. In this case, game designers or the producer will tell other teams what they need to know directly — without giving them access to this repository. 
+## Access
+Teams that are not listed in this table may need some access to a specific part of the game design to complete their tasks. For example, a musician may need to know some context behind the song they will make. 
 <table>
   <thead>
     <tr>
@@ -68,13 +65,8 @@ Teams that are not listed in this table may need some access to a specific part 
     </tr>
     <tr>
       <td>Read</td>
-      <td>Everyone on the DemoDemons Team</td>
-      <td>For guidance and to submit issues.</td>
-    </tr>
-    <tr>
-      <td>No access</td>
       <td>Everyone else</td>
-      <td>To preserve security.</td>
+      <td>To maintain free access to GitHub Actions.</td>
     </tr>
   </tbody>
 </table>
