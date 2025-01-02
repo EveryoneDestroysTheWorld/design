@@ -1,11 +1,11 @@
-# Player
-The **player** is the main protagonist of the DemoDemons game. They are silent and have more than one name.
+# The Manager
+**The Manager** is the shopkeeper of The Dreamstone Shop.
 
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>Player</b>
+        <b>The Manager</b>
       </td>
     </tr>
     <tr>
@@ -13,6 +13,12 @@ The **player** is the main protagonist of the DemoDemons game. They are silent a
         <b>Classification</b>
       </td>
       <td>Demon</td>
+    </tr>
+    <tr>
+      <td>
+        <b>Gender</b>
+      </td>
+      <td>Female (she/her)</td>
     </tr>
     <tr>
       <td colspan="2">
@@ -26,7 +32,7 @@ The **player** is the main protagonist of the DemoDemons game. They are silent a
                 </td>
                 <td>
                   <b>Underworld:</b><br />
-                  Demonic Guard
+                  Greed Faction
                 </td>
               </tr>
               <tr>
@@ -34,7 +40,7 @@ The **player** is the main protagonist of the DemoDemons game. They are silent a
                   <b>Title</b>
                 </td>
                 <td>
-                  Player, DemoDemons
+                  Shopkeeper, The Dreamstone Shop
                 </td>
               </tr>
               <tr>
@@ -42,7 +48,8 @@ The **player** is the main protagonist of the DemoDemons game. They are silent a
                   <b>Boss</b>
                 </td>
                 <td>
-                  <a href="./entro.md">Entro</a>
+                  Argnorac (in the  Arena)<br />
+                  Coin (everywhere else)
                 </td>
               </tr>
             </tbody>
@@ -54,7 +61,7 @@ The **player** is the main protagonist of the DemoDemons game. They are silent a
       <td>
         <b>Voice actor</b>
       </td>
-      <td>None</td>
+      <td>TBD</td>
     </tr>
     <tr>
       <td>
@@ -65,6 +72,20 @@ The **player** is the main protagonist of the DemoDemons game. They are silent a
   </tbody>
 <table>
 
-## Biography
-### Becoming a DemoDemons player
-Shortly after their universe collapsed, the protagonist fell into the DemoDemons Arena as a new player. They have no idea about their past life.
+## Personality
+
+
+## Relationships
+### Argnorac
+TBD
+
+### Entro
+TBD
+
+### Announcer
+TBD
+
+## Dialogue
+* [Buying everything from The Dreamstone Shop](/scripts/dreamstone-shop-bought-everything.md)
+* [Nothing available at The Dreamstone Shop](/scripts/dreamstone-shop-nothing-available.md)
+* [The Manager's introduction](/scripts/the-manager-introduction.md)

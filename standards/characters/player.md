@@ -1,11 +1,11 @@
-# The Manager
-**The Manager** is the shopkeeper of The Dreamstone Shop.
+# Player
+The **player** is the main protagonist of the Everyone Destroys the World game. They are silent and have more than one name.
 
 <table>
   <tbody>
     <tr>
       <td colspan="2">
-        <b>The Manager</b>
+        <b>Player</b>
       </td>
     </tr>
     <tr>
@@ -13,12 +13,6 @@
         <b>Classification</b>
       </td>
       <td>Demon</td>
-    </tr>
-    <tr>
-      <td>
-        <b>Gender</b>
-      </td>
-      <td>Female (she/her)</td>
     </tr>
     <tr>
       <td colspan="2">
@@ -32,7 +26,7 @@
                 </td>
                 <td>
                   <b>Underworld:</b><br />
-                  Greed Faction
+                  Demonic Guard
                 </td>
               </tr>
               <tr>
@@ -40,7 +34,7 @@
                   <b>Title</b>
                 </td>
                 <td>
-                  Shopkeeper, The Dreamstone Shop
+                  Player, Everyone Destroys the World
                 </td>
               </tr>
               <tr>
@@ -48,8 +42,7 @@
                   <b>Boss</b>
                 </td>
                 <td>
-                  Argnorac (in the DemoDemons Arena)<br />
-                  Coin (everywhere else)
+                  <a href="./entro.md">Entro</a>
                 </td>
               </tr>
             </tbody>
@@ -61,7 +54,7 @@
       <td>
         <b>Voice actor</b>
       </td>
-      <td>TBD</td>
+      <td>None</td>
     </tr>
     <tr>
       <td>
@@ -72,20 +65,6 @@
   </tbody>
 <table>
 
-## Personality
-
-
-## Relationships
-### Argnorac
-TBD
-
-### Entro
-TBD
-
-### Announcer
-TBD
-
-## Dialogue
-* [Buying everything from The Dreamstone Shop](/scripts/dreamstone-shop-bought-everything.md)
-* [Nothing available at The Dreamstone Shop](/scripts/dreamstone-shop-nothing-available.md)
-* [The Manager's introduction](/scripts/the-manager-introduction.md)
+## Biography
+### Becoming a player
+Shortly after their universe collapsed, the protagonist fell into the DemoDemons Arena as a new player. They have no idea about their past life.

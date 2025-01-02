@@ -1,5 +1,5 @@
 # Entro
-**Entro** is the in-universe host of the DemoDemons game.
+**Entro** is the in-universe host of the Everyone Destroys the World game.
 
 <table>
   <tbody>
@@ -34,7 +34,7 @@
                   <b>Title</b>
                 </td>
                 <td>
-                  Host, DemoDemons
+                  Host, Everyone Destroys the World
                 </td>
               </tr>
               <tr>

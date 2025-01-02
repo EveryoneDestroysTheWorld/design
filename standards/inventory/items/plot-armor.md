@@ -23,4 +23,4 @@
 <table>
 
 ## Attachments
-This item has no attachments yet. [Why not make one?](https://github.com/DemoDemons/design/issues/new)
+This item has no attachments yet. [Why not make one?](https://github.com/EveryoneDestroysTheWorld/design/issues/new)

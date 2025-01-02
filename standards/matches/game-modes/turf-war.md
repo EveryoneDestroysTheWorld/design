@@ -1,7 +1,8 @@
 # Turf War
-**Turf War** is a game mode where the player or team that destroys the most wins the game. 
+> *"Wreck the stage and win!"*
+> <br />– Entro
 
-The game mode was introduced in v0.1.0.
+**Turf War** is a game mode where the player or team that destroys the most wins the game. 
 
 ## Dashing
 If a contestant has a specific amount of stamina, they can dash in a direction by pressing a movement button (left, right, up, or down) twice. The contestant will quickly move in a specific direction; however, this will somewhat reduce the contestant's current stamina.
