@@ -48,7 +48,7 @@
                   <b>Boss</b>
                 </td>
                 <td>
-                  Argnorac (in the DemoDemons Arena)<br />
+                  Argnorac (in the  Arena)<br />
                   Coin (everywhere else)
                 </td>
               </tr>

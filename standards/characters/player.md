@@ -1,5 +1,5 @@
 # Player
-The **player** is the main protagonist of the DemoDemons game. They are silent and have more than one name.
+The **player** is the main protagonist of the Everyone Destroys the World game. They are silent and have more than one name.
 
 <table>
   <tbody>
@@ -34,7 +34,7 @@ The **player** is the main protagonist of the DemoDemons game. They are silent a
                   <b>Title</b>
                 </td>
                 <td>
-                  Player, DemoDemons
+                  Player, Everyone Destroys the World
                 </td>
               </tr>
               <tr>
@@ -66,5 +66,5 @@ The **player** is the main protagonist of the DemoDemons game. They are silent a
 <table>
 
 ## Biography
-### Becoming a DemoDemons player
+### Becoming a player
 Shortly after their universe collapsed, the protagonist fell into the DemoDemons Arena as a new player. They have no idea about their past life.

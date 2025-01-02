@@ -7,7 +7,7 @@ Players can apply or remove attachments at the Workshop. Players cannot modify a
 * [Rocket Booster](./rocket-booster.md)
 
 ## Earnable attachments
-None right now. [Why not add some?](https://github.com/DemoDemons/design/issues/new)
+None right now. [Why not add some?](https://github.com/EveryoneDestroysTheWorld/design/issues/new)
 
 ## Purchasable attachments
 * [Sugar Addiction](./sugar-addiction.md)

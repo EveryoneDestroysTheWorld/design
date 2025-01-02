@@ -50,7 +50,7 @@ This is the default view. All of the player's items will be shown on this screen
   </thead>
   <tbody>
     <tr>
-      <td>What do you think about DemoDemons? Let us know here.</td>
+      <td>What do you think about Everyone Destroys the World? Let us know here.</td>
       <td>Large text box input</td>
       <td>Replaced with the item icon.</td>
     </tr>

@@ -58,7 +58,7 @@ The player can change a variety of settings to personalize their experience in t
       <td>
         <code>controls.togglePauseMenuButton</code>
       </td>
-      <td>Button that toggles the DemoDemons pause menu. This should not conflict with the Roblox pause menu button (currently <code>Enum.KeyCode.Escape</code>).</td>
+      <td>Button that toggles the pause menu. This should not conflict with the Roblox pause menu button (currently <code>Enum.KeyCode.Escape</code>).</td>
       <td>KeyCode input</td>
       <td>
         <code>Enum.KeyCode.Pause</code>

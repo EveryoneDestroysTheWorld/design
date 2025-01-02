@@ -14,7 +14,7 @@ The **title screen** opens automatically when the player joins the game.
     <tr>
       <td>Logo</td>
       <td>Image</td>
-      <td>A picture of the DemoDemons logo.</td>
+      <td>A picture of the Everyone Destroys the World logo.</td>
     </tr>
     <tr>
       <td>Play</td>
