@@ -1,4 +1,4 @@
-# Title Theme
+<!-- # Title Theme
 <table>
   <tbody>
     <tr>
@@ -56,4 +56,4 @@
 Plays while the player is on the title screen.
 
 ## Notes to musician
-Should use a leitmotif from The Showrunners Sketch Mix, probably "Let's Act Like the Showrunners", "Season Complete", "You Better Not Touch That Remote", or "Series Finale".
+Should use a leitmotif from The Showrunners Sketch Mix, probably "Let's Act Like the Showrunners", "Season Complete", "You Better Not Touch That Remote", or "Series Finale". -->

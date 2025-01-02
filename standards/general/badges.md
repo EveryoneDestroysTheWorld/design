@@ -1,4 +1,4 @@
-# Badges
+<!-- # Badges
 ## General badges
 <table>
   <thead>
@@ -165,4 +165,4 @@
       <td>TBD</td>
     </tr>
   </tbody>
-</table>
+</table> -->

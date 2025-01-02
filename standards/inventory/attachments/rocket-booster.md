@@ -1,4 +1,4 @@
-# Rocket Booster
+<!-- # Rocket Booster
 The **Rocket Booster** is an attachment in the game.
 
 <table>
@@ -30,4 +30,4 @@ The **Rocket Booster** is an attachment in the game.
 * ➕ Increases maximum knockback by TBD.
 * ➕ Increases maximum damage by TBD.
 * ➖ Uses TBD more stamina.
-* ➖ Slightly slows the player down by TBD when equipped.
+* ➖ Slightly slows the player down by TBD when equipped. -->

@@ -1,4 +1,4 @@
-# Nothing available at The Dreamstone Shop
+<!-- # Nothing available at The Dreamstone Shop
 ## Characters
 * [The Manager](/characters/the-manager.md)
 
@@ -7,4 +7,4 @@
 > Hello, moneybags.
 
 > **The Manager:**<br />
-> I don't have anything new for you, but you can still look around.
+> I don't have anything new for you, but you can still look around. -->

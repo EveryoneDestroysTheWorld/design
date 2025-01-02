@@ -1,4 +1,4 @@
-# Player
+<!-- # Player
 The **player** is the main protagonist of the Everyone Destroys the World game. They are silent and have more than one name.
 
 <table>
@@ -67,4 +67,4 @@ The **player** is the main protagonist of the Everyone Destroys the World game. 
 
 ## Biography
 ### Becoming a player
-Shortly after their universe collapsed, the protagonist fell into the DemoDemons Arena as a new player. They have no idea about their past life.
+Shortly after their universe collapsed, the protagonist fell into the DemoDemons Arena as a new player. They have no idea about their past life. -->

@@ -1,4 +1,4 @@
-# Player settings
+<!-- # Player settings
 The player can change a variety of settings to personalize their experience in the game. The player can access these settings through the in-game pause menu.
 
 ## Controls
@@ -199,4 +199,4 @@ The player can change a variety of settings to personalize their experience in t
       <td></td>
     </tr>
   </tbody>
-</table>
+</table> -->

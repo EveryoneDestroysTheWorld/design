@@ -1,4 +1,4 @@
-# Round rules
+<!-- # Round rules
 A player may vote to adjust the current server’s game rules unless the server is a VIP server. If it is a VIP server, then the server owner and designated server admins will have access to immediately change the rules to their desire.
 
 Rule changes will take effect in the next round.
@@ -68,4 +68,4 @@ Rule changes will take effect in the next round.
       <td>No teams</td>
     </tr>
   </tbody>
-</table>
+</table> -->

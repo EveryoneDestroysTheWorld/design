@@ -22,5 +22,5 @@
   </tbody>
 <table>
 
-## Attachments
-This item has no attachments yet. [Why not make one?](https://github.com/EveryoneDestroysTheWorld/design/issues/new)
+<!-- ## Attachments
+This item has no attachments yet. [Why not make one?](https://github.com/EveryoneDestroysTheWorld/design/issues/new) -->

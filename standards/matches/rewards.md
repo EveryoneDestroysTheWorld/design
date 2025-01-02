@@ -1,4 +1,4 @@
-# Rewards
+<!-- # Rewards
 Players can gain a variety of rewards depending on their performance in the match.
 
 ## Playing a round
@@ -11,4 +11,4 @@ Players can gain a variety of rewards depending on their performance in the matc
 
 ## Being the MVP
 * +800 Dreamstone
-* "Taking Over the Match" or "Hidden Value" badge, if not already obtained
+* "Taking Over the Match" or "Hidden Value" badge, if not already obtained -->

@@ -1,4 +1,4 @@
-# Warning
+<!-- # Warning
 <table>
   <tbody>
     <tr>
@@ -44,4 +44,4 @@
 Plays when the game warns the player about something. (Deleting save profile, getting warned by moderation, etc.)
 
 ## Notes to engineer
-None.
+None. -->

@@ -1,4 +1,4 @@
-# Attachments
+<!-- # Attachments
 Players can use attachments to modify their some of their items. Attachments are dynamic, so they may work with multiple items. Players can get attachments by earning them after completing specific tasks, or buying them from the shop. 
 
 Players can apply or remove attachments at the Workshop. Players cannot modify attachments during a match. 
@@ -11,4 +11,4 @@ None right now. [Why not add some?](https://github.com/EveryoneDestroysTheWorld/
 
 ## Purchasable attachments
 * [Sugar Addiction](./sugar-addiction.md)
-* [Homing Device](./homing-device.md)
+* [Homing Device](./homing-device.md) -->

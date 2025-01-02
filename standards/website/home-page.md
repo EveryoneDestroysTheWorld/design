@@ -1,4 +1,4 @@
-# Home page
+<!-- # Home page
 <table>
   <tbody>
     <tr>
@@ -61,4 +61,4 @@ In this section, there are the following paragraphs:
 Before the release, there are progress bars at the beginning and end of the website. The bars represent how close Beastslash is to releasing the game. There should be buttons that direct to the [progress page](./progress-page.md) 
 
 ### Play button
-Soon after the release, near the top and the end of the page, there are play buttons. These buttons lead to Everyone Destroys the World's game page on the Roblox website.
+Soon after the release, near the top and the end of the page, there are play buttons. These buttons lead to Everyone Destroys the World's game page on the Roblox website. -->

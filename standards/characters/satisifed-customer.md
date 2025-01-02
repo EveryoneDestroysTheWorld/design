@@ -1,4 +1,4 @@
-# Satisfied Customer
+<!-- # Satisfied Customer
 **Satisfied Customer** is a character in the Everyone Destroys the World game. They can be found near The Dreamstone Shop.
 
 <table>
@@ -31,4 +31,4 @@
 <table>
 
 ## Dialogue
-* [Dreamstone Shop testimony](/scripts/dreamstone-shop-testimony.md)
+* [Dreamstone Shop testimony](/scripts/dreamstone-shop-testimony.md) -->

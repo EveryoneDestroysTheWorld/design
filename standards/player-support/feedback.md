@@ -1,5 +1,5 @@
-# Feedback screen
-The **feedback screen** is a UI that allows players to submit suggestions, comments, and concerns to Beastslash. If the player would like a response from Beastslash, then the feedback will be treated as a ticket.
+<!-- # Feedback screen
+The **feedback screen** is a UI that allows players to submit suggestions, comments, and concerns to the Everyone Destroys the World Team. If the player would like a response from the team, then the feedback will be treated as a ticket.
 
 The player can access it from the pause menu.
 
@@ -152,4 +152,4 @@ At the bottom, the player can respond to Beastslash:
   </tbody>
 </table>
 
-If the player has the `feedback.respond` permission, they can respond on behalf of Beastslash.
+If the player has the `feedback.respond` permission, they can respond on behalf of Beastslash. -->

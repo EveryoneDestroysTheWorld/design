@@ -1,4 +1,4 @@
-# Disqualified
+<!-- # Disqualified
 <table>
   <tbody>
     <tr>
@@ -56,4 +56,4 @@
 Plays when the player is permanently downed or disqualified. 
 
 ## Notes to musician
-None.
+None. -->

@@ -22,5 +22,5 @@
   </tbody>
 <table>
 
-## Attachments
-* [Explosive Gel](../attachments/explosive-gel.md#rocket-launcher)
+<!-- ## Attachments
+* [Explosive Gel](../attachments/explosive-gel.md#rocket-launcher) -->

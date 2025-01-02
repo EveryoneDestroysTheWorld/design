@@ -1,4 +1,4 @@
-# Official media page
+<!-- # Official media page
 <table>
   <tbody>
     <tr>
@@ -39,4 +39,4 @@ The purpose of the media page is to give press and content creators easy access 
 The media page will have most of the game's official media, including art, videos, and screenshots.
 
 At the bottom of the page, there'll be an email address for the user to request other unlisted assets. It'll be `everyonedestroystheworld@beastslash.com`.
-
+ -->

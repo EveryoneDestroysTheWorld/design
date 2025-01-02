@@ -1,4 +1,4 @@
-# Badge Get
+<!-- # Badge Get
 <table>
   <tbody>
     <tr>
@@ -44,4 +44,4 @@
 Plays when the player gets a badge.
 
 ## Notes to engineer
-None.
+None. -->

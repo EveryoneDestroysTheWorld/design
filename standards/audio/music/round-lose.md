@@ -1,4 +1,4 @@
-# Round Lose
+<!-- # Round Lose
 <table>
   <tbody>
     <tr>
@@ -56,4 +56,4 @@
 Plays when a player loses a round. "Match Lose" plays on the final round instead of this.
 
 ## Notes to musician
-None.
+None. -->

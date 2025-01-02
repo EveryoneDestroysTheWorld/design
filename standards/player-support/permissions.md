@@ -1,4 +1,4 @@
-# Permissions
+<!-- # Permissions
 ## Management levels
 For security reasons, the default management level for all permissions should be 0. The place owner should always have level 3 management access for every permission.
 
@@ -405,4 +405,4 @@ For security reasons, the default management level for all permissions should be
       <td>No</td>
     </tr>
   </tbody>
-</table>
+</table> -->

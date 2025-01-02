@@ -1,4 +1,4 @@
-# Everyone Destroys the World design repository
+# Everyone Destroys the World design standards
 ## Design goals
 These are the design principles that the designers should go by for this game. All features should be based on these goals.
 * Make the player feel empowered.

@@ -1,4 +1,4 @@
-# Credits page
+<!-- # Credits page
 <table>
   <tbody>
     <tr>
@@ -32,4 +32,4 @@
   </tbody>
 <table>
 
-The **credits page** of the website includes an overview of the Everyone Destroys the World Team, both past and present. The credits page and the in-game credits GUI should have the same names.
+The **credits page** of the website includes an overview of the Everyone Destroys the World Team, both past and present. The credits page and the in-game credits GUI should have the same names. -->
