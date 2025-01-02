@@ -1,4 +1,4 @@
-# Party Member Down
+<!-- # Party Member Down
 <table>
   <tbody>
     <tr>
@@ -44,4 +44,4 @@
 Plays when the player or an ally is defeated.
 
 ## Notes to engineer
-None.
+None. -->

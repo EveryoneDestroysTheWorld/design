@@ -1,4 +1,4 @@
-# Trouble on Set
+<!-- # Trouble on Set
 <table>
   <tbody>
     <tr>
@@ -56,4 +56,4 @@
 Plays while the player is on the "Trouble on Set" stage.
 
 ## Notes to musician
-None.
+None. -->

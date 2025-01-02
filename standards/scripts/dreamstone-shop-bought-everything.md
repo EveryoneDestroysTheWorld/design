@@ -1,4 +1,4 @@
-# Buying everything from The Dreamstone Shop
+<!-- # Buying everything from The Dreamstone Shop
 ## Characters
 * [Customer #2](/characters/customer-2.md)
 * [Announcer](/characters/announcer.md)
@@ -65,4 +65,4 @@
 > Don't spend it all in one place.
 
 > **The Manager:**<br />
-> See ya.
+> See ya. -->

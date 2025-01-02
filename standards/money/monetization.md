@@ -1,4 +1,4 @@
-# Monetization
+<!-- # Monetization
 ## Developer products
 <table>
   <thead>
@@ -56,4 +56,4 @@
 </table>
 
 ## Premium payouts
-Roblox rewards developers with Robux for engaging Premium players. 
+Roblox rewards developers with Robux for engaging Premium players.  -->

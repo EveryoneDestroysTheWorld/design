@@ -1,4 +1,4 @@
-# Plot Armor
+<!-- # Plot Armor
 <table>
   <tbody>
     <tr>
@@ -23,4 +23,4 @@
 <table>
 
 ## Attachments
-This item has no attachments yet. [Why not make one?](https://github.com/EveryoneDestroysTheWorld/design/issues/new)
+This item has no attachments yet. [Why not make one?](https://github.com/EveryoneDestroysTheWorld/design/issues/new) -->

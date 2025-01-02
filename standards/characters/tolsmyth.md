@@ -1,4 +1,4 @@
-# Tolsmyth
+<!-- # Tolsmyth
 **Tolsmyth** is an engineer who is over the Workshop. He makes tools for The Dreamstone Shop.
 
 <table>
@@ -140,4 +140,4 @@ TBD
 TBD
 
 ## Dialogue
-* [Tolsmyth's introduction](/scripts/tolsmyth-introduction.md)
+* [Tolsmyth's introduction](/scripts/tolsmyth-introduction.md) -->

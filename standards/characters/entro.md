@@ -1,4 +1,4 @@
-# Entro
+<!-- # Entro
 **Entro** is the in-universe host of the Everyone Destroys the World game.
 
 <table>
@@ -78,4 +78,4 @@ Sometimes, he lets players break the rules in the name of fun. The only rule tha
 With Argnorac being Entro's boss, he tries to make sure that the game is in good condition every time she visits. Not to impress Argnorac, but more to ensure that she doesn't punish the Demonic Guard and the operating team. If Entro wants to change something that the boss disagrees with, Argnorac challenges him to duels. Entro, confident in his work, usually accepts, even though he knows the risk. 
 
 ### Announcer
-The Announcer is Entro's assistant and best friend. They know all the ins-and-outs of the Arena, so Entro relies on the announcer a lot.
+The Announcer is Entro's assistant and best friend. They know all the ins-and-outs of the Arena, so Entro relies on the announcer a lot. -->

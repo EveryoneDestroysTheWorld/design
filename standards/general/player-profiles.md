@@ -1,4 +1,4 @@
-# Player profiles
+<!-- # Player profiles
 **Player profiles** are summaries of the player's experiences and inventory.
 
 ## User interface
@@ -259,4 +259,4 @@ The records view will show a list of all recorded matches.
       <td>The ID of the stage</td>
     </tr>
   </tbody>
-</table>
+</table> -->

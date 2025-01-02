@@ -1,4 +1,4 @@
-# Trouble on Set
+<!-- # Trouble on Set
 **Trouble on Set** is an official stage published by Beastslash.
 
 <table>
@@ -10,7 +10,7 @@
     </tr>
     <tr>
       <td>Designer</td>
-      <td>Sudobeast</td>
+      <td>Christian "Sudobeast" Toney</td>
     </tr>
     <tr>
       <td>Builder</td>
@@ -37,4 +37,4 @@
 ## Layout
 In the middle of the set, there's a wooden desk with an office chair behind it. Next to the desk is a fabric seat and some home decor. Beyond that, there's everything that you'd probably find on a talk show studio (cameras, lighting, teleprompter, etc.). There is also a place for a musical band to play their instruments, in addition to ladders and stairs for players to get to higher ground. 
 
-Players will spawn across the set, but teams will spawn together.
+Players will spawn across the set, but teams will spawn together. -->

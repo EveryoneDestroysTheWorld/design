@@ -1,4 +1,4 @@
-# The Manager
+<!-- # The Manager
 **The Manager** is the shopkeeper of The Dreamstone Shop.
 
 <table>
@@ -88,4 +88,4 @@ TBD
 ## Dialogue
 * [Buying everything from The Dreamstone Shop](/scripts/dreamstone-shop-bought-everything.md)
 * [Nothing available at The Dreamstone Shop](/scripts/dreamstone-shop-nothing-available.md)
-* [The Manager's introduction](/scripts/the-manager-introduction.md)
+* [The Manager's introduction](/scripts/the-manager-introduction.md) -->

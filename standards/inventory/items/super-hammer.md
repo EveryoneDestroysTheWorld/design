@@ -41,6 +41,6 @@ Press the primary action button once and the player will become invincible to mo
 
 If the player falls into the void, this style will not protect them.
 
-## Attachments
+<!-- ## Attachments
 * [Explosive Gel](../attachments/explosive-gel.md#super-hammer)
-* [Rocket Boosters](../attachments/rocket-booster.md#super-hammer)
+* [Rocket Boosters](../attachments/rocket-booster.md#super-hammer) -->

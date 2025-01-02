@@ -1,4 +1,4 @@
-# Lobby
+<!-- # Lobby
 <table>
   <tbody>
     <tr>
@@ -56,4 +56,4 @@
 Plays while the player is in the lobby.
 
 ## Notes to musician
-Needs to pass a 12-minute loop test. If it is annoying before these 12 minutes are over, then something has to change.
+Needs to pass a 12-minute loop test. If it is annoying before these 12 minutes are over, then something has to change. -->

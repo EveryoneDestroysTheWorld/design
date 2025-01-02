@@ -1,4 +1,4 @@
-# Poor Teamwork
+<!-- # Poor Teamwork
 ## Characters
 * Team Carrier
 * Their Teammates (mentioned)
@@ -11,4 +11,4 @@
 > Guess what? No one saved me when I was downed!
 
 > **Team Carrier:**<br />
-> We lost because of those darn kids!
+> We lost because of those darn kids! -->

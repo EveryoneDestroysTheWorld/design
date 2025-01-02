@@ -1,4 +1,4 @@
-# Tolsmyth's introduction
+<!-- # Tolsmyth's introduction
 ## Access
 The player can access this script by talking to Tolsmyth for the first time. 
 
@@ -163,4 +163,4 @@ Jump to [Path 7](#path-7).
 > If you're feeling on the edge, you can be my crash test dummy. 
 
 > **Tolsmyth:**<br />
-> Come back if you're looking for challenges.
+> Come back if you're looking for challenges. -->

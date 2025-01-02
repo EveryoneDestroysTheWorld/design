@@ -1,4 +1,4 @@
-# The Manager's introduction
+<!-- # The Manager's introduction
 ## Characters
 * [Player](/characters/player.md)
 * [The Manager](/characters/the-manager.md)
@@ -49,4 +49,4 @@ If the player defeats the beast,
 
 ### Player: See ya.
 > **The Manager:**<br />
-> Thank you, come again.
+> Thank you, come again. -->

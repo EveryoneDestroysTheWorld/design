@@ -1,4 +1,4 @@
-# Enemy Down
+<!-- # Enemy Down
 <table>
   <tbody>
     <tr>
@@ -44,4 +44,4 @@
 Plays when the player downs an enemy.
 
 ## Notes to engineer
-None.
+None. -->

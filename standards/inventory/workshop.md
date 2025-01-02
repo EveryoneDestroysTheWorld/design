@@ -1,4 +1,4 @@
-# Workshop
+<!-- # Workshop
 The Workshop is a place in the arena where players can modify their items and weapons for free. 
 
 ## Attachments
@@ -165,4 +165,4 @@ On the right side, there is a UI that gives more details on the chosen attachmen
       <td>Only works if the attachment is attached from the current item.</td>
     </tr>
   </tbody>
-</table>
+</table> -->

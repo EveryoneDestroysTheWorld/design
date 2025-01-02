@@ -1,4 +1,4 @@
-# Economy
+<!-- # Economy
 Currency should not be used to give a specific player or team an unfair advantage. All purchasable items should either be cosmetic items that do not affect gameplay, or they should be boosts that give all players an equal chance of getting a boost.
 
 Beastslash staff can adjust a player’s balance as necessary.
@@ -20,4 +20,4 @@ C<sub>A</sub> = Dreamstone total, C<sub>W</sub> = Dreamstone won, W = number of 
 Beastslash Points (BP) are a secondary currency that is similar to Dreamstone, except that the currency is synchronized through all Beastslash games.
 
 ### Obtaining Beastslash Points
-Players can receive Beastslash Points by purchasing it directly with Robux or receiving it as a gift from somebody. 
+Players can receive Beastslash Points by purchasing it directly with Robux or receiving it as a gift from somebody.  -->

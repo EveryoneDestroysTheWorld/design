@@ -1,4 +1,4 @@
-# MVP Select
+<!-- # MVP Select
 <table>
   <tbody>
     <tr>
@@ -44,4 +44,4 @@
 Plays when the game selects the MVP at the end of a round.
 
 ## Notes to engineer
-None.
+None. -->

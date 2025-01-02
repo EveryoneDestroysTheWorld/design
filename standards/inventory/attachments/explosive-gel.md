@@ -1,4 +1,4 @@
-# Explosive Gel
+<!-- # Explosive Gel
 The **Explosive Gel** is an attachment in the game.
 
 <table>
@@ -37,4 +37,4 @@ The **Explosive Gel** is an attachment in the game.
 
 ### [Rocket Launcher](../items/rocket-launcher.md)
 * ⭐ The player can now throw the rocket launcher after running out of missiles. 
-* ⭐ The weapon will explode on impact.
+* ⭐ The weapon will explode on impact. -->

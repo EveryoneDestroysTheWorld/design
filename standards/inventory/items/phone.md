@@ -32,5 +32,5 @@ Can revive downed players in Turf War.
 ## Usage
 This item is not selectable. It will always be active as long as it is in the player's inventory.
 
-## Attachments
-This item is not customizable.
+<!-- ## Attachments
+This item is not customizable. -->

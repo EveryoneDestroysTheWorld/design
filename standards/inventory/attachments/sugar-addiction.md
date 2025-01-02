@@ -1,4 +1,4 @@
-# Sugar Addiction
+<!-- # Sugar Addiction
 <table>
   <tbody>
     <tr>
@@ -27,4 +27,4 @@
 * ➕ Receive +5 HP for each item drunk.
 * ➕ Decreased cooldown duration from 30 seconds to 15.
 * ➖ The process can't be cancelled.
-* ➖ 20% chance of being backfired with -10 HP damage and no effect after second usage
+* ➖ 20% chance of being backfired with -10 HP damage and no effect after second usage -->
