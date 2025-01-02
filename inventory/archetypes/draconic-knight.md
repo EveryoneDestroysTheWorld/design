@@ -23,7 +23,10 @@
       <td>
         <b>Designer</b>
       </td>
-      <td>Christian Toney</td>
+      <td>
+        Christian Toney
+        <br />InkyTheBlue
+      </td>
     </tr>
   </tbody>
 <table>
@@ -34,6 +37,7 @@
 * Enemies will take damage if they touch the player.
 * Wall climbing enabled as long as the player has both hands.
 * Reduces speed by TBD.
+* Flying and falling high enough makes contestants cause a small earthquake on landing, tripping nearby opponents and destroying parts, but the user loses a lot of stamina. If the user loses all of their stamina after dropping, the user will be tripped longer than their victims.
 
 ## Actions
 <table>
