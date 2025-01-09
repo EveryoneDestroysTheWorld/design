@@ -1,49 +1,28 @@
 # Everyone Destroys the World design standards
+## Preface
+These design standards are a guiding point for developers to make *Everyone Destroys the World*. Although these standards are published by the designers, the interpretation and execution of these standards rely on the judgment of other developers like programmers and artists. 
+
 ## Design goals
 These are the design principles that the designers should go by for this game. All features should be based on these goals.
 * Make the player feel empowered.
 * Ensure consistency across platforms (PC, mobile, console, etc.).
-* Make it fun for everyone, regardless of the player's skill level.
 * Prioritize fairness over greed.
-* Have a laugh.
+* Make it fun for everyone, regardless of the player's skill level.
 
-## Game designers
-Each game designer has at least one specialty that they will focus on. Game designers can still contribute outside of their specialty, and proposed changes will be reviewed by all designers, regardless of their focus area. 
+## Contributing
+### Design updates
+1. Search for an issue that addresses the update.
+2. If there isn't an issue, create create an issue describing the feature that you want to add, update, or remove. 
+3. After receiving approval from the game designers, create a pull request with your changes and point to the [`staging`](https://github.com/EveryoneDestroysTheWorld/design/tree/staging) branch.
 
-If a game designer would like to change their focus area, they may edit this file and submit a pull request.
-<table>
-  <thead>
-    <tr>
-      <th align="left">Person</th>
-      <th align="left">Focus areas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Christian Toney</td>
-      <td>Game modes, matchmaking, archetypes, items, data management, and economy</td>
-    </tr>
-    <tr>
-      <td><strike>Dylan "Quintt" Provenzano</strike></td>
-      <td><strike>Matchmaking, game modes, and items (in order of preference)</strike></td>
-    </tr>
-    <tr>
-      <td>hati_bati</td>
-      <td>Archetypes</td>
-    </tr>
-    <tr>
-      <td>InkyTheBlue</td>
-      <td>Game modes, items, and incentives</td>
-    </tr>
-    <tr>
-      <td><strike>naz</strike></td>
-      <td><strike>Game modes and items</strike></td>
-    </tr>
-  </tbody>
-</table>
+### Typo fixes
+1. Search for an issue that addresses the typo.
+2. If there isn't an issue, create one.
+3. Search for a pull request that addresses the typo.
+4. If there is a pull request, consider voting on or contributing to the pull request instead of creating one. 
+5. Create a pull request that fixes the typo and point to the [`staging`](https://github.com/EveryoneDestroysTheWorld/design/tree/staging) branch.
 
 ## Access
-Teams that are not listed in this table may need some access to a specific part of the game design to complete their tasks. For example, a musician may need to know some context behind the song they will make. 
 <table>
   <thead>
     <tr>
@@ -70,3 +49,9 @@ Teams that are not listed in this table may need some access to a specific part 
     </tr>
   </tbody>
 </table>
+
+## Questions
+If you have any questions about this repository, please [create an issue](https://github.com/EveryoneDestroysTheWorld/design/issues/new?template=Blank+issue). 
+
+> [!IMPORTANT]
+> This is not the place for customer support questions or bug reports. If you need in-game help, please contact us via email at support@everyonedestroysthe.world instead.
