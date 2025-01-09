@@ -21,11 +21,12 @@
     </tr>
     <tr>
       <td>
-        <b>Designer</b>
+        <b>Designers</b>
       </td>
       <td>
         Christian Toney
         <br />InkyTheBlue
+        <br />hati_bati
       </td>
     </tr>
   </tbody>
@@ -81,7 +82,7 @@
       <td>Press and hold the primary action button. Only available while flying.</td>
     </tr>
     <tr>
-      <td>Bubble Bomb</td>
+      <td>Tar Bomb</td>
       <td>The player spits out a flammable bubble that explodes on impact.</td>
       <td></td>
       <td>Press the secondary action button. Hold to charge.</td>
