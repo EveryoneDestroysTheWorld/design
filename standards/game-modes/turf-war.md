@@ -5,14 +5,17 @@
 **Turf War** is a [game mode](./) where the player or team that destroys the most wins the game. 
 
 ## Archetypes
-### Archetype usage
-All [archetypes](/standards/inventory/archetypes) are enabled for this game mode. 
+### Eligible archetypes
+All [archetypes](/standards/inventory/archetypes) are eligible for this game mode. 
 
 ### Default archetype
 The archetype that the contestant had in the lobby will be their default archetype. If the contestant did not choose an archetype in the lobby or no archetype can be found, the player will not have a default archetype; so, they should choose one during the round.
 
 ### Swapping archetypes 
 Any active contestants can swap their current archetypes at any time. Contestants are usually restricted to the archetypes that they own; however, round rules take precedent. 
+
+## Items
+All [items](/standards/inventory/items) are eligible for this game mode.
 
 ## Dashing
 If a contestant has a specific amount of stamina, they can dash in a direction by pressing a movement button (left, right, up, or down) twice. The contestant will quickly move in a specific direction; however, this will somewhat reduce the contestant's current stamina.
@@ -26,9 +29,9 @@ Bots will be randomly assigned a personality that will define how they interact 
 | Personality | Description |
 | :- | :- |
 | Aggressive | The bot will try to deal as much damage as possible at any cost, strategically switching from archetypes to items. Support actions and items are a low priority; they will only heal themselves if they are in a safe space or doing nothing for a while. If there is a teammate in the way of an enemy, the bot will push through. For example, if a bot has a gun that can pierce through a character, the bot is willing to take a shot if it means damaging a rival. The bot will attack anyone who attacks them, and will hunt them down. 
-| Friend | The bot will choose an ally to stick by and support them whenever possible.
-| Independent | The bot wil
+| Assistant | The bot will choose an ally to stick by and support them whenever possible. Their priority is destruction, but they will attack anyone who attacks their leader.
 | Mischievous | The bot typically focuses on causing structure damage, but they occasionally attack their own team. Support actions might be used on the bot or on a rival. Mischievous bots won't go out of their way to kill their teammates, but they may be the killing shot if they're at 1 HP. The bot will attack anyone who attacks them.
+| Ninja | The bot prioritizes silent archetypes and items that deal the most damage to characters. They will try to sneak up on their enemies, maybe try to confuse them, and take them out in the shadows.
 | Pyromaniac | Bombs! Rockets! Mines! This bot prioritizes anything that explodes and anyone they can set on fire. They prefer damaging large structures and groups, but small parts and individuals are fine too. Support actions and items are deprioritized, but if they get them, they will use them personally or use them when they get close to an ally. If bot is in a safe space for a specific amount of time, they may quickly switch to a support archetype to heal themselves, then swap back to another explosive archetype.
 | Wildcard | The bot randomly chooses one of these personalities at random times that may or may not be helpful. 
 
@@ -46,10 +49,22 @@ If a contestant's current health drops to 0, they will be "downed".
 If a contestant is downed, they cannot swap their archetype until they are revived.
 
 ### Damage restrictions for downed contestants
-While downed, contestants usually cannot take or deal damage to anything or anyone.
+While downed, contestants usually cannot take or deal damage to anything or anyone. Some contestants with specific archetypes or effects may be exempt from this guideline.
+
+> [!TIP]
+> For example, contestants with the [Undead Consciousness](/standards/inventory/archetypes/undead-consciousness.md) archetype are exempt from this rule.
 
 ### Reviving downed contestants
 Any non-downed contestant can revive a downed contestant, even if they are not on the same team.
+
+### Item restrictions for downed contestants
+When a contestant is downed, they lose any items that they have. Also, they are restricted from getting new items.
+
+### Downed teams
+If all contestants on a team are downed, the round immediately ends [unless there's a tie](#Overtime). This mechanic is to encourage players to destroy structures before eliminating others as this is a _turf war_ and not a _team deathmatch_. 
+
+> [!TIP]
+> For example, if Team 1 is wiped out by Team 2, but Team 2 only made 20% of the damage compared to Team 1's 21% damage, then Team 1 wins the round. 
 
 ## Friendly fire
 Friendly fire, or attacking team members, is allowed by default. 
