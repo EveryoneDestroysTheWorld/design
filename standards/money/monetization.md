@@ -1,5 +1,5 @@
-<!-- # Monetization
-## Developer products
+# Monetization
+<!-- ## Developer products
 <table>
   <thead>
     <tr>
@@ -53,7 +53,7 @@
       <td>Multiplies stage and rule voting power by three.</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ## Premium payouts
-Roblox rewards developers with Robux for engaging Premium players.  -->
+Roblox rewards developers with Robux for engaging Premium players. 
