@@ -9,7 +9,7 @@ There should be a progress indicator that shows the player how far the game is i
 After saving a new stage, the stage will be associated with a unique ID and appear in the owner's stage list. At this point, the stage creator will be able to create and modify a stage name and a description. The name and description should be restricted to a reasonable character limit. Stage creators can change the name and description of their stages at any time.
 
 > [!IMPORTANT]
-> Remember to that the user text is [filtered by Roblox](https://create.roblox.com/docs/reference/engine/classes/Chat#FilterStringForBroadcast). Unfiltered user input could cause [service disruption](https://create.roblox.com/docs/ui/text-filtering).
+> Remember to that the user text is [filtered by Roblox](https://create.roblox.com/docs/reference/engine/classes/TextFilterResult#GetNonChatStringForBroadcastAsync). Unfiltered user input could cause [service disruption](https://create.roblox.com/docs/ui/text-filtering).
 
 ## Autorecovery save
 The game should provide the player with an option to autosave their stage after a specified interval or before risky actions that may cause the player to disconnect from the server.
