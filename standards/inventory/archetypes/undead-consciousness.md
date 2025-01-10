@@ -42,7 +42,7 @@ This archetype has no actions. 👻
 
 ## Effects
 ### Item summoning
-Every 30 seconds while this archetype is active, the player will automatically summon an item to their disposal. They can give summoned items to other contestants. If the player
+Every 30 seconds while this archetype is active, the player will automatically summon an item to their disposal. They can give summoned items to other contestants. If the player switches their archetype, the interval timer should pause until they return to Undead Consciousness.
 
 ### Undead mode
 After the player is downed, you'll be automatically revived in undead mode. You can turn your disqualified allies into zombies too! However, while in this mode, you're still disqualified during the round and the round ends if no one else remains alive in your team.
