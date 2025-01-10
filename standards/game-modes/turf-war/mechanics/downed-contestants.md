@@ -18,7 +18,7 @@ Any non-downed contestant can revive a downed contestant, even if they are not o
 When a contestant is downed, they lose any items that they have. Also, they are restricted from getting new items.
 
 ## Downed teams
-If all contestants on a team are downed, the round immediately ends [unless there's a tie](#Overtime). This mechanic is to encourage players to destroy structures before eliminating others as this is a _turf war_ and not a _team deathmatch_. 
+If all contestants on a team are downed, the round immediately ends [unless there's a tie](./overtime.md). This mechanic is to encourage players to destroy structures before eliminating others as this is a _turf war_ and not a _team deathmatch_. 
 
 > [!TIP]
 > For example, if Team 1 is wiped out by Team 2, but Team 2 only made 20% of the damage compared to Team 1's 21% damage, then Team 1 wins the round. 
