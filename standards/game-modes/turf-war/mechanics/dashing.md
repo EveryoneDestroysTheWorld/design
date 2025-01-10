@@ -1,0 +1,2 @@
+# Dashing
+If a contestant has a specific amount of stamina, they can dash in a direction by pressing a movement button (left, right, up, or down) twice. The contestant will quickly move in a specific direction; however, this will somewhat reduce the contestant's current stamina.

@@ -1,4 +1,4 @@
-# Matchmaking
+# Matchmaking in Turf War
 The player can **matchmake** with other players while they are in the lobby. They can customize the match to their liking and search for players with similar settings, or they can search based on the [round rules](./round-rules.md). 
 
 ## Matchmaking method
