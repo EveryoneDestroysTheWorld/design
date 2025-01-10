@@ -11,6 +11,7 @@
 * Display name (if applicable)
 * Username
 * Current archetype
+* Count of claimed parts
 * Count of destroyed parts
 * Count of repaired parts 
 * Count of knockouts
