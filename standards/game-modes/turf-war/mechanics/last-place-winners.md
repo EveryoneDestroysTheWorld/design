@@ -4,4 +4,4 @@ The contestant who places last on the winning team is at risk of losing. More sp
 > [!TIP]
 > For example, Team 1 consists of Contestants A, B, C, and D, who respectively claimed 4, 3, 2, and 1 parts. Team 2 consists of Contestants E, F, G, and H, who respectively claimed 4, 3, 2, and 0 parts. Team 1 claimed 10 parts, while Team 2 only claimed 9. 
 > 
-> Thus, Team 1 claimed more parts than Team 2, so A, B, and C win the game; however, E collected more parts than D, so E wins while D loses.
+> Team 1 claimed more parts than Team 2, thus A, B, and C win the game; however, E collected more parts than D, so E wins while D loses.
