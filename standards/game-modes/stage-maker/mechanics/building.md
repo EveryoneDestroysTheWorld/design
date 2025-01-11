@@ -1,7 +1,8 @@
 # Building in the Stage Maker
-Stage creators can build their stages with parts. 
+## Parts
+Stage creators can add and delete parts in their stage.
 
-## Modifiable part properties
+### Modifiable part properties
 The following part properties are modifiable:
 * Color
 * CastShadow
@@ -18,7 +19,7 @@ The following part properties are modifiable:
 * RightSurface
 * TopSurface
 
-## Modifiable part attributes
+### Modifiable part attributes
 Stage creators can change the durability levels of their parts, which defines how much damage the part can take before getting [destroyed](/standards/game-modes/turf-war/mechanics/destroyed-parts.md). 
 
 <!-- ### Smooth modeling
