@@ -7,7 +7,7 @@ Each player has an archetype that gives them special powers or weapons to use du
 > Remember the guideline that less is typically better. This ensures that the screen isn't cluttered with action buttons, and ensures similar controls across archetypes.
 
 > [!NOTE]
-> Archetype actions can be triggered by the pointer (touch, virtual cursor, mouse, etc.) in addition to two buttons: the primary and secondary buttons. If you need more, consider adding another action to swap active actions.
+> Archetype actions can be triggered by the pointer (touch, virtual cursor, mouse, etc.) in addition to the primary and secondary buttons, and the number bar (0 – 9). If you need more, consider adding another action to swap active actions.
 
 ## Archetype categories
 ### Destroyer
