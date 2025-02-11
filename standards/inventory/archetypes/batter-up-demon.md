@@ -47,27 +47,27 @@
   <tbody>
     <tr>
       <td>Strike-out Swipe</td>
-      <td>The player swings their bat, slightly knocking back enemies and structures that come in contact.</td>
+      <td>The player swings their bat, knocking back enemies and structures that come in contact. Only available in batter mode.</td>
       <td>Up to TBD damage to enemies and buildings.</td>
-      <td>Press the primary action button. Press and hold to charge, increasing damage and knockback.</td>
+      <td>Press the primary action button. Press and hold to charge, increasing damage and knockback. If the player fully charges i</td>
     </tr>
     <tr>
       <td>Here's the Pitch</td>
-      <td>The player throws their ball.</td>
+      <td>The player throws their ball. Only available in pitcher mode.</td>
       <td>Up to TBD damage to enemies and buildings.</td>
-      <td>Press the secondary action button to throw. Press and hold to charge the throw, increasing damage, accuracy, and knockback.</td>
+      <td>Press the primary action button to throw. Press and hold to charge the throw, increasing damage, accuracy, and knockback.</td>
     </tr>
     <tr>
       <td>Change Ball Type</td>
-      <td>The player swaps their current ball type to a poisonous spiky ball, an electric metal ball, an explosive ball, or just a homing baseball.</td>
-      <td>Changes the ball type used in "Here's the Pitch" and "Foul Ball Blitz".</td>
+      <td>The player swaps their current ball type to a poisonous spiky ball, an electric metal ball, an explosive ball, or just a normal baseball. Only available in pitcher mode.</td>
+      <td>Changes the ball type used in Here's the Pitch.</td>
       <td>Use the hot keys (1, 2, 3, 4) or the UI.</td>
     </tr>
     <tr>
-      <td>Bunt Block</td>
-      <td>The player uses their bat to deflect an incoming attack. Area damage cannot be bunted.</td>
-      <td>Reduces incoming damage by TBD% and knockback by TBD%. Reduces stamina by TBD% per absorbed hit.</td>
-      <td>Press and hold the primary action button with the secondary action button.</td>
+      <td>Swap modes</td>
+      <td>The player swaps from pitcher mode to batter mode, or vice versa.</td>
+      <td>See description.</td>
+      <td>Press the secondary action button.</td>
     </tr>
   </tbody>
 </table>
