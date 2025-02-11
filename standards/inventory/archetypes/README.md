@@ -1,7 +1,5 @@
 # Archetype
-Each player has an archetype that gives them special powers or weapons to use during the match. 
-
-Players can only use one archetype per match.
+Each player has an archetype that gives them special powers or weapons to use during the match.
 
 > [!IMPORTANT]
 > Cap **active** archetype actions to four at most. For example, Batter-Up Demon has at most three active actions, even though there are four total actions.
