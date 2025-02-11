@@ -3,6 +3,14 @@ Each player has an archetype that gives them special powers or weapons to use du
 
 Players can only use one archetype per match.
 
+> [!IMPORTANT]
+> Cap **active** archetype actions to four at most. For example, Batter-Up Demon has at most three active actions, even though there are four total actions.
+>
+> Remember the guideline that less is typically better. This ensures that the screen isn't cluttered with action buttons, and ensures similar controls across archetypes.
+
+> [!NOTE]
+> Archetype actions can be triggered by the pointer (touch, virtual cursor, mouse, etc.) in addition to two buttons: the primary and secondary buttons. If you need more, consider adding another action to swap active actions.
+
 ## Archetype categories
 ### Destroyer
 Destroyers deal heavy damage to structures and the terrain.
