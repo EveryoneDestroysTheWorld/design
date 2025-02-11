@@ -29,7 +29,7 @@
 <table>
 
 ## Ball types
-* **Homing:** Bonk! 
+* **Normal:** Bonk! 
 * **Electric:** Electrocutes any character who touches the metal. 
 * **Poison:** Poisons any character who touches the spikes. 
 * **Explosive:** Explodes on impact.
@@ -62,12 +62,6 @@
       <td>The player swaps their current ball type to a poisonous spiky ball, an electric metal ball, an explosive ball, or just a homing baseball.</td>
       <td>Changes the ball type used in "Here's the Pitch" and "Foul Ball Blitz".</td>
       <td>Use the hot keys (1, 2, 3, 4) or the UI.</td>
-    </tr>
-    <tr>
-      <td>Post-Game Rage</td>
-      <td>The player charges up their bat and swings it at an enemy. If the player misses, they'll be stunned for a bit. But, if they hit, the player and their victim will face up to three half-second quick time events as the player teleports around the victim, attacking them with their different weapons. If the victim completes an event with better timing than the player, they can escape the combo. Gotta be fast with this one!</td>
-      <td>Up to TBD damage per hit. Significantly reduces stamina by TBD%.</td>
-      <td>Press and hold the primary action button.</td>
     </tr>
     <tr>
       <td>Bunt Block</td>
