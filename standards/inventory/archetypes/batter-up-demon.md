@@ -61,7 +61,7 @@
       <td>Change Ball Type</td>
       <td>The player swaps their current ball type to a poisonous spiky ball, an electric metal ball, an explosive ball, or just a normal baseball. Only available in pitcher mode.</td>
       <td>Changes the ball type used in Here's the Pitch.</td>
-      <td>Use the hot keys (1, 2, 3, 4) or the UI.</td>
+      <td>Use the number bar (1, 2, 3, 4) or the UI.</td>
     </tr>
     <tr>
       <td>Swap modes</td>
