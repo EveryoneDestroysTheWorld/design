@@ -12,7 +12,6 @@ Each player has an archetype that gives them special powers or weapons to use du
 ## Archetype categories
 ### Destroyer
 Destroyers deal heavy damage to structures and the terrain.
-* [Explosive Mimicry](./explosive-mimicry.md)
 
 ### Fighter
 Fighters deal more damage to enemies than structures.
