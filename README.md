@@ -12,7 +12,7 @@ These are the design principles that the designers should go by for this game. A
 ## Contributing
 ### Design updates
 1. Search for an issue that addresses the update.
-2. If there isn't an issue, create create an issue describing the feature that you want to add, update, or remove. 
+2. If there isn't an issue, create an issue describing the feature that you want to add, update, or remove. 
 3. After receiving approval from the game designers, create a pull request with your changes and point to the [`staging`](https://github.com/EveryoneDestroysTheWorld/design/tree/staging) branch.
 
 ### Typo fixes
